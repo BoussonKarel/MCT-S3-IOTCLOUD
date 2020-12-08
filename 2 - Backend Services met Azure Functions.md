@@ -8,6 +8,17 @@
 - ...
 - Technologie: HTML, CSS, JS, PHP / ASP / JAVA
 ![](https://i.imgur.com/9C0b2Vj.png)
+
+## The Internet of Services
+- Connectiviteit
+  - Driving factor mobile apps
+  - Cross platform
+  - Data op makkelijke manier uitwissen
+  - Functionaliteit makkelijk aanroepen
+  - Centraal staan Cloud platforms
+  - REST Based
+
+## The Internet of Things
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM5NzY5NSwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbMTE4NzY1NDc2NywtMjEyOTkxNDA5XX0=
 -->
