@@ -200,7 +200,29 @@ Scale Out
 
 | Serverless Managed Database | SQL Managed Instance | SQL Virtual Machine |
 | -- | -- | -- |
+
+- SQL Server Cloud Based
+  - Compatible met SQL Server 2012
+  - Te beheren via Enterprise Manager
+  - Werkt zoals een gewone SQL Server
+  - Connecteren is mogelijk via
+•
+.NET
+•
+Python
+•
+PHP
+•
+Node
+•
+…
+•
+High Availability
+•
+Replicatie over drie servers (default)
+•
+Automatic Back-ups
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjkzNTA4LC0xNzkxNTk5NzU4LDE5MT
+eyJoaXN0b3J5IjpbOTgzNDcxNjMxLC0xNzkxNTk5NzU4LDE5MT
 M1MTQwMF19
 -->
