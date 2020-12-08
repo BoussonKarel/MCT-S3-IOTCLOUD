@@ -172,7 +172,10 @@ In de praktijk: Subscription per klant
 | -- | -- |
 |Vertical Scaling | Horizontal Scaling |
 | = Servers krachtiger maken, meer memory en CPU | = Meerdere machines, maar minder krachtig |
+| + Minder energie dan SO | + Goedkoper |
+| + Eenvoudiger te implementeren | + Betere bescherming (hardware failure) |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbNzk0Mzk1MjA1LDE5MTM1MTQwMF19
 -->
