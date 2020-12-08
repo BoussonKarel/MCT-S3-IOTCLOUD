@@ -217,11 +217,12 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
     - Geen connectie info
     - Geen database namen
     - Geen SQL statements
+    - Geen except
     - ...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0MDc0MTEwLDY0NDE2NjM5OSw4NjE2OD
+eyJoaXN0b3J5IjpbNTA5MjQ2NDczLDY0NDE2NjM5OSw4NjE2OD
 YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
 LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
