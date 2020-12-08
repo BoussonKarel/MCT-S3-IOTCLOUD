@@ -174,9 +174,9 @@ Scale Up
 : Vertical Scaling
 : Server krachtiger maken, meer memory en CPU
 
-- ✅ Minder energie dan Scale Out
-- ✅ Eenvoudiger de implementeren
-- ✅ Minder licenties (n.v.t. voor Azure Web App)
++ ✅ Minder energie dan Scale Out
++ ✅ Eenvoudiger de implementeren
++ ✅ Minder licenties (n.v.t. voor Azure Web App)
 - ❌ Duurder
 - ❌ Hardware failure => Toepassing down
 
@@ -184,14 +184,16 @@ Scale Out
 : Horizontal Scaling
 : Meerdere machines, maar minder krachtig
 
-- ✅ Goedkoper
-- ✅ Betere bescherming (hardware failure)
-+ ❌ Meer licenties (n.v.t. voor Azure Web App)
-+ ❌ Meer plaats in datacenter
-+ ❌ Meer energy
-+ ❌ Complexer netwerk
++ ✅ Goedkoper
++ ✅ Betere bescherming (hardware failure)
+- ❌ Meer licenties (n.v.t. voor Azure Web App)
+- ❌ Meer plaats in datacenter
+- ❌ Meer energy
+- ❌ Complexer netwerk
 - ❌ Soms toepassingen aanpassen
 
+## Azure SQL
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE0MTU4MTksMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbLTE3OTE1OTk3NTgsMTkxMzUxNDAwXX0=
 -->
