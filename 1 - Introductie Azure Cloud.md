@@ -90,19 +90,20 @@ Portal gebruikt voor het beheren van Cloud services en applicaties.
 
 ### Azure Subscription
 **Abonnement** 
-Zal bepalen hoe ze factureren
+: Zal bepalen hoe ze factureren
 
-  - Credits op voorhand
+- Credits op voorhand
   - Pay by use
 
 In de praktijk: Subscription per klant
 
 ## Resource Group
 ![Account, Subscription, Resource groups](https://i.imgur.com/C4WiSOx.png)
-**Logische container**
-  : Per project
-- Per soort service (Storage; Webservers; Fileservers; SQL, Blob...)
-- *Kies je zelf*
+
+Logische container
+: Per project
+: Per soort service *(Storage; Webservers; Fileservers; SQL, Blob...)*
+: ...
 
 + Container met inhoud in één keer verwijderen
 + Toegangsrechten per container
@@ -180,5 +181,5 @@ term
 : wow
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYyMDY5NDQsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbMzcyMzk5MzgyLDE5MTM1MTQwMF19
 -->
