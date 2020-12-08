@@ -251,9 +251,14 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   + Hacker kan factuur doen oplopen: constant aanroepen
   + Andere gebruikers: tragere API
 
+- Drie soorten security
+  - Anonymous: iedereen
+  - Function: *function key via URL*
+  - Admin: *admin key via URL*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTMyMDUwMiw2NDQxNjYzOTksODYxNj
-g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
-OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbMjY1Nzg2ODg4LDY0NDE2NjM5OSw4NjE2OD
+YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
+LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
