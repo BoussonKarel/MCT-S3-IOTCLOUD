@@ -36,7 +36,15 @@
   - Bitcoin
   - Cryptocurrencies
 
-- Onderliggende technologie veel belangrijker
++ Onderliggende technologie veel belangrijker
+  + Blockchain
+    + Distributed ledger (grootboek)
+    + Registreren transacties
+    + Elke transactie: verwijzing naar vorige transacties (chain)
+
+- Blockchain (public, gratis, open)
+
++ Private blockchain mogelik
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjk2MDc1NCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbODc5NzUyMzIyLC0yMTI5OTE0MDldfQ==
 -->
