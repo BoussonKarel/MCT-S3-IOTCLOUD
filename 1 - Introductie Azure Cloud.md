@@ -186,9 +186,12 @@ Scale Out
 
 - [x] Goedkoper
 - [x] Betere bescherming (hardware failure)
-- [ ] Duurder
-- [ ] Hardware failure => Toepassing down
+- ❌ Meer licenties (n.v.t. voor Azure Web App)
+❌ Meer plaats in datacenter
+❌ Meer energy
+❌ Complexer netwerk
+❌ Soms toepassingen aanpassen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDcyODY0MywxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE0MDcxMDIzMjEsMTkxMzUxNDAwXX0=
 -->
