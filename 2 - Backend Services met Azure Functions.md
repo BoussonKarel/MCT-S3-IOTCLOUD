@@ -183,17 +183,16 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 | /api/users/1 | **OK**: meervoud resource naam + id van user |
 
 ### HTTP GET
-/api/users
-: Zal alle gebruikers opleveren
-: Database zal SELECT uitvoeren
-: Data is **read only**
-: Return status code: 200 OK
+- Database zal SELECT uitvoeren
+- Data is **read only**
+- Return status code:
+  - 200 OK + body met opgevraagd object
 
 ### HTTP POST
 - Database zal INSERT uitvoeren
 - Data doorsturen **via body** in JSON
 - Return status code:
-  - 200 OK + body met toegevoegde obejct
+  - 200 OK + body met toegevoegde object
 
 ### HTTP PUT
 - Database zal UPDATE uitvoeren
@@ -211,18 +210,20 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 ---
 - Wat als er iets fout loopt?
   - Wat terugkeren?
-  - NOOIT exceptions of interne foutmeldingen terugkeren
   - Internam Server Error 500 + informatie die je zelf opstelt
   - Denk na welke info:
     - Geen connectie info
     - Geen database namen
     - Geen SQL statements
-    - Geen except
+    - Geen exceptions / interne foutmeldingen
     - ...
-
+---
+- Webservices zijn **stateless**
+  - GEEN state van de client bijhouden aan server kant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MjQ2NDczLDY0NDE2NjM5OSw4NjE2OD
-YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
-LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTE2OTA3NDU4MDQsNjQ0MTY2Mzk5LDg2MT
+Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
+OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
+==
 -->
