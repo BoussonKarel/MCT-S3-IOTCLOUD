@@ -94,14 +94,17 @@ OSI: *Application Layer*
 | User-Agent | Wie doet het request? |
 | Acept | Welk type data kan de client ontvangen? |
 
+### HTTP Response
 ![HTTP Response header](https://i.imgur.com/wlm67pP.png)
 | Belangrijkste header info ||
 |--|--|
 | 200 OK | Status code |
 | Content-Type | Type info *(bv. text/html)* |
 | Inhoud | *Bv. HTML code* |
+![HTTP Response content](https://i.imgur.com/Nh5aFHU.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNDE3NzIsLTE4ODQxNjA2NzQsMTk2NT
-I3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTk4NTE4NzYwNiwtMTg4NDE2MDY3NCwxOT
+Y1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
