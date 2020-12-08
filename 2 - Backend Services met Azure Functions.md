@@ -157,13 +157,21 @@ Functies die we kunnen aanroepen via het internet.
 ![JSON format](https://i.imgur.com/UQISVsI.png)
 
 Complexe JSON
-- Een key kan als value terug een JSON bevatten
+- Value kan terug een JSON bevatten
+- Daarbinnen terug een key met nieuwe JSON string
+- Zoveel nesten als je wil
+
+![Complexere JSON: nesten](https://i.imgur.com/CRw5mfX.png)
+
+Complexe JSON Arrays
+- Wanneer er meerdere JSON objecten zijn spreken we van een array
+- Dee
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgxMzIyNjcsODYxNjg2MzE4LDIwNz
-I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
-MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbLTU3MzcwNTk2OSw4NjE2ODYzMTgsMjA3Mj
+c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
+Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
