@@ -119,16 +119,17 @@ Functies die we kunnen aanroepen via het internet.
 - Opvragen van data via het internet
 - Devices aanspreekbaar maken via het internet
 - Protocol is default (HTTP)
-- Technologie onafhankelijk (Java, C#, PHP, Python)
-- Platform onafhankelijk *(Windows, Linux, Android, iOS...)*
+- Technologie onafhankelijk
+  - *Java, C#, PHP, Python*
+- Platform onafhankelijk
+  - *Windows, Linux, Android, iOS...*
 - 2 protocollen
   - SOAP
   - REST
 - Datatransport via
-  - XML
-  - JSON
+  - *XML, JSON...*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTA5NTU4NCwtMTQzNjgzODk5OCwxND
-MwOTMxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkx
-NDA5XX0=
+eyJoaXN0b3J5IjpbMjM0Mzc3MzIzLC0xNDM2ODM4OTk4LDE0Mz
+A5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0
+MDldfQ==
 -->
