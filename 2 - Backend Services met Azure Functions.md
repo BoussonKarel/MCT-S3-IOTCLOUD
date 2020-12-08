@@ -151,10 +151,15 @@ Functies die we kunnen aanroepen via het internet.
 - Eenvoudig + zeer licht
 - Alles tussen { }
 - Lower-case key
-- key:value
-  - 
+- "key":value
+  - Key tussen quotes
+  - Scheiden door een :
+  - Value tussen quotes indien string
+  - Scheiden door komma
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzA0NjM3MCw4NjE2ODYzMTgsMjA3Mj
-c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
-Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTE1OTA4ODI5MDAsODYxNjg2MzE4LDIwNz
+I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
+MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
