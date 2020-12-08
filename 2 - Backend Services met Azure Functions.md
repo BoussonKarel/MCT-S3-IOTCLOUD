@@ -107,14 +107,15 @@ OSI: *Application Layer*
 - Sinds 2015 actief
 - High-level compatibility with HTTP/1.1
   - Methods, status codes, URIs and header fields.
-- Request multiplexing over a single TCP connection
-  - Meerdere requests in parallel mogelijk over 1 tcpconnection
-  - Asychroondownloadenvan meerderebestandenmogelijk
+- Request multiplexing over single TCP connection
+  - Meerdere requests parallel over 1 TCP connectie
+  - Asychroon downloaden van meerdere bestanden
 - Header Compression
-- BinaryProtocol (HTTP/1.1 is tekst protocol)
+- Binary Protocol (HTTP/1.1 is tekst protocol)
 - HTTP/2 Server push
 
+## Wat zijn nu webservices?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEzNTYwMjksLTE4ODQxNjA2NzQsMT
-k2NTI3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbMTQzMDkzMTM5OCwtMTg4NDE2MDY3NCwxOT
+Y1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
