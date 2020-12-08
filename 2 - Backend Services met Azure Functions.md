@@ -149,21 +149,21 @@ Functies die we kunnen aanroepen via het internet.
 ### JSON
 **J**ava**S**cript **O**bject **N**otation
 - Eenvoudig + zeer licht
-- Alles tussen { }
-- Lower-case key
-- "key":value
-  - Key tussen quotes
-  - Scheiden door een :
-  - Value tussen quotes indien string
-  - Scheiden door komma
+- Alles tussen {}
+- key:value
+  - Key met quotes
+  - (key:value) pairs scheiden met komma
 
 ![JSON format](https://i.imgur.com/UQISVsI.png)
+
+Complexe JSON
+- Een key kan als value terug een JSON bevatten
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3ODQxMjI0LDg2MTY4NjMxOCwyMDcyNz
-YwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2
-NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTExNTgxMzIyNjcsODYxNjg2MzE4LDIwNz
+I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
+MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
