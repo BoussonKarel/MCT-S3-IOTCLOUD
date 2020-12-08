@@ -233,8 +233,12 @@ Het onderbreken van database communicatie omdat je teveel resources gebruikt.
 Niet vanbuiten kennen.
 
 ## Azure Database for MySQL
+- Toegang via MySQL Workbench
+- Werkt zoals een gewone MySQL
+- Geen eigen servers
+- Automatische back-up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEzMzk3NDIsLTg1OTkxNjI5MiwtMT
-QxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2
-NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbMjE3ODIwMzM4LC04NTk5MTYyOTIsLTE0MT
+g5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2
+MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
 -->
