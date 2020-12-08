@@ -142,11 +142,19 @@ Functies die we kunnen aanroepen via het internet.
 
 - Alle voorgaandevoorbeelden:
   - Maken gebruik van HTTP
-  - GET/POST Request naardevice
+  - GET/POST Request naar device
   - In de body van het request JSON data
   - Cross-platform
+
+### JSON
+**J**ava**S**cript **O**bject **N**otation
+- Eenvoudig + zeer licht
+- Alles tussen { }
+- Lower-case key
+- key:value
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTEzMzExNyw4NjE2ODYzMTgsMjA3Mj
+eyJoaXN0b3J5IjpbMTI3NzA0NjM3MCw4NjE2ODYzMTgsMjA3Mj
 c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
 Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
