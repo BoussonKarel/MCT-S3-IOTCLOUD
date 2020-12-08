@@ -225,11 +225,16 @@ Hoe meer DTU, hoe meer power, hoe duurder
 
 ## Throttling
 Het onderbreken van database communicatie omdat je teveel resources gebruikt.
-
 *Zelf voor retry zorgen.*
 
+![Throttling types](https://i.imgur.com/1R4Y5Zw.png)
+
+![Throttling modes](https://i.imgur.com/t4mYuN2.png)
+Niet vanbuiten kennen.
+
+## Azure Database for MySQL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMj
-QwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5
-NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbLTEwNDEzMzk3NDIsLTg1OTkxNjI5MiwtMT
+QxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2
+NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
