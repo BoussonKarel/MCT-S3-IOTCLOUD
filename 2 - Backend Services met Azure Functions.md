@@ -86,15 +86,16 @@ OSI: *Application Layer*
 - Defacto standaard: zonder HTTP niet in productie plaatsen.
 
 ### HTTP Request
-![](https://i.imgur.com/gnjdSnE.png)
-| Verb | |
+![HTTP Reque](https://i.imgur.com/gnjdSnE.png)
+|||
 |--|--|
-| GET | Informatief |
-| **2xx** | Succes |
-| **3xx** | Redirection |
-| **4xx** | Client error |
-| **5xx** | Server error |
+| GET | HTTP Verb |
+| Host | De server |
+| User-Agent | Wie doet het request? |
+| Acept | Welk type data kan de client ontvangen? |
+
+![HTTP Response header](https://i.imgur.com/wlm67pP.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
-I5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbMTk4MTk4Njc0OCwtMTg4NDE2MDY3NCwxOT
+Y1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
