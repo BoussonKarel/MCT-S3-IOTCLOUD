@@ -93,9 +93,10 @@ Portal gebruikt voor het beheren van Cloud services en applicaties.
 : Zal bepalen hoe ze factureren
 
 - Credits op voorhand
-  - Pay by use
+- Pay by use
 
-In de praktijk: Subscription per klant
++ *In de praktijk: Subscription per klant*
+
 
 ## Resource Group
 ![Account, Subscription, Resource groups](https://i.imgur.com/C4WiSOx.png)
@@ -181,5 +182,5 @@ term
 : wow
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMzk5MzgyLDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbLTE3NzY0NjMxOTUsMTkxMzUxNDAwXX0=
 -->
