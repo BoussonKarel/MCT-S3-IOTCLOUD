@@ -285,11 +285,19 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 ## What's Next
 - Welke nieuwe technologieën volgen?
   - GraphQL
+    - Query Taal voor API
+    - Queries doorsturen naar de API die resultaten zal terugkeren
+    - In volle ontwikkeling
   - gRPC
+    - Open Source Remote Procedure Framework
+    - We roepen methodes aan op remote servers
+    - Platform onafhankelijk en open source
+    - Enkel HTTP/2
 
+## Azure Functions Aanroepen
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU0NzQ4NDMsNjQ0MTY2Mzk5LDg2MT
-Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
-OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
-==
+eyJoaXN0b3J5IjpbLTkwNjY5NjMzMSw2NDQxNjYzOTksODYxNj
+g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
+OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
