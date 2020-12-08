@@ -248,8 +248,14 @@ Niet vanbuiten kennen.
 |Azure Streaming Analytics | Verwerken van events afkomstig van Event Hubs en IoT hub |
 *Event Hubs en IoT hub kunnen miljoenen berichten per seconden aan.*
 
+![Microsoft Services](https://i.imgur.com/UwgLGFE.png)
+
+## Azure CLI
+Azure Portal
+: Dagelijks gebruik
+: Niet makkelijk te au
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ0NjcxMDUsLTE4NTU2NjkzNjEsLT
+eyJoaXN0b3J5IjpbLTE2MzIxMjIxNzgsLTE4NTU2NjkzNjEsLT
 g1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4
 NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF
 19
