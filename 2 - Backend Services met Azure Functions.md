@@ -66,8 +66,11 @@ OSI: *Application Layer*
 **HTTP Verb**
 | Verb | |
 |--|--|
-| GET | Ophalen data (safe, wijzigt niks
+| **GET** | Ophalen data (safe, wijzigt niks) (**SELECT**) |
+| **POST** | Toevoegen data (**INSERT**) |
+| **PUT** | Idempotent > Meerdere requests > Zelfde effect (**UPDATE**) |
+| **DELETE** | Idempotent > Meerdere requests > Zelfde effect (**DELETE**) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTA1OTU0OSwxOTY1Mjc4MTgsLTIxMj
+eyJoaXN0b3J5IjpbMTIzMzI4NTA5NSwxOTY1Mjc4MTgsLTIxMj
 k5MTQwOV19
 -->
