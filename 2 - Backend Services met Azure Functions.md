@@ -295,9 +295,34 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
     - Enkel HTTP/2
 
 ## Azure Functions Aanroepen
-## 
+### Raspberry Pi
+Python: requests library
+
+**GET**
+```python
+import requests
+url = "..."
+ret = requests.get(url)
+print(ret.status_code)
+print(ret.text)
+```
+> 200
+> "Hello again Python"
+
+**POST**
+```python
+import requests
+i
+url = "..."
+ret = requests.get(url)
+print(ret.status_code)
+print(ret.text)
+```
+> 200
+> "Hello again Python"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjY5NjMzMSw2NDQxNjYzOTksODYxNj
-g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
-OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbLTE4MTM4MDkyNjEsNjQ0MTY2Mzk5LDg2MT
+Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
+OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
+==
 -->
