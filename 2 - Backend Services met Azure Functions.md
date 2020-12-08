@@ -204,12 +204,11 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 : Return status code: 200 OK + body met gewijzigde object
 
 ### HTTP DELETE
-/api/users/3
-: Zal gebruiker verwijderen a.d.h.v. id
-: Database zal DELETE uitvoeren
-: Data doorsturen **via body** in JSON
-: Return status code: 200 OK + body met verwijderde object
-: OF 204 OK + No Content
+- Database zal DELETE uitvoeren
+- Data doorsturen **via body** in JSON
+- Return status code:
+  - 200 OK + body met verwijderde object
+  - 204 OK + No Content
 
 ---
 - Wat als er iets fout loopt?
@@ -220,9 +219,11 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
     - Geen connectie info
     - Geen database namen
     - Geen SQL statements
-    - 
+    - ...
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDY1NDI0Nyw2NDQxNjYzOTksODYxNj
+eyJoaXN0b3J5IjpbMTExNjk2ODY5NSw2NDQxNjYzOTksODYxNj
 g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
 OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
