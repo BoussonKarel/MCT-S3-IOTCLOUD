@@ -59,8 +59,15 @@ OSI: *Application Layer*
 - Request meestal afkomstig v/e webbrowser, maar ook smartphone, IoT device
 - HTTP zal bepalen hoe een request en response er moeten uitzien
 - HTTP bevat een aantal commando's (HTTP verbs)
-- 
+- HTTP is stateless, houdt geen rekening met voorgaande requests
+- HTTP is niet sessionless, we kunnen cookies gebruiken om data bij te houden
+- HTTP is relatief eenvoudig
+
+**HTTP Verb**
+| Verb | |
+|--|--|
+| GET | Ophalen data (safe, wijzigt niks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODUwNTg3NCwxOTY1Mjc4MTgsLTIxMj
+eyJoaXN0b3J5IjpbMTk2MTA1OTU0OSwxOTY1Mjc4MTgsLTIxMj
 k5MTQwOV19
 -->
