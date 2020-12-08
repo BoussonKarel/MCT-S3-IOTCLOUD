@@ -193,7 +193,14 @@ Scale Out
 - ❌ Soms toepassingen aanpassen
 
 ## Azure SQL
+- SQL Server Database op Cloud platform
+- Zelf geen hardware/software aankopen
+- Niet verantwoordelijk voor backups
+- Eenvoudig schalen bij zware loads
 
+| Serverless Managed Database | SQL Managed Instance | SQL Virtual Machine |
+| -- | -- | -- |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE1OTk3NTgsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbLTY3MjkzNTA4LC0xNzkxNTk5NzU4LDE5MT
+M1MTQwMF19
 -->
