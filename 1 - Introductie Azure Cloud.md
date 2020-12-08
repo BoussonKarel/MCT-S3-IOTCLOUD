@@ -98,9 +98,9 @@ Zal bepalen hoe ze factureren
 In de praktijk: Subscription per klant
 
 ## Resource Group
-**Logische container**
 ![Account, Subscription, Resource groups](https://i.imgur.com/C4WiSOx.png)
-- Per project
+**Logische container**
+  : Per project
 - Per soort service (Storage; Webservers; Fileservers; SQL, Blob...)
 - *Kies je zelf*
 
@@ -175,7 +175,10 @@ In de praktijk: Subscription per klant
 | + Minder energie dan SO | + Goedkoper |
 | + Eenvoudiger te implementeren | + Betere bescherming (hardware failure) |
 
+term  
+: definition
+: wow
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0Mzk1MjA1LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbLTExNjYyMDY5NDQsMTkxMzUxNDAwXX0=
 -->
