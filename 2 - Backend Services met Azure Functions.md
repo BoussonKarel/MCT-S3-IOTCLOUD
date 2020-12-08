@@ -165,13 +165,16 @@ Complexe JSON
 
 Complexe JSON Arrays
 - Wanneer er meerdere JSON objecten zijn spreken we van een array
-- Dee
+- Deze plaatsen we tussen []
+- Value kan een array van JSON objecten zijn
+
+![Complexere JSON: list](https://i.imgur.com/DV4AXjg.png)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzcwNTk2OSw4NjE2ODYzMTgsMjA3Mj
+eyJoaXN0b3J5IjpbLTI0MzMwMTUyMyw4NjE2ODYzMTgsMjA3Mj
 c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
 Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
