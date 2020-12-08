@@ -85,8 +85,10 @@ OSI: *Application Layer*
 - Geen beveiliging van de data
 - Defacto standaard: zonder HTTP niet in productie plaatsen.
 
-
+### HTTP Request
+![](https://i.imgur.com/gnjdSnE.png)
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NDk4NDAxLDE5NjUyNzgxOCwtMjEyOT
-kxNDA5XX0=
+eyJoaXN0b3J5IjpbLTEwOTIyMTY5ODMsMTk2NTI3ODE4LC0yMT
+I5OTE0MDldfQ==
 -->
