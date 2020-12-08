@@ -222,8 +222,14 @@ Database Transaction Units
 : I/O
 
 Hoe meer DTU, hoe meer power, hoe duurder
+
+## Throttling
+Het onderbreken van database communicatie omdat je teveel resources gebruikt.
+
+*Zelf voor retry zorgen.*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzA5MTUxNCwtMTQxODkzOTQ4NCwtMj
+eyJoaXN0b3J5IjpbLTg1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMj
 QwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5
 NzU4LDE5MTM1MTQwMF19
 -->
