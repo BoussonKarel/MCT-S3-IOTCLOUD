@@ -105,15 +105,16 @@ OSI: *Application Layer*
 
 ## HTTP/2
 - Sinds 2015 actief
-- High-level compatibility with HTTP/1.1 —methods, status codes, URIs and header fields. !!! Belangrijk
-Request multiplexing over a single TCP connection
-Meerdererequest in parallel mogelijkover 1 tcpconnection
-Asychroondownloadenvan meerderebestandenmogelijk
-Header Compression
-BinaryProtocol (HTTP/1.1 is tekst protocol)
-HTTP/2 Server push
+- High-level compatibility with HTTP/1.1 —methods, status codes, URIs and header fields. !!!
+- Belangrijk
+- Request multiplexing over a single TCP connection
+  - Meerdererequest in parallel mogelijkover 1 tcpconnection
+  - Asychroondownloadenvan meerderebestandenmogelijk
+- Header Compression
+- BinaryProtocol (HTTP/1.1 is tekst protocol)
+- HTTP/2 Server push
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMDY3NDgxLC0xODg0MTYwNjc0LDE5Nj
-UyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTE1MTU1MDM1NzYsLTE4ODQxNjA2NzQsMT
+k2NTI3ODE4LC0yMTI5OTE0MDldfQ==
 -->
