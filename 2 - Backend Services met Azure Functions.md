@@ -220,10 +220,22 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 ---
 - Webservices zijn **stateless**
   - GEEN state van de client bijhouden aan server kant
+  - GEEN sessies gebruiken
+  - Bij iedere request alle info meesturen
+  - Iedere request is onafhankelijk van elkaar
+  - Verhoogt de schaalbaarheid
+  - Eenvoudiger applicatiedesign
+
+## Hoe maken we Webservices
+- Aanwezig in ieder platform
+- PHP
+  - Laravel, Lumen, Wave...
+- Python
+  -
+- .NET
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA3NDU4MDQsNjQ0MTY2Mzk5LDg2MT
-Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
-OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
-==
+eyJoaXN0b3J5IjpbNjg0ODg0Mjg5LDY0NDE2NjM5OSw4NjE2OD
+YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
+LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
