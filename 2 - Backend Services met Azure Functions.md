@@ -245,10 +245,15 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   - Ondersteuning verschillende talen
   - Snel en eenvoudig schaalbaar
 
+### Azure Functions Security
++ Iedereen kan functie aanspreken
+  + Geen controle over wie wat doet
+  + Hacker kan factuur doen oplopen: constant aanroepen
+  + Andere gebruikers: tragere API
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzAzMDUzNCw2NDQxNjYzOTksODYxNj
+eyJoaXN0b3J5IjpbMTAzMTMyMDUwMiw2NDQxNjYzOTksODYxNj
 g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
 OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
