@@ -72,7 +72,7 @@ OSI: *Application Layer*
 | **DELETE** | Idempotent > Meerdere requests > Zelfde effect (**DELETE**) |
 
 #### HTTP Status codes
-| Verb | |
+| Status code| Betekenis |
 |--|--|
 | **1xx** | Informatief |
 | **2xx** | Succes |
@@ -87,8 +87,14 @@ OSI: *Application Layer*
 
 ### HTTP Request
 ![](https://i.imgur.com/gnjdSnE.png)
-|
+| Verb | |
+|--|--|
+| GET | Informatief |
+| **2xx** | Succes |
+| **3xx** | Redirection |
+| **4xx** | Client error |
+| **5xx** | Server error |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIyMTY5ODMsMTk2NTI3ODE4LC0yMT
+eyJoaXN0b3J5IjpbLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
 I5OTE0MDldfQ==
 -->
