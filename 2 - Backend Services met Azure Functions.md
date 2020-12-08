@@ -183,15 +183,20 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 | /api/users/1 | **OK**: meervoud resource naam + id van user |
 
 ### HTTP GET
-/api/users/1
+/api/users
 : Zal alle gebruikers opleveren
-Database zal SELECT uitvoeren
-Data is **read only**
-Return: 
+: Database zal SELECT uitvoeren
+: Data is **read only**
+: Return status code: 200 OK
 
-
+### HTTP POST
+/api/users
+: Zal één gebruiker toevoegen
+: Database zal INSERT uitvoeren
+: Data doorsturen **via body** in JSON
+: Return status code: 200 OK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQyNTExMjcsODYxNjg2MzE4LDIwNz
-I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
-MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbNjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNz
+YwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2
+NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
 -->
