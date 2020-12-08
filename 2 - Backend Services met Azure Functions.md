@@ -270,9 +270,12 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 - ❌ Key moet in applicatie zitten
 - ❌ Veel gebruikers: key management
 
-+ Oplossing: Active Directory B2C referenc
++ Oplossing: Azure Active Directory B2C
++ JWT Tokens
++ Inloggen via Facebook, Twitter, Google, Microsoft...
+### Azure Functions Security
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODUwOTQ3OSw2NDQxNjYzOTksODYxNj
+eyJoaXN0b3J5IjpbLTk1MTIxODE5MSw2NDQxNjYzOTksODYxNj
 g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
 OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
