@@ -86,8 +86,8 @@ OSI: *Application Layer*
 - Defacto standaard: zonder HTTP niet in productie plaatsen.
 
 ### HTTP Request
-![HTTP Reque](https://i.imgur.com/gnjdSnE.png)
-|||
+![HTTP Request header](https://i.imgur.com/gnjdSnE.png)
+| Belangrijkste header info ||
 |--|--|
 | GET | HTTP Verb |
 | Host | De server |
@@ -95,7 +95,13 @@ OSI: *Application Layer*
 | Acept | Welk type data kan de client ontvangen? |
 
 ![HTTP Response header](https://i.imgur.com/wlm67pP.png)
+| Belangrijkste header info ||
+|--|--|
+| 200 OK | Status code |
+| Content-Type | Type info *(bv. text/html)* |
+| Inhoud | *Bv. HTML code* |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTk4Njc0OCwtMTg4NDE2MDY3NCwxOT
-Y1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbNzQzNDE3NzIsLTE4ODQxNjA2NzQsMTk2NT
+I3ODE4LC0yMTI5OTE0MDldfQ==
 -->
