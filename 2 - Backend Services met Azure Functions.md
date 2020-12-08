@@ -267,9 +267,12 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   + Interne Android / iOS (app niet publiek)
   + Interne web apps
 
-- 
+- ❌ Key moet in applicatie zitten
+- ❌ Veel gebruikers: key management
+
++ Oplossing: Active Directory B2C referenc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Nzk5NjgyMyw2NDQxNjYzOTksODYxNj
+eyJoaXN0b3J5IjpbLTcyODUwOTQ3OSw2NDQxNjYzOTksODYxNj
 g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
 OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
