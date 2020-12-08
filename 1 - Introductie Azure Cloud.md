@@ -239,9 +239,14 @@ Niet vanbuiten kennen.
 - Automatische back-up
 
 ## Azure & Internet of Things
-
+Waarom is Azure belangrijk voor IoT?
+|
+- Azure Event Hubs
+- Azure IoT Hub
+- Azure Streaming analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMT
-QxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2
-NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbLTExMzk2NjE5OTAsLTE4NTU2NjkzNjEsLT
+g1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4
+NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF
+19
 -->
