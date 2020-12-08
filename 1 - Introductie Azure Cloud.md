@@ -253,10 +253,21 @@ Niet vanbuiten kennen.
 ## Azure CLI
 Azure Portal
 : Dagelijks gebruik
-: Niet makkelijk te au
+: Niet makkelijk te automatiseren
+: Wat bij 100 sites?
+: Wat bij 50 servers?
+
+Oplossing: Azure CLI 2.0
+: Commandline > Resources aanmaken
+: Makkelijk via scripts
+: Ideaal voor DevOps
+
+## Bash / Powershell
+Bash commandline in portal
+Alles wat je via UI kan, kan via commandline in p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIxMjIxNzgsLTE4NTU2NjkzNjEsLT
-g1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4
-NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF
-19
+eyJoaXN0b3J5IjpbLTgwNTU0Mjg5OCwtMTg1NTY2OTM2MSwtOD
+U5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5ODMsLTYwOTg0
+MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkxMzUxNDAwXX
+0=
 -->
