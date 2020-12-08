@@ -194,9 +194,9 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 : Zal één gebruiker toevoegen
 : Database zal INSERT uitvoeren
 : Data doorsturen **via body** in JSON
-: Return status code: 200 OK
+: Return status code: 200 OK + body met toegevoegde obejct
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNz
-YwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2
-NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbNzMzODY4NDkzLDY0NDE2NjM5OSw4NjE2OD
+YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
+LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
