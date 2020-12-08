@@ -170,11 +170,22 @@ Complexe JSON Arrays
 
 ![Complexere JSON: list](https://i.imgur.com/DV4AXjg.png)
 
+### URI
+Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
+- Gebruik geen spaties in de URL
+- Gebruik meervoud voor resource namen
+- Geen hoofdletters
+- Gebruik geen HTTP Verb om operatie aan te duiden (in URL)
+
+| UR
+| http://localhost:8080/UserManagement/rest/UserService/getUser/1 | |
+http://localhost:8080/usermanagement/rest/userservice/users/1
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzMwMTUyMyw4NjE2ODYzMTgsMjA3Mj
+eyJoaXN0b3J5IjpbLTE1MDA1NzkxOCw4NjE2ODYzMTgsMjA3Mj
 c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
 Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
