@@ -210,8 +210,8 @@ Scale Out
     - Replicatie over drie servers (default)
     - Automatic Back-ups
 
- 
+ +
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OT
-E1OTk3NTgsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNz
+YxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
 -->
