@@ -50,7 +50,14 @@
   + Smart Contracts
 
 ## Hoe werkt HTTP?
+### HTTP
+OSI: *Application Layer*
 
+HyperText Transfer Protocol
+: Onderliggende protocol waarop Internet werkt
+: Opvragen van tekst, bestanden vanaf servers
+: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTE0OTkzNDc0NTYsMTk2NTI3ODE4LC0yMT
+I5OTE0MDldfQ==
 -->
