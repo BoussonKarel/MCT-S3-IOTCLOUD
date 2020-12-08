@@ -177,15 +177,16 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 - Geen hoofdletters
 - Gebruik geen HTTP Verb om operatie aan te duiden (in URL)
 
-| UR
-| http://localhost:8080/UserManagement/rest/UserService/getUser/1 | |
-http://localhost:8080/usermanagement/rest/userservice/users/1
+| URL | OK/NOK |
+|--|--|
+| /api/v1/getUser/1 | NOK: operatienaam in URL + hoofdletters|
+| /api/v1/users/1 | OK: meervoud resource naam + id van user |
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA1NzkxOCw4NjE2ODYzMTgsMjA3Mj
-c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
-Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTEwMjMzNDE5MzksODYxNjg2MzE4LDIwNz
+I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
+MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
