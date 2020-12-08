@@ -273,9 +273,23 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 + Oplossing: Azure Active Directory B2C
 + JWT Tokens
 + Inloggen via Facebook, Twitter, Google, Microsoft...
-### Azure Functions Security
+
+### Andere Azure Functions
+- HTTP Trigger
+  - Webservice
++ Timer trigger
+  - Via cron expressie de functie op een tijdstip uitvoeren
+- IoT Hub Trigger
++ ...
+
+## What's Next
+- Welke nieuwe technologieën volgen?
+  - GraphQL
+  - gRPC
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTIxODE5MSw2NDQxNjYzOTksODYxNj
-g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
-OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbLTE2NjU0NzQ4NDMsNjQ0MTY2Mzk5LDg2MT
+Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
+OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
+==
 -->
