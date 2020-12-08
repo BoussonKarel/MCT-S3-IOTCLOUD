@@ -103,8 +103,17 @@ OSI: *Application Layer*
 | Inhoud | *Bv. HTML code* |
 ![HTTP Response content](https://i.imgur.com/Nh5aFHU.png)
 
+## HTTP/2
+- Sinds 2015 actief
+- High-level compatibility with HTTP/1.1 —methods, status codes, URIs and header fields. !!! Belangrijk
+Request multiplexing over a single TCP connection
+Meerdererequest in parallel mogelijkover 1 tcpconnection
+Asychroondownloadenvan meerderebestandenmogelijk
+Header Compression
+BinaryProtocol (HTTP/1.1 is tekst protocol)
+HTTP/2 Server push
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTE4NzYwNiwtMTg4NDE2MDY3NCwxOT
-Y1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbNDYyMDY3NDgxLC0xODg0MTYwNjc0LDE5Nj
+UyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
