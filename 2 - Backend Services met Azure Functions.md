@@ -136,9 +136,11 @@ Functies die we kunnen aanroepen via het internet.
 
 - Cognitive services
   - AI API op Azure
-  - 
+
++ Internet of Things
+  + *Philips Hue API, Parrot AR Drone...*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNjg2MzE4LDIwNzI3NjA5NDMsLTE0Mz
-Y4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2MDY3NCwxOTY1Mjc4
-MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbMTExNDM1NDcwMiw4NjE2ODYzMTgsMjA3Mj
+c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
+Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
