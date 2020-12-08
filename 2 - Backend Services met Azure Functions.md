@@ -103,7 +103,7 @@ OSI: *Application Layer*
 | Inhoud | *Bv. HTML code* |
 ![HTTP Response content](https://i.imgur.com/Nh5aFHU.png)
 
-## HTTP/2
+### HTTP/2
 - Sinds 2015 actief
 - High-level compatibility with HTTP/1.1
   - Methods, status codes, URIs and header fields.
@@ -115,7 +115,9 @@ OSI: *Application Layer*
 - HTTP/2 Server push
 
 ## Wat zijn nu webservices?
+Functies die we kunnen aanroepen via het internet.
+- Opvragen van data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDkzMTM5OCwtMTg4NDE2MDY3NCwxOT
-Y1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMT
+g4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
