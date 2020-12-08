@@ -176,7 +176,19 @@ Scale Up
 
 - [x] Minder energie dan Scale Out
 - [x] Eenvoudiger de implementeren
+- [x] Minder licenties (n.v.t. voor Azure Web App)
+- [ ] Duurder
+- [ ] Hardware failure => Toepassing down
+
+Scale Out
+: Horizontal Scaling
+: Meerdere machines, maar minder krachtig
+
+- [x] Goedkoper
+- [x] Betere bescherming (hardware failure)
+- [ ] Duurder
+- [ ] Hardware failure => Toepassing down
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjk5MTEyNCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbMTY2NDcyODY0MywxOTEzNTE0MDBdfQ==
 -->
