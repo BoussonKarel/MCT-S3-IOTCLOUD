@@ -312,16 +312,25 @@ print(ret.text)
 **POST**
 ```python
 import requests
-i
+import json
+
+payload = { 'getal1': 4, 'getal2': 2 }
 url = "..."
-ret = requests.get(url)
+json = json.dumps(payload)
+ret = requests.post(url, data=json)
 print(ret.status_code)
 print(ret.text)
 ```
 > 200
-> "Hello again Python"
+> {"quotient": 2}
+
+**JSON inladen en opvragen**
+```python
+jsonstring = ret.text
+obj = json.loads(jsonstring)
+print("Het resultaat is {}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM4MDkyNjEsNjQ0MTY2Mzk5LDg2MT
+eyJoaXN0b3J5IjpbLTEyNzMxMjk0MjgsNjQ0MTY2Mzk5LDg2MT
 Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
 OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
 ==
