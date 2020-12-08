@@ -202,8 +202,22 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 : Database zal UPDATE uitvoeren
 : Data doorsturen **via body** in JSON
 : Return status code: 200 OK + body met gewijzigde object
+
+### HTTP DELETE
+/api/users/3
+: Zal gebruiker verwijderen a.d.h.v. id
+: Database zal DELETE uitvoeren
+: Data doorsturen **via body** in JSON
+: Return status code: 200 OK + body met verwijderde object
+: OF 204 OK + No Content
+
+---
+- Wat als er iets fout loopt?
+  - Wat terug
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODk0NzM2MSw2NDQxNjYzOTksODYxNj
-g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
-OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbLTE3NjM3MDkwNTgsNjQ0MTY2Mzk5LDg2MT
+Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
+OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
+==
 -->
