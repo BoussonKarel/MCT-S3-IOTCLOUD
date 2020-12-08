@@ -17,7 +17,7 @@
   - Functionaliteit makkelijk aanroepen
   - Centraal staan Cloud platforms
   - REST Based
-![The Inrernet of Services](https://i.imgur.com/462lUmV.png)
+![The Internet of Services](https://i.imgur.com/462lUmV.png)
 
 ## The Internet of Things
 - Connecting hardware
@@ -27,6 +27,16 @@
   - Communicatie van/naar toestel
     - Berichten naar toestel (verzenden)
     - Berichten van toestel (ontvangen)
+
+![The Internet of Things](https://i.imgur.com/GU8ljua.png)
+
+## Wat is de volgende stap?
+### The Internet of Value
+- **Value** verhandelen via het internet
+  - Bitcoin
+  - Cryptocurrencies
+
+- Onderliggende technologie veel belangrijker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzMxMDY2OSwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbMjEyMjk2MDc1NCwtMjEyOTkxNDA5XX0=
 -->
