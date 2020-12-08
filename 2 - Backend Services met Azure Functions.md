@@ -179,14 +179,19 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 
 | URL | OK/NOK |
 |--|--|
-| /api/v1/getUser/1 | NOK: operatienaam in URL + hoofdletters|
-| /api/v1/users/1 | OK: meervoud resource naam + id van user |
+| /api/getUser/1 | **NOK**: operatienaam in URL + hoofdletters|
+| /api/users/1 | **OK**: meervoud resource naam + id van user |
 
-
+### HTTP GET
+/api/users/1
+: Zal alle gebruikers opleveren
+Database zal SELECT uitvoeren
+Data is **read only**
+Return: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMzNDE5MzksODYxNjg2MzE4LDIwNz
+eyJoaXN0b3J5IjpbLTE4MDQyNTExMjcsODYxNjg2MzE4LDIwNz
 I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
 MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
