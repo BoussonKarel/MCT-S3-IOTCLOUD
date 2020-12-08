@@ -328,10 +328,24 @@ print(ret.text)
 ```python
 jsonstring = ret.text
 obj = json.loads(jsonstring)
-print("Het resultaat is {}
+print("Het resultaat is {}".format(obj["quotient"]))
+```
+
+### .NET
+HttpClient > Zie **Device Programming**
+
+## Belangrijk
+- Over welke soorten “Internet” spreken we ?
+- Wat zijn Webservices en hun eigenschappen?
+- Wanneer moet je GET POST PUT DELETE gebruiken?
+- Welk HTTP verbszijn idempotent?
+- Welke statuscodes moet ik terugsturen?
+- Wat is JSON en zorg dat je manueel JSON kan schrijven?
+- Hoe kan je Azure Functions aanroepen vanuit Python?
+- Welk soorten Azure Functions zijn er?
+- Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMxMjk0MjgsNjQ0MTY2Mzk5LDg2MT
-Y4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEz
-OTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ
-==
+eyJoaXN0b3J5IjpbMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2OD
+YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
+LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
