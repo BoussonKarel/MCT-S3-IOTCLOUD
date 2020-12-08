@@ -216,13 +216,14 @@ Scale Out
  - Security: IP Adres instellen in Firewall
 ---
 ## Azure DTU
+Database Transaction Units
 : CPU
 : Memory
 : I/O
 
 Hoe meer DTU, hoe meer power, hoe duurder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk5NDgxNDgsLTE0MTg5Mzk0ODQsLT
-I0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MCwtMTc5MTU5
-OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTUwNzA5MTUxNCwtMTQxODkzOTQ4NCwtMj
+QwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5
+NzU4LDE5MTM1MTQwMF19
 -->
