@@ -231,11 +231,24 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 - PHP
   - Laravel, Lumen, Wave...
 - Python
-  -
+  - Eve, Flask-Restfull
 - .NET
+  - ASP.NET Core met C#
+  - Azure Functions
+    - Met C#, NodeJS of Python
+
+## Azure Functions
+**Serverless Functions**
+- Waarom Azure Functions?
+  - Eenvoudig concept
+  - Eenvoudig aan te maken
+  - Ondersteuning verschillende talen
+  - Snel en eenvoudig schaalbaar
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0ODg0Mjg5LDY0NDE2NjM5OSw4NjE2OD
-YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
-LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTI4MzAzMDUzNCw2NDQxNjYzOTksODYxNj
+g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
+OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
