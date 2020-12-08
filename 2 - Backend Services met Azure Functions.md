@@ -53,11 +53,14 @@
 ### HTTP
 OSI: *Application Layer*
 
-HyperText Transfer Protocol
-: Onderliggende protocol waarop Internet werkt
-: Opvragen van tekst, bestanden vanaf servers
-: 
+**H**yper**T**ext **T**ransfer **P**rotocol
+- Onderliggende protocol waarop Internet werkt
+- Opvragen van tekst, bestanden vanaf servers
+- Request meestal afkomstig v/e webbrowser, maar ook smartphone, IoT device
+- HTTP zal bepalen hoe een request en response er moeten uitzien
+- HTTP bevat een aantal commando's (HTTP verbs)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTkzNDc0NTYsMTk2NTI3ODE4LC0yMT
-I5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTU1ODUwNTg3NCwxOTY1Mjc4MTgsLTIxMj
+k5MTQwOV19
 -->
