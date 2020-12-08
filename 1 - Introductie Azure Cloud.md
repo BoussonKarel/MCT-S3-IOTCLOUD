@@ -267,20 +267,21 @@ Bash commandline in portal
 Alles wat je via UI kan, kan via commandline in portal
 
 ## Belangrijk
-Weten wat Cloud computing is?
-Wie zijn de grote spelers?
-Welke soorten zijn er en wat zijn hun eigenschappen? + voorbeeld
-Wat is een Azure subscription?
-Wat zijn resource groups?
-Hoe kan je scalen?
-Voor en nadelen van Azure VM’s?
-Wanneer Azure VM gebruiken?
-Wat is SQL Azure en wat zijn DTU’s?
-Wat is throttling?
-Wat is een Azure Web App?
+
+ - Weten wat Cloud computing is?
+ - Wie zijn de grote spelers?
+ - Welke soorten zijn er en wat zijn hun eigenschappen? + voorbeeld
+ - Wat is een Azure subscription?
+ - Wat zijn resource groups?
+ - Hoe kan je scalen?
+ - Voor- en nadelen van Azure VM’s?
+ - Wanneer Azure VM gebruiken?
+ - Wat is SQL Azure en wat zijn DTU’s?
+ - Wat is throttling?
+ - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLT
-g1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4
-NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF
-19
+eyJoaXN0b3J5IjpbMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMT
+g1NTY2OTM2MSwtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAw
+ODg5ODMsLTYwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NT
+gsMTkxMzUxNDAwXX0=
 -->
