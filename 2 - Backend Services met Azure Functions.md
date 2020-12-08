@@ -157,9 +157,13 @@ Functies die we kunnen aanroepen via het internet.
   - Value tussen quotes indien string
   - Scheiden door komma
 
+![JSON format](https://i.imgur.com/UQISVsI.png)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA4ODI5MDAsODYxNjg2MzE4LDIwNz
-I3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2
-MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbNTY3ODQxMjI0LDg2MTY4NjMxOCwyMDcyNz
+YwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2
+NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
 -->
