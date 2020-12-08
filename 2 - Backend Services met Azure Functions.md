@@ -20,7 +20,13 @@
 ![The Inrernet of Services](https://i.imgur.com/462lUmV.png)
 
 ## The Internet of Things
-- Connecting h
+- Connecting hardware
+  - Device koppelen aan internet
+    - Informatie versturen naar Cloud
+    - Toestellen onder elkaar (Machine 2 Machine)
+  - Communicatie van/naar toestel
+    - Berichten naar toestel (verzenden)
+    - Berichten van toestel (ontvangen)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTU4MTcyNSwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbMTY0MzMxMDY2OSwtMjEyOTkxNDA5XX0=
 -->
