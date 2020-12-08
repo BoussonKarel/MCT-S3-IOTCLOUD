@@ -210,8 +210,10 @@ Scale Out
     - Replicatie over drie servers (default)
     - Automatic Back-ups
 
- +
+ + Database draait op een server
+ + Verschillende pricing mogelijkheden
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNz
-YxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNj
+A5ODQyNTI4LDMxNzYxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0
+MDBdfQ==
 -->
