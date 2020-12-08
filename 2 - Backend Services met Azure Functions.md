@@ -44,7 +44,13 @@
 
 - Blockchain (public, gratis, open)
 
-+ Private blockchain mogelik
++ Private blockchain mogelijk
+  + Veel evolutie in de wereld van fintech
+  + Etherium
+  + Smart Contracts
+
+## Hoe werkt HTTP?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NzUyMzIyLC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
 -->
