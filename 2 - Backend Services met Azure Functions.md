@@ -74,11 +74,19 @@ OSI: *Application Layer*
 #### HTTP Status codes
 | Verb | |
 |--|--|
-| **1xx** | ddd |
-| **POST** | Toevoegen data (**INSERT**) |
-| **PUT** | Idempotent > Meerdere requests > Zelfde effect (**UPDATE**) |
-| **DELETE** | Idempotent > Meerdere requests > Zelfde effect (**DELETE**) |
+| **1xx** | Informatief |
+| **2xx** | Succes |
+| **3xx** | Redirection |
+| **4xx** | Client error |
+| **5xx** | Server error |
+
+### HTTPS
+- Beveiligen van transport
+- Geen beveiliging van de data
+- Defacto standaard: zonder HTTP niet in productie plaatsen.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNTMzMjcyLDE5NjUyNzgxOCwtMjEyOT
+eyJoaXN0b3J5IjpbNTQ5NDk4NDAxLDE5NjUyNzgxOCwtMjEyOT
 kxNDA5XX0=
 -->
