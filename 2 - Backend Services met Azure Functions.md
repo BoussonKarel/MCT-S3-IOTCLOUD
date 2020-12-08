@@ -134,9 +134,11 @@ Functies die we kunnen aanroepen via het internet.
   + Opvraagbaar via webservices
   + Meer en meer steden stellen data beschikbaar
 
-
+- Cognitive services
+  - AI API op Azure
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxND
-MwOTMxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkx
-NDA5XX0=
+eyJoaXN0b3J5IjpbODYxNjg2MzE4LDIwNzI3NjA5NDMsLTE0Mz
+Y4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2MDY3NCwxOTY1Mjc4
+MTgsLTIxMjk5MTQwOV19
 -->
