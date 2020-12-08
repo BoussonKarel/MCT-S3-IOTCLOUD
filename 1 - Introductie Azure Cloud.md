@@ -169,29 +169,29 @@ Logische container
 | | | CPU keuze, Memory keuze | |
 | | | Scaling tot 3 toestellen | |
 
-### Scaling
+## Scaling
 Scale Up 
 : Vertical Scaling
 : Server krachtiger maken, meer memory en CPU
 
-- [x] Minder energie dan Scale Out
-- [x] Eenvoudiger de implementeren
-- [x] Minder licenties (n.v.t. voor Azure Web App)
-- [ ] Duurder
-- [ ] Hardware failure => Toepassing down
+- ✅ Minder energie dan Scale Out
+- ✅ Eenvoudiger de implementeren
+- ✅ Minder licenties (n.v.t. voor Azure Web App)
+- ❌ Duurder
+- ❌ Hardware failure => Toepassing down
 
 Scale Out
 : Horizontal Scaling
 : Meerdere machines, maar minder krachtig
 
-- [x] Goedkoper
-- [x] Betere bescherming (hardware failure)
-- ❌ Meer licenties (n.v.t. voor Azure Web App)
-❌ Meer plaats in datacenter
-❌ Meer energy
-❌ Complexer netwerk
-❌ Soms toepassingen aanpassen
+- ✅ Goedkoper
+- ✅ Betere bescherming (hardware failure)
++ ❌ Meer licenties (n.v.t. voor Azure Web App)
++ ❌ Meer plaats in datacenter
++ ❌ Meer energy
++ ❌ Complexer netwerk
+- ❌ Soms toepassingen aanpassen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcxMDIzMjEsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbLTEyMzE0MTU4MTksMTkxMzUxNDAwXX0=
 -->
