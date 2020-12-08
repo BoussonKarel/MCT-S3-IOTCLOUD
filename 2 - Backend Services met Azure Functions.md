@@ -128,8 +128,15 @@ Functies die we kunnen aanroepen via het internet.
   - REST
 - Datatransport via
   - *XML, JSON...*
+
++ Open data
+  + Data die vrij beschikbaar is
+  + Opvraagbaar via webservices
+  + Meer en meer steden stellen data beschikbaar
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0Mzc3MzIzLC0xNDM2ODM4OTk4LDE0Mz
-A5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0
-MDldfQ==
+eyJoaXN0b3J5IjpbMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxND
+MwOTMxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkx
+NDA5XX0=
 -->
