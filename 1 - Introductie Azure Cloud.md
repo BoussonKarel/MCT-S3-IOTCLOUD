@@ -215,7 +215,7 @@ Scale Out
 ---
  - Security: IP Adres instellen in Firewall
 ---
-## Azure DTU
+### Azure DTU
 Database Transaction Units
 : CPU
 : Memory
@@ -223,7 +223,7 @@ Database Transaction Units
 
 Hoe meer DTU, hoe meer power, hoe duurder
 
-## Throttling
+### Throttling
 Het onderbreken van database communicatie omdat je teveel resources gebruikt.
 *Zelf voor retry zorgen.*
 
@@ -232,13 +232,16 @@ Het onderbreken van database communicatie omdat je teveel resources gebruikt.
 ![Throttling modes](https://i.imgur.com/t4mYuN2.png)
 Niet vanbuiten kennen.
 
-## Azure Database for MySQL
+### Azure Database for MySQL
 - Toegang via MySQL Workbench
 - Werkt zoals een gewone MySQL
 - Geen eigen servers
 - Automatische back-up
+
+## Azure & Internet of Things
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3ODIwMzM4LC04NTk5MTYyOTIsLTE0MT
-g5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2
-MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMT
+QxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2
+NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
