@@ -259,9 +259,17 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 + Function key: *Enkel bij gekozen functie*
 + Admin key: *Alle functies*
 
-Key zit in de URL
+- Key zit in de URL
+
++ ✅ Makkelijk op te zetten
++ ✅ Beheer keys valt mee bij niet veel gebruikers
++ ✅ Ideaal voor scenario met control over de client
+  + Interne Android / iOS (app niet publiek)
+  + Interne web apps
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTE2MDc4NSw2NDQxNjYzOTksODYxNj
+eyJoaXN0b3J5IjpbMTU4Nzk5NjgyMyw2NDQxNjYzOTksODYxNj
 g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
 OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
