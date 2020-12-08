@@ -63,14 +63,22 @@ OSI: *Application Layer*
 - HTTP is niet sessionless, we kunnen cookies gebruiken om data bij te houden
 - HTTP is relatief eenvoudig
 
-**HTTP Verb**
+#### HTTP Verbs
 | Verb | |
 |--|--|
 | **GET** | Ophalen data (safe, wijzigt niks) (**SELECT**) |
 | **POST** | Toevoegen data (**INSERT**) |
 | **PUT** | Idempotent > Meerdere requests > Zelfde effect (**UPDATE**) |
 | **DELETE** | Idempotent > Meerdere requests > Zelfde effect (**DELETE**) |
+
+#### HTTP Status codes
+| Verb | |
+|--|--|
+| **1xx** | ddd |
+| **POST** | Toevoegen data (**INSERT**) |
+| **PUT** | Idempotent > Meerdere requests > Zelfde effect (**UPDATE**) |
+| **DELETE** | Idempotent > Meerdere requests > Zelfde effect (**DELETE**) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzI4NTA5NSwxOTY1Mjc4MTgsLTIxMj
-k5MTQwOV19
+eyJoaXN0b3J5IjpbOTkyNTMzMjcyLDE5NjUyNzgxOCwtMjEyOT
+kxNDA5XX0=
 -->
