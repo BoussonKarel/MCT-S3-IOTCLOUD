@@ -170,17 +170,13 @@ Logische container
 | | | Scaling tot 3 toestellen | |
 
 ### Scaling
-| Scale Up | Scale Out |
-| -- | -- |
-|Vertical Scaling | Horizontal Scaling |
-| = Servers krachtiger maken, meer memory en CPU | = Meerdere machines, maar minder krachtig |
-| + Minder energie dan SO | + Goedkoper |
-| + Eenvoudiger te implementeren | + Betere bescherming (hardware failure) |
+Scale Up 
+: Vertical Scaling
+: Server krachtiger maken, meer memory en CPU
 
-term  
-: definition
-: wow
+- [x] Minder energie dan Scale Out
+- [x] Eenvoudiger de implementeren
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY0NjMxOTUsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbLTMxNjk5MTEyNCwxOTEzNTE0MDBdfQ==
 -->
