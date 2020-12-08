@@ -139,8 +139,14 @@ Functies die we kunnen aanroepen via het internet.
 
 + Internet of Things
   + *Philips Hue API, Parrot AR Drone...*
+
+- Alle voorgaandevoorbeelden:
+  - Maken gebruik van HTTP
+  - GET/POST Request naardevice
+  - In de body van het request JSON data
+  - Cross-platform
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDM1NDcwMiw4NjE2ODYzMTgsMjA3Mj
+eyJoaXN0b3J5IjpbLTkyMTEzMzExNyw4NjE2ODYzMTgsMjA3Mj
 c2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYw
 Njc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
