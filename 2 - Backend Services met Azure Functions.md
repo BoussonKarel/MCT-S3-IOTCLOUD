@@ -116,8 +116,13 @@ OSI: *Application Layer*
 
 ## Wat zijn nu webservices?
 Functies die we kunnen aanroepen via het internet.
-- Opvragen van data
+- Opvragen van data via het internet
+- Devices aanspreekbaar maken via het internet
+- Protocol is default (HTTP)
+- Technologie onafhankelijk (Java, C#, PHP, Python)
+- Platform onafhankelijk (Windows, Linux, Android, iOS...)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMT
-g4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbMTYxODgzNTU0LC0xNDM2ODM4OTk4LDE0Mz
+A5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0
+MDldfQ==
 -->
