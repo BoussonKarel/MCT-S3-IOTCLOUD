@@ -82,9 +82,11 @@ Level 2: Delivered exactly once
   - TLS (zie 3MCT)
     - Meest veilige
     - Beveiligen van het communicatiekanaal
+    - Krachtiger IoT device nodig voor encryptie (niet overal mogelijk)
 
+## Opstellingen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTA0NTI5OSwtMTczNTcyNTE2NSwxNT
+eyJoaXN0b3J5IjpbMTc3MzYyNjg4MCwtMTczNTcyNTE2NSwxNT
 k2NTc4NTcyXX0=
 -->
