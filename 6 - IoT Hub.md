@@ -136,9 +136,10 @@ IoT Edge draait op Docker Containers zijn modules
   - Zorgt voor communicatie tussen IoT Edge en Cloud
 
 ---
-
+- Modules
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3MjA5MzAwLDEwOTUzODgwMzcsLTIxMD
+eyJoaXN0b3J5IjpbOTQ5NTI4MTk5LDEwOTUzODgwMzcsLTIxMD
 k5NDA3MzYsLTE4ODMxMDQxMjMsLTg4NTQ3NjMzNCwzOTk0NTI3
 NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMTY1NzY1MDQyMyw4ND
 kwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3
