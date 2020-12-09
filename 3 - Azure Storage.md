@@ -121,6 +121,7 @@ Static Website
 
 ![Azure Table Storage](https://i.imgur.com/F8F6m2T.png)
 
+---
 - Partitions
   - Verdelen van table over partities
   - Iedere partitie op eigen server
@@ -131,6 +132,7 @@ Static Website
 
 ![Partitioning Tables](https://i.imgur.com/xvssTLF.png)
 
+---
 - Entities (rij)
   - Max 1MB
   - 255 properties (kolommen)
@@ -173,7 +175,10 @@ Waar zouden we dit kunnen gebruiken ?
   - *Bv. sensor netwerken die om de 5 sec waarde van (temperatuur) sensor doorsturen*
 - Data voor AI modellen
 - Alles waar je zeer veel niet veel wijzigende data wenst op te slaan
+
+## Programmeren van Azure Storage?
+- Wanneer?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM1NjIxMTcsMTMwMTM0NTA4OSw0MD
-QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbMjAwODE5NzUwLDEzMDEzNDUwODksNDA0Mz
+c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
