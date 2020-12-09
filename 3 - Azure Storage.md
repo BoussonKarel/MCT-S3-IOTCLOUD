@@ -115,12 +115,20 @@ Static Website
 - Opslag van peta bytes aan data
 - Geo-redundant storage
 - Flexibel dataschema
-  - # kolommen per rij moet niet hetzelfde zijn
+  - \# kolommen per rij moet niet hetzelfde zijn
 - Geen relaties, joins, stored procedures
 - Eenvoudig in gebruik
 
 ![Azure Table Storage](https://i.imgur.com/F8F6m2T.png)
+
+- Partitions
+  - Verdelen van table over partities
+  - Iedere partitie op eigen server
+  - Zal beter schalen en load verdelen over server
+- Load balancing over 3 server
+  - Azure zal data repliceren op 3 servers
+  - Verdelen van load over deze servers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA4OTkwMDUsMTMwMTM0NTA4OSw0MD
-QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbLTgzNTM0MTI3MCwxMzAxMzQ1MDg5LDQwND
+M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
