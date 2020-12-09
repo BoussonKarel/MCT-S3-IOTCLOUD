@@ -39,8 +39,20 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
   - Bevat de bestanden
   - Naam opgeven
   - Public Access Level (wie kan welke bestanden zien)
-    - Private (default) extern bekijk
+    - Private (default) extern bekijken is niet mogelijk
+    - Blob (extern lezen per blob is mogelijk)
+    - Container (extern lezen van volledige container is mogelijk)
+
++ Bestanden uploaden via Storage Explorer
+
+- Connecteren
+  - Account Name/Key
+
++ Bestanden opvragen via HTTP Request
+
+- Pricing per GB/Per maand
+- Hot of Cold
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc3NTIyOTUsMTMwMTM0NTA4OSw0MD
+eyJoaXN0b3J5IjpbLTEyMzIxNTcyMDksMTMwMTM0NTA4OSw0MD
 QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
