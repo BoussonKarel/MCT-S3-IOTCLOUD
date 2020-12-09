@@ -84,9 +84,9 @@ Static Website
 - Zeer schaalbaar door meerder queues op te starten
 - **Resilience**: buffer van berichten op queue zorgt ervoor dat er niets verloren gaat als back-end wegvalt.
 
-*Webshop*
+*Voorbeeld: Webshop*
 ![Voorbeeld Queues: webshop](https://i.imgur.com/8ksoWv7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5MjM0NjU3LDEzMDEzNDUwODksNDA0Mz
+eyJoaXN0b3J5IjpbNjE0MDIzNjk1LDEzMDEzNDUwODksNDA0Mz
 c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
