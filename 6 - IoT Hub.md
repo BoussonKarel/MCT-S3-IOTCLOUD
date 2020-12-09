@@ -99,10 +99,15 @@ Hoe data verwerken die binnenkomt op IoTHub
   - Afhankelijk van het internet
   - Moeilijk scripts op een device te updaten
   - Script vraagt soms libraries op devices (soms probleem met installatie)
-  - 
+  - Versie beheer lastig
+  - Soms wil je bepaalde data NIET naar cloud sturen (binnen bedrijf houden)
+
++ Service boven op IoT Hub
++ Doelstelling:
+  + Cloud workloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMxMDQxMjMsLTg4NTQ3NjMzNCwzOT
-k0NTI3NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMTY1NzY1MDQy
-Myw4NDkwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNT
-U1NDg3OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbNzE4Nzc3NDgzLC0xODgzMTA0MTIzLC04OD
+U0NzYzMzQsMzk5NDUyNzQ4LDIwNDIzMjQ0NTcsOTE5MDUzNzQx
+LDE2NTc2NTA0MjMsODQ5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOT
+A0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
 -->
