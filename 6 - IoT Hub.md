@@ -124,16 +124,23 @@ Hoe data verwerken die binnenkomt op IoTHub
 IoT Edge draait op Docker Containers zijn modules
 ![](https://i.imgur.com/90hvUbB.png)
 
+---
 - Azure IoT Edge Runtime
   - Draait op RPi, Industriële PC
   - Installatie van workloads & update op device
   - Beveiligen van Edge communicatie
   - Verantwoordelijk voor het uitvoeren van de modules
-  - Status health re
+  - Status health rapporteren aan de cloud (remote monitoring)
+  - Communicatie met leaf devices (low power toestellen zonder internet)
+  - Zorgt voor communicatie tussen IoT Edge en modules op de device
+  - Zorgt voor communicatie tussen IoT Edge en Cloud
+
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMzNTU2MjQsMTA5NTM4ODAzNywtMj
-EwOTk0MDczNiwtMTg4MzEwNDEyMywtODg1NDc2MzM0LDM5OTQ1
-Mjc0OCwyMDQyMzI0NDU3LDkxOTA1Mzc0MSwxNjU3NjUwNDIzLD
-g0OTA4NjIyOSwyMDMxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0
-ODc5ODUsLTEyMzEwOTI2NzNdfQ==
+eyJoaXN0b3J5IjpbMjE3MjA5MzAwLDEwOTUzODgwMzcsLTIxMD
+k5NDA3MzYsLTE4ODMxMDQxMjMsLTg4NTQ3NjMzNCwzOTk0NTI3
+NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMTY1NzY1MDQyMyw4ND
+kwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3
+OTg1LC0xMjMxMDkyNjczXX0=
 -->
