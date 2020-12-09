@@ -178,7 +178,11 @@ Waar zouden we dit kunnen gebruiken ?
 
 ## Programmeren van Azure Storage?
 - Wanneer?
+  - Uploaden van bestanden op Blob Storage
+  - Versturen van berichten naar Queues
+  - Wegschrijven van records naar table storage
+- Allemaal te programmeren via C#, Python of JS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODE5NzUwLDEzMDEzNDUwODksNDA0Mz
-c5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MD
+QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
