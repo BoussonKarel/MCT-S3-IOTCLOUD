@@ -70,14 +70,14 @@ Static Website
 : Zeer goedkoop
 
 ## Azure Storage Queues
-- Een wachtrijin de Cloud
-- Een applicatie zal berichten op de wachtrij plaatsen (Sender)
-- Een tweede applicatie kan deze berichten op een zelf gekozen moment ophalen en verwerken (Receiver)
-- We spreken over een decoupledapplicatie
-- Zender & ontvanger werken onafhankelijk van elkaar
+- Een **wachtrij** in de Cloud
+- Applicatie zal berichten op wachtrij plaatsen (**Sender**)
+- Tweede applicatie kan deze op zelf gekozen moment ophalen en verwerken (**Receiver**)
+- We spreken over een **decoupled** applicatie
+  - Zender & ontvanger werken onafhankelijk
 - Zeer schaalbaar door meerder queues op te starten
 - Resilience: buffer van berichten op queue zorgt ervoor dat er
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTg3NTE4OSwxMzAxMzQ1MDg5LDQwND
+eyJoaXN0b3J5IjpbMTQxNjgyMTU3OSwxMzAxMzQ1MDg5LDQwND
 M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
