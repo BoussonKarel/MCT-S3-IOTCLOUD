@@ -106,10 +106,15 @@ Hoe data verwerken die binnenkomt op IoTHub
 + Doelstelling:
   + Cloud workloads lokaal draaien
   + Eerste filtering van data op device
-  + 
+  + Niet alles naar Cloud
+  + Offline scenario voorzien
+  + Kosten in de Cloud dalen
+  + Makkelijk updaten van IoT Edge device
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTM4NDIxMSwtMTg4MzEwNDEyMywtOD
-g1NDc2MzM0LDM5OTQ1Mjc0OCwyMDQyMzI0NDU3LDkxOTA1Mzc0
-MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwyMDMxMzkxMzE1LC0xMj
-kwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQ1ODUyOTUsLTE4ODMxMDQxMjMsLT
+g4NTQ3NjMzNCwzOTk0NTI3NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3
+NDEsMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMT
+I5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
 -->
