@@ -104,10 +104,12 @@ Hoe data verwerken die binnenkomt op IoTHub
 
 + Service boven op IoT Hub
 + Doelstelling:
-  + Cloud workloads
+  + Cloud workloads lokaal draaien
+  + Eerste filtering van data op device
+  + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4Nzc3NDgzLC0xODgzMTA0MTIzLC04OD
-U0NzYzMzQsMzk5NDUyNzQ4LDIwNDIzMjQ0NTcsOTE5MDUzNzQx
-LDE2NTc2NTA0MjMsODQ5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOT
-A0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
+eyJoaXN0b3J5IjpbMTI0NTM4NDIxMSwtMTg4MzEwNDEyMywtOD
+g1NDc2MzM0LDM5OTQ1Mjc0OCwyMDQyMzI0NDU3LDkxOTA1Mzc0
+MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwyMDMxMzkxMzE1LC0xMj
+kwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ==
 -->
