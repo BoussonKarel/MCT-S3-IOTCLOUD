@@ -90,18 +90,26 @@ Level 2: Delivered exactly once
 - Vanuit App direct communiceren met MQTT broker via internet.
 - Voor meeste platformen (iOS, Android, Windows is dit mogelijk)
 - Niet altijd beste oplossing (poorten niet altijd open)
-- 
 
 ### Bericht via Azure Functions naar MQTT (one way)
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+- Vanuit App HTTP POST naar Azure Functions
+- In de Azure Function maken we bericht aan om te versturen naar MQTT Broker Topic
 
 ### Communicatie tussen devices via cloud
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+Als we op knop drukken:
+- Publish bericht in /howest/gkg/b008/#
+- Broker draait in Cloud
+- Iedereen met subscription op /howest/gkg/b008/# zal dit ontvangen
 
 ### Communicatie tussen devices lokaal zonder cloud
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+- We kunnen een MQTT Broker installeren op de RaspberryPi
+- Devices communiceren met elkaar via de lokale broker op de Pi
+- Geen link met de cloud nodig
 
-### Communicatie tussen devices lokaal via gateway met cloud link
+## Communicatie tussen devices lokaal via gateway met cloud link
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
 
 ## Belangrijk
@@ -111,6 +119,6 @@ Level 2: Delivered exactly once
 - Wat is QoSen welke zijn er ?
 - Welke opstellingen zijn er mogelijk ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg0NjYwODMsMTc3MzYyNjg4MCwtMT
-czNTcyNTE2NSwxNTk2NTc4NTcyXX0=
+eyJoaXN0b3J5IjpbODY2Mzg1NjU2LDE3NzM2MjY4ODAsLTE3Mz
+U3MjUxNjUsMTU5NjU3ODU3Ml19
 -->
