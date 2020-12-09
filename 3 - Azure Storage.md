@@ -59,8 +59,16 @@ Hot Access
 : Data die nu in gebruik is en waar we veel lezen en schrijven
 : Data die klaar staat om eventueel later naar cool storage te verplaatsen
 
-Cool Acc
+Cool Access
+: Backup voor lange termijn
+: Data die we niet frequent nodig hebben
+
+Static Website
+: Eenvoudige HTML site
+: Ideaal voor VueJS, Angular, Reactor, Blazor...
+: Eventueel backend in Azure Functions (via JS aanroepen)
+: Zeer goedkoop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDM0NDE3NSwxMzAxMzQ1MDg5LDQwND
-M3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbLTE0MTU2NDQxOTcsMTMwMTM0NTA4OSw0MD
+QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
