@@ -24,8 +24,16 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 ## Azure Disk Storage
 - Basis voor Azure VM
 - Op deze locaties komt de server te staan
-- Ook mogelijkheid datadisks te maken
+- Mogelijk om datadisks te maken
+- Hoge beschikbaarheid
+- Lage latency
+- Hoge troughput (2000MB/s)
+- Mogelijkheid voor SSD disk
+- Disk Encryption beschikbaar
+
+## Azure Blob Storage
+- Opslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA5OTkyMjksNDA0Mzc5Nzg0LC0xNz
+eyJoaXN0b3J5IjpbLTIwNTc2MjI5NTksNDA0Mzc5Nzg0LC0xNz
 QxODg3OTkxXX0=
 -->
