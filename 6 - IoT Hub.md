@@ -139,12 +139,15 @@ IoT Edge draait op Docker Containers zijn modules
 - Modules
   - Functionaliteit toevoegen op Edge
   - Iedere module zal een actie uitvoeren
-  - We koppelen
-  - 
+  - We koppelen modules aan elkaar als een soort data processing pipeline
+  - We kunnen modules schrijven in C#, Python...
+  - Modules zijn **Docker Containers*
+    - *Bv. module die data filtert vooraleer naar de cloud te sturen*
+    - *Bv.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEyNTEwNzAsOTQ5NTI4MTk5LDEwOT
-UzODgwMzcsLTIxMDk5NDA3MzYsLTE4ODMxMDQxMjMsLTg4NTQ3
-NjMzNCwzOTk0NTI3NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMT
-Y1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5
-OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbLTE1MTY2NTU2NCw5NDk1MjgxOTksMTA5NT
+M4ODAzNywtMjEwOTk0MDczNiwtMTg4MzEwNDEyMywtODg1NDc2
+MzM0LDM5OTQ1Mjc0OCwyMDQyMzI0NDU3LDkxOTA1Mzc0MSwxNj
+U3NjUwNDIzLDg0OTA4NjIyOSwyMDMxMzkxMzE1LC0xMjkwNDk5
+MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ==
 -->
