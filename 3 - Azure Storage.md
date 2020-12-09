@@ -140,9 +140,13 @@ Static Website
       - Timestamp *(automatisch)*
     - Niet iedere rij moet evenveel kolommen hebben
 
----
-- Table Storage Data Acce
+- Table Storage Data Access
+  - REST API
+    - Cross platform HTTP Requests (.NET, PHP, Android, Objective C...)
+  - Storage Client API (via NUGET Package Azure Storage)
+  - Andere platformen zijn er ook libraries
+    - iOS, Android, Python...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDA1MDcyMSwxMzAxMzQ1MDg5LDQwND
+eyJoaXN0b3J5IjpbMjAxMTUyMjg1OCwxMzAxMzQ1MDg5LDQwND
 M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
