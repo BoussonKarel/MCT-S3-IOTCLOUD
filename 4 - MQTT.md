@@ -52,15 +52,18 @@ Sectoren: *Telemetry, Automotive, Smart Home, Energy Monitoring, Chat Apps, Noti
 - 3 niveau's
 
 Level 0: Fire And Forget
-: Relies on reliability of TCP. No r
+: Relies on reliability of TCP.
+: No retransmission.
 
 Level 1: Delivered at least once
-:
+: Receiver will get it at least once.
+: No ack (or it gets lost) --> Resent until s
+: Duplicates can occur.
 
 Level 2: Delivered exactly once
-:
+: Relies on reliability of TCP. No retransmission.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3OTMwMTEwLC0xNzM1NzI1MTY1LDE1OT
-Y1Nzg1NzJdfQ==
+eyJoaXN0b3J5IjpbLTExODY5MDI2NDMsLTE3MzU3MjUxNjUsMT
+U5NjU3ODU3Ml19
 -->
