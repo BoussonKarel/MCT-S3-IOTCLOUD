@@ -128,7 +128,9 @@ Static Website
 - Load balancing over 3 server
   - Azure zal data repliceren op 3 servers
   - Verdelen van load over deze servers
+
+![Partitioning Tables](https://i.imgur.com/xvssTLF.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTM0MTI3MCwxMzAxMzQ1MDg5LDQwND
-M3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbNjc0NDQ1MTIyLDEzMDEzNDUwODksNDA0Mz
+c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
