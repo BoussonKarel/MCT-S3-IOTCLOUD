@@ -62,8 +62,13 @@ Hoe data verwerken die binnenkomt op IoTHub
 ![D2C & C2D](https://i.imgur.com/8TP56YF.png)
 
 ### IoT Hub Device Twin
+- Digitale "tweeling" van device cloud
+- Ideaal om **configuratie** naar een toestel te sturen
+- Configuratie zal opgeslagen
+  - In de Cloud (IoT Hub)
+  - Op het toestel *(bv. va
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMTY1Nz
-Y1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5OTM5
-MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbMzc4MzE3NDQyLDIwNDIzMjQ0NTcsOTE5MD
+UzNzQxLDE2NTc2NTA0MjMsODQ5MDg2MjI5LDIwMzEzOTEzMTUs
+LTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
 -->
