@@ -203,9 +203,17 @@ Of MailKit (alternatief, geen mailservice)
 ![Scenario 3](https://i.imgur.com/AFJD5M1.png)
 
 **Queue Trigger**
-B
+Bij ontvangst van een bericht op de queue
+- Ideaal voor bufferen bij pieken
+- Eenvoudig
+
+## Good practices
+- Iedere Azure Function heeft eigen taak
+  - File Upload + Mail in 1 triggr = NOK
+  - Wel goed:
+    - HTTP Trigger
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzYyMTIxNiw4MzYwMDAwNjEsLTIxMz
-A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
-OTFdfQ==
+eyJoaXN0b3J5IjpbNzgxODgyNzA5LDgzNjAwMDA2MSwtMjEzMD
+QyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5
+MV19
 -->
