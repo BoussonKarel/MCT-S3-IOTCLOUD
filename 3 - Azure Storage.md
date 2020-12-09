@@ -50,9 +50,17 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 
 + Bestanden opvragen via HTTP Request
 
-- Pricing per GB/Per maand
-- Hot of Cold
+- Pricing
+  - Per GB/Per maand
+  - Hot / Cold
+  - Lees- en schrijfoperaties
+
+Hot Access
+: Data die nu in gebruik is en waar we veel lezen en schrijven
+: Data die klaar staat om eventueel later naar cool storage te verplaatsen
+
+Cool Acc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIxNTcyMDksMTMwMTM0NTA4OSw0MD
-QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbLTYyNDM0NDE3NSwxMzAxMzQ1MDg5LDQwND
+M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
