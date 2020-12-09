@@ -98,10 +98,10 @@ Hoe data verwerken die binnenkomt op IoTHub
   - Alles moet naar de cloud voor werking, niets lokaal, veel datatrafiek
   - Afhankelijk van het internet
   - Moeilijk scripts op een device te updaten
-  - 
+  - Script vr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTQ3NjMzNCwzOTk0NTI3NDgsMjA0Mj
-MyNDQ1Nyw5MTkwNTM3NDEsMTY1NzY1MDQyMyw4NDkwODYyMjks
-MjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMj
-MxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbNDg4NzY4MjczLC04ODU0NzYzMzQsMzk5ND
+UyNzQ4LDIwNDIzMjQ0NTcsOTE5MDUzNzQxLDE2NTc2NTA0MjMs
+ODQ5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NT
+Q4Nzk4NSwtMTIzMTA5MjY3M119
 -->
