@@ -32,8 +32,11 @@ MQTT
 - Pub/Sub moeten niet op hetzelfde moment actief zijn, kan **disconnected** werken
 ---
 Mogelijke MQTT brokers: *mosquitto, HiveMQ, Apache ActiveMQ, RabbitMQ, mosca, RSMB, WebsphereMQ / IBM MQ*
+
 ---
+Sectoren: *Telemetry, Automotive, Smart Home, Energy Monitoring, Chat Apps, Notification Services, Healthcare Apps, LoRa Gateway, Facebook Messenger, Olie & Gas*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3ODgzNDk1LDE1OTY1Nzg1NzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzU3MjUxNjUsMTU5NjU3ODU3Ml19
 -->
