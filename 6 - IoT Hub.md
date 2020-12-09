@@ -51,8 +51,17 @@ Device zit rechtstreeks op het internet
   - *Gateway zal data doorsturen naar Cloud*
 - C2D: IoT Hub zal commando sturen naar Raspi (Gateway)
   - *Raspi zal commando naar juiste device sturen*
+---
+Hoe data verwerken die binnenkomt op IoTHub
+- Streaming Analytics
+- Message Queues
+- Azure Functions
+  - Ontvangen van berichten
+  - Versturen van berichten (commando) naar IoT Hub
+
+![D2C & C2D](https://i.imgur.com/8TP56YF.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MDUzNzQxLDE2NTc2NTA0MjMsODQ5MD
-g2MjI5LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4Nzk4
-NSwtMTIzMTA5MjY3M119
+eyJoaXN0b3J5IjpbLTgwMDE4Njk1Myw5MTkwNTM3NDEsMTY1Nz
+Y1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5OTM5
+MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
 -->
