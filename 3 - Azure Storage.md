@@ -140,13 +140,29 @@ Static Website
       - Timestamp *(automatisch)*
     - Niet iedere rij moet evenveel kolommen hebben
 
-- Table Storage Data Access
-  - REST API
-    - Cross platform HTTP Requests (.NET, PHP, Android, Objective C...)
-  - Storage Client API (via NUGET Package Azure Storage)
-  - Andere platformen zijn er ook libraries
-    - iOS, Android, Python...
++ Table Storage Data Access
+  + REST API
+    + Cross platform HTTP Requests (.NET, PHP, Android, Objective C...)
+  + Storage Client API (via NUGET Package Azure Storage)
+  + Andere platformen zijn er ook libraries
+    + iOS, Android, Python...
+
+- Queries
+  - Max. 1000 items terugkeren
+  - Indien > 1000
+    - Continuation token
+  - Query > 30 sec = cancelled
+  - Geen index mogelijk
+  - Query op partition & row key = snel
+
++ Kolom types
+  + Byte[]
+  + Bool
+  + DateTime
+  + Double
+  + Guid
+  + Int32 o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTUyMjg1OCwxMzAxMzQ1MDg5LDQwND
+eyJoaXN0b3J5IjpbMjAwMzQ3NDM2NCwxMzAxMzQ1MDg5LDQwND
 M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
