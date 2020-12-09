@@ -161,8 +161,10 @@ Static Website
   + DateTime
   + Double
   + Guid
-  + Int32 o
+  + Int32 or int
+  + Int64 or long
+  + String
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzQ3NDM2NCwxMzAxMzQ1MDg5LDQwND
-M3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbNzI5OTA3MTQyLDEzMDEzNDUwODksNDA0Mz
+c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
