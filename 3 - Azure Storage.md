@@ -218,7 +218,7 @@ Bij ontvangst van een bericht op de queue
 ## Wat met configuratie files online
 | Offline | Online (via de portal) |
 |--|--|
-| local.settings.json | Configuration > Application settings |
+| In 'local.settings.json' | Configuration > Application settings |
 
 ## Belangrijk
 - Welke zijn de verschillende soorten Azure Storage en wat is hun doel ?
@@ -231,7 +231,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjY3ODM0Myw4MzYwMDAwNjEsLTIxMz
+eyJoaXN0b3J5IjpbLTgxOTI3NjIxOCw4MzYwMDAwNjEsLTIxMz
 A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
 OTFdfQ==
 -->
