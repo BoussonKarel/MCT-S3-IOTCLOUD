@@ -73,11 +73,18 @@ Level 2: Delivered exactly once
   - ...
 - Geen standaard
 - Nadeel is interoperatibility
-  - Samenwerken met andere systemen is moeilijk: geen afspraken rond inhoud.
-  - Goed
+  - *Samenwerken met andere systemen is moeilijk: geen afspraken rond inhoud.*
+  - Goede documentatie nodig.
+---
+- **Security**
+  - Login / wachtwoord
+    - Eenvoudig, maar niet veilig (vermijden)
+  - TLS (zie 3MCT)
+    - Meest veilige
+    - Beveiligen van het communicatiekanaal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3Nzg2MzcyLC0xNzM1NzI1MTY1LDE1OT
-Y1Nzg1NzJdfQ==
+eyJoaXN0b3J5IjpbMTYwOTA0NTI5OSwtMTczNTcyNTE2NSwxNT
+k2NTc4NTcyXX0=
 -->
