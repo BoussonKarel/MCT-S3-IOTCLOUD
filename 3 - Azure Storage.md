@@ -87,18 +87,20 @@ Static Website
 *Voorbeeld: Webshop*
 ![Voorbeeld Queues: webshop](https://i.imgur.com/8ksoWv7.png)
 
-- Load Leveling
- - Constante load op applicatie die verwerkt moet worden
-- Werkt zolang we niet meer berichten aanmaken dan wat de applicatie kan verwerken
+- **Load Leveling**
+  - Constante load op applicatie die verwerkt moet worden
+  - Werkt zolang we niet meer berichten aanmaken dan wat de applicatie kan verwerken
 
-![Load Leveling]()
+![Load Leveling](https://i.imgur.com/U5CmrN1.png)
 
-Load Balancing
-: Constante load op applicatie die verwerkt moet worden
-: Werkt zolang we niet meer berichten aanmaken dan wat de applicatie kan verwerken
+- **Load Balancing**
+  - Teveel berichten per uur
+  
+  - Wanneer terug minder
+  - High availibility
 
-![Load Leveling]()
+![Load Balancing](https://i.imgur.com/CkqPmXP.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzI2MDI5NywxMzAxMzQ1MDg5LDQwND
+eyJoaXN0b3J5IjpbLTUzMjc4NjQ2NCwxMzAxMzQ1MDg5LDQwND
 M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
