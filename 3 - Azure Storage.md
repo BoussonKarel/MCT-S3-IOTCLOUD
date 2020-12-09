@@ -130,7 +130,19 @@ Static Website
   - Verdelen van load over deze servers
 
 ![Partitioning Tables](https://i.imgur.com/xvssTLF.png)
+
+- Entities (rij)
+  - Max 1MB
+  - 255 properties (kolommen)
+    - 3 verplicht
+      - Partition Key
+      - Row Key
+      - Timestamp *(automatisch)*
+    - Niet iedere rij moet evenveel kolommen hebben
+
+---
+- Table Storage Data Acce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NDQ1MTIyLDEzMDEzNDUwODksNDA0Mz
-c5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbMjE0MDA1MDcyMSwxMzAxMzQ1MDg5LDQwND
+M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
