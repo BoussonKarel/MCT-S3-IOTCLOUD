@@ -95,12 +95,19 @@ Static Website
 
 - **Load Balancing**
   - Teveel berichten per uur
-  
-  - Wanneer terug minder
-  - High availibility
+    - Applicatie die verwerkt scalen
+    - Nieuwe instantie => verdubbeling verwerking
+  - Wanneer terug minder => 1 applicatie stoppen
+  - High availibility => Als 1 app crasht, ligt het niet plat
 
 ![Load Balancing](https://i.imgur.com/CkqPmXP.png)
+
+- **Temporal Decoupling**
+  - Alles in de Queue voor later
+  - Applicatie start om 23u op
+    - Verwerkt alles
+    - Shutdown app
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjc4NjQ2NCwxMzAxMzQ1MDg5LDQwND
+eyJoaXN0b3J5IjpbLTE1NzkzNjM5MSwxMzAxMzQ1MDg5LDQwND
 M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
