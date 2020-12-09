@@ -88,11 +88,18 @@ Hoe data verwerken die binnenkomt op IoTHub
 
 + Queries mogelijk op twins
 
-- **IoT Hub Trigger for Azure Functions**
+### IoT Hub Trigger for Azure Functions
 
+- Data is Array van bytes
+  - Omzetten naar string (json)
+
+## IoT Edge
+- **IoT Hub issues**
+  - Alles moet naar de cloud voor werking, niets lokaal, veel datatrafiek
+  - Afha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcwOTg3ODYsMzk5NDUyNzQ4LDIwND
-IzMjQ0NTcsOTE5MDUzNzQxLDE2NTc2NTA0MjMsODQ5MDg2MjI5
-LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMT
-IzMTA5MjY3M119
+eyJoaXN0b3J5IjpbNTY5OTEzOTIwLDM5OTQ1Mjc0OCwyMDQyMz
+I0NDU3LDkxOTA1Mzc0MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwy
+MDMxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMz
+EwOTI2NzNdfQ==
 -->
