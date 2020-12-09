@@ -194,12 +194,12 @@ Waar zouden we dit kunnen gebruiken ?
 Met SendGrid
 ![SendGrid](https://i.imgur.com/RX7Ftd7.png)
 
-Of 
+Of MailKit (alternatief, geen mailservice)
 
 ### Scenario 3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNTMxMDE3LDgzNjAwMDA2MSwtMjEzMD
-QyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5
-MV19
+eyJoaXN0b3J5IjpbLTEzMjE4NjQ0MDksODM2MDAwMDYxLC0yMT
+MwNDIyMTM1LDEzMDEzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3
+OTkxXX0=
 -->
