@@ -35,9 +35,16 @@ Mogelijke MQTT brokers: *mosquitto, HiveMQ, Apache ActiveMQ, RabbitMQ, mosca, RS
 
 ---
 Sectoren: *Telemetry, Automotive, Smart Home, Energy Monitoring, Chat Apps, Notification Services, Healthcare Apps, LoRa Gateway, Facebook Messenger, Olie & Gas*
----
 
+---
+- Broker (server) heeft een **topic** of **subject**
+- Zelfde vorm as URL
++ Devices hebben subscription op één of meerdere topics
+
+![Topic](https://i.imgur.com/TRvBZAL.png)
+
+![Wildcard](https://i.imgur.com/baiMU6E.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODk1OTMxMiwtMTczNTcyNTE2NSwxNT
-k2NTc4NTcyXX0=
+eyJoaXN0b3J5IjpbLTE1MzcxMzQ3LC0xNzM1NzI1MTY1LDE1OT
+Y1Nzg1NzJdfQ==
 -->
