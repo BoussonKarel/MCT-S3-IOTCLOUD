@@ -112,9 +112,10 @@ Hoe data verwerken die binnenkomt op IoTHub
   + Kosten in de Cloud dalen
   + Makkelijk updaten van IoT Edge device
 
-- 
+- *Voorbeelden*
+  - *Foto analyse 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA3NzM4MjEsLTE4ODMxMDQxMjMsLT
+eyJoaXN0b3J5IjpbLTIxMDk5NDA3MzYsLTE4ODMxMDQxMjMsLT
 g4NTQ3NjMzNCwzOTk0NTI3NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3
 NDEsMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMT
 I5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
