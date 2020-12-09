@@ -191,11 +191,15 @@ Waar zouden we dit kunnen gebruiken ?
 ![Scenario 2](https://i.imgur.com/NRNZFM4.png)
 
 **E-mail versturen** 
+Met SendGrid
+![SendGrid](https://i.imgur.com/RX7Ftd7.png)
 
+Of 
 
 ### Scenario 3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MDAwMDYxLC0yMTMwNDIyMTM1LDEzMD
-EzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbOTczNTMxMDE3LDgzNjAwMDA2MSwtMjEzMD
+QyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5
+MV19
 -->
