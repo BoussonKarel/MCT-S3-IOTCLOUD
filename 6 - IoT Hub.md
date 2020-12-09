@@ -30,7 +30,10 @@ Azure IoT Hub is a fully managed service that enables **reliable** and secure **
 - Meest eenvoudige opstelling
 - Hardware moet wel krachtig genoeg zijn
   - Raspi, Sparkfun
+---
+Device zit rechtstreeks op het internet
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMT
-IzMTA5MjY3M119
+eyJoaXN0b3J5IjpbMTk4MjA3NDMyMCwtMTI5MDQ5OTM5MiwxNT
+U1NDg3OTg1LC0xMjMxMDkyNjczXX0=
 -->
