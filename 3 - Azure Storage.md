@@ -32,8 +32,10 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 - Disk Encryption beschikbaar
 
 ## Azure Blob Storage
-- Opslag
+- Opslag van bestanden
+  - *Afbeeldingen, PDF, CSS, JS files van web apps kan je hier plaatsen*
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc2MjI5NTksNDA0Mzc5Nzg0LC0xNz
-QxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3ND
+E4ODc5OTFdfQ==
 -->
