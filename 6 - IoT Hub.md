@@ -47,10 +47,12 @@ Device zit rechtstreeks op het internet
 
 ---
 ![D2C / C2D](https://i.imgur.com/3RQXsex.png)
-- D2C: Low powered device zal communiceren met Raspi.
-- Gateway zal data doorsturen naar Cloud
+- D2C: Low powered device zal communiceren met Raspi (Gateway).
+  - *Gateway zal data doorsturen naar Cloud*
+- C2D: IoT Hub zal commando sturen naar Raspi (Gateway)
+  - *Raspi zal commando naar juiste device sturen*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTQ0NDQ1NSwxNjU3NjUwNDIzLDg0OT
-A4NjIyOSwyMDMxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0ODc5
-ODUsLTEyMzEwOTI2NzNdfQ==
+eyJoaXN0b3J5IjpbOTE5MDUzNzQxLDE2NTc2NTA0MjMsODQ5MD
+g2MjI5LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4Nzk4
+NSwtMTIzMTA5MjY3M119
 -->
