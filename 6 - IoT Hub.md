@@ -12,8 +12,14 @@ Azure IoT Hub is a fully managed service that enables **reliable** and secure **
 - Beheer van devices via digital twin
 - Queries op devices
 ---
-
+- End-to-end security
+- Certificaten per device
+- TLS support
+- X,509 support
+- IP whitelisting / blacklisting van devices
+- Firmware / software update support
+- Eenvoudiger dan bij MQTT
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzQxMDIyMiwxNTU1NDg3OTg1LC0xMj
+eyJoaXN0b3J5IjpbMTU0Njk0NDc2NSwxNTU1NDg3OTg1LC0xMj
 MxMDkyNjczXX0=
 -->
