@@ -62,10 +62,11 @@ Level 1: Delivered at least once
 
 Level 2: Delivered exactly once
 : Receiver gets it exactly once.
-: M
+: More overhead.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODgxMDcwNywtMTczNTcyNTE2NSwxNT
+eyJoaXN0b3J5IjpbMTAxMTU1NjY1NywtMTczNTcyNTE2NSwxNT
 k2NTc4NTcyXX0=
 -->
