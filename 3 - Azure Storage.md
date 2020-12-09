@@ -14,12 +14,16 @@ Vijf soorten storage
 
 Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soorten storage aan.
 
+![Azure Storage Account](https://i.imgur.com/c4F4KtA.png)
+
 ## Azure Files
 - Hard Disk maar in de Cloud
 - Je kan deze mappen naar eigen pc *(bv. Z:\\)*
 - Handig: veilig files kopiëren Cloud <> On Premise
 - Zal gekende protocollen volgen zoals SMB3.0
 - Veel gebruikt in Hybrid Cloud
+
+![Azure Files](https://i.imgur.com/w5SdQjl.png)
 
 ## Azure Disk Storage
 - Basis voor Azure VM
@@ -80,6 +84,6 @@ Static Website
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTExODU3LDEzMDEzNDUwODksNDA0Mz
-c5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbLTEwNzM3NzMzMDMsMTMwMTM0NTA4OSw0MD
+QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
