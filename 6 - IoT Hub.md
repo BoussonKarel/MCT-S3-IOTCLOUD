@@ -44,8 +44,13 @@ Device zit rechtstreeks op het internet
   - Field gateway zal lokaal met minder krachtige device praten via CoAP, Bluetooth AllJoyn...
 
 ![Field Gateway](https://i.imgur.com/sqMdoWf.png)
+
+---
+![D2C / C2D](https://i.imgur.com/3RQXsex.png)
+- D2C: Low powered device zal communiceren met Raspi.
+- Gateway zal data doorsturen naar Cloud
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMT
-M5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDky
-NjczXX0=
+eyJoaXN0b3J5IjpbMTYxOTQ0NDQ1NSwxNjU3NjUwNDIzLDg0OT
+A4NjIyOSwyMDMxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0ODc5
+ODUsLTEyMzEwOTI2NzNdfQ==
 -->
