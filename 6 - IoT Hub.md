@@ -5,8 +5,15 @@ Azure IoT Hub is a fully managed service that enables **reliable** and secure **
 - Managed Service
 - Bi-Directional Communication
 - Miljoenen toestellen
-- 
+- Support voor meerdere talen (C#, Python, C, Node)
+- HTTPS/AMQP/MQTT protocol support
+- Versturen telemetrie data: Device to Cloud
+- Ontvangen van commands: Cloud to Device
+- Beheer van devices via digital twin
+- Queries op devices
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTY3NDU5NywxNTU1NDg3OTg1LC0xMj
+eyJoaXN0b3J5IjpbLTc3MzQxMDIyMiwxNTU1NDg3OTg1LC0xMj
 MxMDkyNjczXX0=
 -->
