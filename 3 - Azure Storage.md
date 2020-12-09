@@ -107,7 +107,12 @@ Static Website
   - Applicatie start om 23u op
     - Verwerkt alles
     - Shutdown app
+
+![Temporal Decoupling](https://i.imgur.com/S5jFOQn.png)
+
+## Azure Table Storage
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkzNjM5MSwxMzAxMzQ1MDg5LDQwND
-M3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbOTIxMTcyNzU2LDEzMDEzNDUwODksNDA0Mz
+c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
