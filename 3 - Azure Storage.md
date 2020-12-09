@@ -76,8 +76,10 @@ Static Website
 - We spreken over een **decoupled** applicatie
   - Zender & ontvanger werken onafhankelijk
 - Zeer schaalbaar door meerder queues op te starten
-- Resilience: buffer van berichten op queue zorgt ervoor dat er
+- **Resilience**: buffer van berichten op queue zorgt ervoor dat er niets verloren gaat als back-end wegvalt.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjgyMTU3OSwxMzAxMzQ1MDg5LDQwND
-M3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbMTIxMTExODU3LDEzMDEzNDUwODksNDA0Mz
+c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
