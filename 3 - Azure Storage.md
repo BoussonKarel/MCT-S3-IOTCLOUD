@@ -35,6 +35,8 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 - Mogelijkheid voor SSD disk
 - Disk Encryption beschikbaar
 
+![Azure Disk Storage](https://i.imgur.com/fD041jI.png)
+
 ## Azure Blob Storage
 - Opslag van bestanden
   - *Afbeeldingen, PDF, CSS, JS files van web apps kan je hier plaatsen*
@@ -82,8 +84,9 @@ Static Website
 - Zeer schaalbaar door meerder queues op te starten
 - **Resilience**: buffer van berichten op queue zorgt ervoor dat er niets verloren gaat als back-end wegvalt.
 
-
+*Webshop*
+![Voorbeeld Queues: webshop](https://i.imgur.com/8ksoWv7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM3NzMzMDMsMTMwMTM0NTA4OSw0MD
-QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbOTQ5MjM0NjU3LDEzMDEzNDUwODksNDA0Mz
+c5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
