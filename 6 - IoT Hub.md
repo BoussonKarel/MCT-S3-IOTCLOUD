@@ -66,9 +66,20 @@ Hoe data verwerken die binnenkomt op IoTHub
 - Ideaal om **configuratie** naar een toestel te sturen
 - Configuratie zal opgeslagen
   - In de Cloud (IoT Hub)
-  - Op het toestel *(bv. va
+  - Op het toestel *(bv. variable in Python)*
+- Voorbeeld:
+  - *Threshold voor temperatuur meter*
+  - *Instellen van parameter tijdstip van doorsturen*
+  - *Alles wat configureerbaar moet zijn op afstand*
+
++ **Reporting properties**
+  + Device kan rapporteren aan cloud
+  + Batterijstatus
+  + Toestelstatus
+  + Laatst
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MzE3NDQyLDIwNDIzMjQ0NTcsOTE5MD
-UzNzQxLDE2NTc2NTA0MjMsODQ5MDg2MjI5LDIwMzEzOTEzMTUs
-LTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
+eyJoaXN0b3J5IjpbMjA4MjE0NDg5OSwyMDQyMzI0NDU3LDkxOT
+A1Mzc0MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwyMDMxMzkxMzE1
+LC0xMjkwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ
+==
 -->
