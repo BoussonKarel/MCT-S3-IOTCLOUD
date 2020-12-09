@@ -68,7 +68,16 @@ Static Website
 : Ideaal voor VueJS, Angular, Reactor, Blazor...
 : Eventueel backend in Azure Functions (via JS aanroepen)
 : Zeer goedkoop
+
+## Azure Storage Queues
+- Een wachtrijin de Cloud
+- Een applicatie zal berichten op de wachtrij plaatsen (Sender)
+- Een tweede applicatie kan deze berichten op een zelf gekozen moment ophalen en verwerken (Receiver)
+- We spreken over een decoupledapplicatie
+- Zender & ontvanger werken onafhankelijk van elkaar
+- Zeer schaalbaar door meerder queues op te starten
+- Resilience: buffer van berichten op queue zorgt ervoor dat er
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU2NDQxOTcsMTMwMTM0NTA4OSw0MD
-QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbMTUyOTg3NTE4OSwxMzAxMzQ1MDg5LDQwND
+M3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
