@@ -13,6 +13,11 @@ Vijf soorten storage
 : Table
 
 Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soorten storage aan.
+
+## Azure Files
+- Hard Disk maar in de Cloud
+- Je kan deze mappen naar eigen pc *(bv. Z:\\)*
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzU5ODY1NywtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
