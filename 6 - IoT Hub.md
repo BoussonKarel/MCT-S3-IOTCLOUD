@@ -80,9 +80,12 @@ Hoe data verwerken die binnenkomt op IoTHub
   - Methodes op toestel activeren vanop afstand
   - We gaan de effectieve Python methode vanop afstand starten
   - *Bv. reboot*
+
+**IoT Hub Device Direct Method**
+- Python methode vanop afstand uitvoeren
+- Via portal, C#,arameters meesturen mogelijk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ1MjM1MDUsMjA0MjMyNDQ1Nyw5MT
-kwNTM3NDEsMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMx
-NSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX
-0=
+eyJoaXN0b3J5IjpbLTY3MTYyMTIwLDIwNDIzMjQ0NTcsOTE5MD
+UzNzQxLDE2NTc2NTA0MjMsODQ5MDg2MjI5LDIwMzEzOTEzMTUs
+LTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
 -->
