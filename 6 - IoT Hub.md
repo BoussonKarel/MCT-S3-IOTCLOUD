@@ -125,11 +125,15 @@ IoT Edge draait op Docker Containers zijn modules
 ![](https://i.imgur.com/90hvUbB.png)
 
 - Azure IoT Edge Runtime
-  - 
+  - Draait op RPi, Industriële PC
+  - Installatie van workloads & update op device
+  - Beveiligen van Edge communicatie
+  - Verantwoordelijk voor het uitvoeren van de modules
+  - Status health re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjYyMTA2MSwxMDk1Mzg4MDM3LC0yMT
-A5OTQwNzM2LC0xODgzMTA0MTIzLC04ODU0NzYzMzQsMzk5NDUy
-NzQ4LDIwNDIzMjQ0NTcsOTE5MDUzNzQxLDE2NTc2NTA0MjMsOD
-Q5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4
-Nzk4NSwtMTIzMTA5MjY3M119
+eyJoaXN0b3J5IjpbLTE4NzMzNTU2MjQsMTA5NTM4ODAzNywtMj
+EwOTk0MDczNiwtMTg4MzEwNDEyMywtODg1NDc2MzM0LDM5OTQ1
+Mjc0OCwyMDQyMzI0NDU3LDkxOTA1Mzc0MSwxNjU3NjUwNDIzLD
+g0OTA4NjIyOSwyMDMxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0
+ODc5ODUsLTEyMzEwOTI2NzNdfQ==
 -->
