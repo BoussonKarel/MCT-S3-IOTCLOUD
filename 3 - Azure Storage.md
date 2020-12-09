@@ -190,8 +190,12 @@ Waar zouden we dit kunnen gebruiken ?
 ### Scenario 2
 ![Scenario 2](https://i.imgur.com/NRNZFM4.png)
 
+**E-mail versturen** 
+
+
 ### Scenario 3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MDI3OTkyLC0yMTMwNDIyMTM1LDEzMD
+eyJoaXN0b3J5IjpbODM2MDAwMDYxLC0yMTMwNDIyMTM1LDEzMD
 EzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
