@@ -17,9 +17,15 @@ MQTT
 - Doel
   - Data verzamelen op device voor transport naar cloud
   - Data vanuit de cloud naar de device versturen
-  - Co
+  - Communicatie tussen machines (M2M)
+    - *Bv. tussen Raspberry Pi en ESP32*
 - Voordeel
-
+  - Lightweight (weinig overhead)
+  - Bi-directioneel
+  - Standaard (versie 3.1.1)
+  - Eenvoudig in gebruik
+---
+- We spreken van een Publishing / Subscriber protocol
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTA5OTM4OCwxNTk2NTc4NTcyXX0=
+eyJoaXN0b3J5IjpbNjYzOTE1NzI5LDE1OTY1Nzg1NzJdfQ==
 -->
