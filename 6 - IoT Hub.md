@@ -142,10 +142,19 @@ IoT Edge draait op Docker Containers zijn modules
   - We koppelen modules aan elkaar als een soort data processing pipeline
   - We kunnen modules schrijven in C#, Python...
   - Modules zijn **Docker Containers*
-    - *Bv. module die data filtert vooraleer naar de cloud te sturen*
-    - *Bv.
+    - *Bv. module die data filtert vooraleer naar de cloud te sturen¨.*
+    - *Bv. module die data omzet van XML naar JSON voor deze naar de Cloud te sturen.*
+
+![](https://i.imgur.com/U2or0b1.png)
+
+## Belangrijk
+- Wat en waarom IoT hub ?
+- Waar zijn digitale twins bij IoT Hub en wat zijn de voordelen?
+- Wat zijn direct methods en wanneer gebruiken we dit?
+- Wat is IoT Edge?
+- Wanneer gebruiken we IoT Edge en wanneer IoT Hub?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY2NTU2NCw5NDk1MjgxOTksMTA5NT
+eyJoaXN0b3J5IjpbLTUxNTU0NDI5Miw5NDk1MjgxOTksMTA5NT
 M4ODAzNywtMjEwOTk0MDczNiwtMTg4MzEwNDEyMywtODg1NDc2
 MzM0LDM5OTQ1Mjc0OCwyMDQyMzI0NDU3LDkxOTA1Mzc0MSwxNj
 U3NjUwNDIzLDg0OTA4NjIyOSwyMDMxMzkxMzE1LC0xMjkwNDk5
