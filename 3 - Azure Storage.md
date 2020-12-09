@@ -209,13 +209,29 @@ Bij ontvangst van een bericht op de queue
 
 ## Good practices
 - Iedere Azure Function heeft eigen taak
-  - Eén trigger: *file Upload + mail*
+  - ~~Eén trigger: *file Upload + mail*~~
   - Meerdere triggers = schaalbaar; hogere performantie
     - HTTP Trigger: *file naar Blob*
     - Blob Trigger: *bericht op queue*
     - Queue Trigger: *mail sturen*
+
+## Wat met configuratie files online
+| Offline | Online (via de portal) |
+|--|--|
+| local.settings.json | Configuration > Application settings |
+
+## Belangrijk
+- Welke zijn de verschillende soorten Azure Storage en wat is hun doel ?
+- Wat is Azure Blob storage enwanneergebruikje deze?
+- Wat is Azure Storage Queues enwanneergebruikikdeze?
+- Wat is Azure Table Storage enwanneergebruikikdeze?
+- Wat zijnpartitions in Azure Table Storage?
+- Hoe werken Azure FunctionsBlobTriggers
+- Waarvoorkan ik Azure FunctionsBlobTrigger gebruikenWat is SendGrid
+
+Goodpractices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE0MDA1NDQsODM2MDAwMDYxLC0yMT
-MwNDIyMTM1LDEzMDEzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3
-OTkxXX0=
+eyJoaXN0b3J5IjpbLTU4MzQ1NTc4NCw4MzYwMDAwNjEsLTIxMz
+A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
+OTFdfQ==
 -->
