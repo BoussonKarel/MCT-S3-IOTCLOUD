@@ -43,8 +43,18 @@ Sectoren: *Telemetry, Automotive, Smart Home, Energy Monitoring, Chat Apps, Noti
 
 ![Topic](https://i.imgur.com/TRvBZAL.png)
 
-![Wildcard](https://i.imgur.com/baiMU6E.png)
+![Wildcards](https://i.imgur.com/baiMU6E.png)
+
+![Wildcards](https://i.imgur.com/TByshhT.png)
+
+---
+- **QoS** (Quality of Service)
+- 3 niveau's
+  - Fire And Forget
+  - Delivered at least once
+  - Delivered exactly once
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcxMzQ3LC0xNzM1NzI1MTY1LDE1OT
-Y1Nzg1NzJdfQ==
+eyJoaXN0b3J5IjpbMTY0NzY5NDk3OCwtMTczNTcyNTE2NSwxNT
+k2NTc4NTcyXX0=
 -->
