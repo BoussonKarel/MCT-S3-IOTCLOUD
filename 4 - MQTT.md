@@ -87,14 +87,21 @@ Level 2: Delivered exactly once
 ## Opstellingen
 ### Directe communicatie (one way)
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+- Vanuit App direct communiceren met MQTT broker via internet.
+- Voor meeste platformen (iOS, Android, Windows is dit mogelijk)
+- Niet altijd beste oplossing (poorten niet altijd open)
+- 
 
 ### Bericht via Azure Functions naar MQTT (one way)
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
 
-### Communic
+### Communicatie tussen devices via cloud
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
 
-### Directe communicatie (one way)
+### Communicatie tussen devices lokaal zonder cloud
+![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+
+### Communicatie tussen devices lokaal via gateway met cloud link
 ![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
 
 ## Belangrijk
@@ -104,6 +111,6 @@ Level 2: Delivered exactly once
 - Wat is QoSen welke zijn er ?
 - Welke opstellingen zijn er mogelijk ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5ODc4MTc5LDE3NzM2MjY4ODAsLTE3Mz
-U3MjUxNjUsMTU5NjU3ODU3Ml19
+eyJoaXN0b3J5IjpbLTE2Nzg0NjYwODMsMTc3MzYyNjg4MCwtMT
+czNTcyNTE2NSwxNTk2NTc4NTcyXX0=
 -->
