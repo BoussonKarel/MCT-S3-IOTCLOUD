@@ -191,7 +191,7 @@ Waar zouden we dit kunnen gebruiken ?
 ![Scenario 2](https://i.imgur.com/NRNZFM4.png)
 
 **Blob Trigger**
-Functie uitvoeren als er een Blob file aangemaakt is in een container
+Functie uitvoeren als er een Blob file aangemaakt is in een container *(bv. uploaden van foto's, csv... naar blob voor verdere verwerking)*
 
 **E-mail versturen** 
 Met SendGrid
@@ -203,8 +203,9 @@ Of MailKit (alternatief, geen mailservice)
 ![Scenario 3](https://i.imgur.com/AFJD5M1.png)
 
 **Queue Trigger**
+B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTQ4MDY3MCw4MzYwMDAwNjEsLTIxMz
+eyJoaXN0b3J5IjpbLTU2NzYyMTIxNiw4MzYwMDAwNjEsLTIxMz
 A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
 OTFdfQ==
 -->
