@@ -118,11 +118,14 @@ Hoe data verwerken die binnenkomt op IoTHub
   - *Lokale data opslag*
 
 + Opbouw applicatie aan device kant bij IoT Hub
-+ 
+
+![](https://i.imgur.com/SVqw513.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTM4ODAzNywtMjEwOTk0MDczNiwtMT
-g4MzEwNDEyMywtODg1NDc2MzM0LDM5OTQ1Mjc0OCwyMDQyMzI0
-NDU3LDkxOTA1Mzc0MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwyMD
-MxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEw
-OTI2NzNdfQ==
+eyJoaXN0b3J5IjpbLTM4ODQ4MDUyOSwxMDk1Mzg4MDM3LC0yMT
+A5OTQwNzM2LC0xODgzMTA0MTIzLC04ODU0NzYzMzQsMzk5NDUy
+NzQ4LDIwNDIzMjQ0NTcsOTE5MDUzNzQxLDE2NTc2NTA0MjMsOD
+Q5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4
+Nzk4NSwtMTIzMTA5MjY3M119
 -->
