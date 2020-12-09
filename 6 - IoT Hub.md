@@ -96,10 +96,12 @@ Hoe data verwerken die binnenkomt op IoTHub
 ## IoT Edge
 - **IoT Hub issues**
   - Alles moet naar de cloud voor werking, niets lokaal, veel datatrafiek
-  - Afha
+  - Afhankelijk van het internet
+  - Moeilijk scripts op een device te updaten
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5OTEzOTIwLDM5OTQ1Mjc0OCwyMDQyMz
-I0NDU3LDkxOTA1Mzc0MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwy
-MDMxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMz
-EwOTI2NzNdfQ==
+eyJoaXN0b3J5IjpbLTg4NTQ3NjMzNCwzOTk0NTI3NDgsMjA0Mj
+MyNDQ1Nyw5MTkwNTM3NDEsMTY1NzY1MDQyMyw4NDkwODYyMjks
+MjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMj
+MxMDkyNjczXX0=
 -->
