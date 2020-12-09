@@ -209,11 +209,13 @@ Bij ontvangst van een bericht op de queue
 
 ## Good practices
 - Iedere Azure Function heeft eigen taak
-  - File Upload + Mail in 1 triggr = NOK
-  - Wel goed:
-    - HTTP Trigger
+  - Eén trigger: *file Upload + mail*
+  - Meerdere triggers = schaalbaar; hogere performantie
+    - HTTP Trigger: *file naar Blob*
+    - Blob Trigger: *bericht op queue*
+    - Queue Trigger: *mail sturen*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxODgyNzA5LDgzNjAwMDA2MSwtMjEzMD
-QyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5
-MV19
+eyJoaXN0b3J5IjpbLTIwNzE0MDA1NDQsODM2MDAwMDYxLC0yMT
+MwNDIyMTM1LDEzMDEzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3
+OTkxXX0=
 -->
