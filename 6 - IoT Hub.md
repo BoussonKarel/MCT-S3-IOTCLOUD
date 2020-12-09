@@ -38,8 +38,10 @@ Device zit rechtstreeks op het internet
 - Wat als device niet krachtig genoeg is?
   - Arduino, Mbed Cortex M0, M1...
   - Goedkope hardware (kan niet altijd connecteren op internet)
-  - 
+- Oplossing
+  - Field gateway *(RPi, Industriële PC)*
+  - Krachtig genoeg om veilig 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY2MzAyODQsMjAzMTM5MTMxNSwtMT
-I5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbODQ5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOT
+A0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
 -->
