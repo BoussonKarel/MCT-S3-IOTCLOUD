@@ -35,9 +35,9 @@ Device zit rechtstreeks op het internet
 ![Device zit rechtstreeks op de hub](https://i.imgur.com/YAc8Pv8.png)
 
 ---
-Wat als device niet krachtig genoeg is?
-
+- Wat als device niet krachtig genoeg is?
+  - Arduino, Mbed Cortex M0, M1...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNT
-U1NDg3OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbMjE0NjY1MjM5OSwyMDMxMzkxMzE1LC0xMj
+kwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ==
 -->
