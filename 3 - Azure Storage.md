@@ -184,10 +184,14 @@ Waar zouden we dit kunnen gebruiken ?
 - Allemaal te programmeren via C#, Python of JS
 
 ## Enkele Scenario's
+### Scenario 1
 ![Scenario 1](https://i.imgur.com/kCTSurn.png)
 
+### Scenario 2
+![Scenario 2](https://i.imgur.com/NRNZFM4.png)
 
+### Scenario 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzQ3NzgyOSwtMjEzMDQyMjEzNSwxMz
-AxMzQ1MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbNDc1MDI3OTkyLC0yMTMwNDIyMTM1LDEzMD
+EzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
