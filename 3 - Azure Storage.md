@@ -17,7 +17,15 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 ## Azure Files
 - Hard Disk maar in de Cloud
 - Je kan deze mappen naar eigen pc *(bv. Z:\\)*
-- 
+- Handig: veilig files kopiëren Cloud <> On Premise
+- Zal gekende protocollen volgen zoals SMB3.0
+- Veel gebruikt in Hybrid Cloud
+
+## Azure Disk Storage
+- Basis voor Azure VM
+- Op deze locaties komt de server te staan
+- Ook mogelijkheid datadisks te maken
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbLTE1OTA5OTkyMjksNDA0Mzc5Nzg0LC0xNz
+QxODg3OTkxXX0=
 -->
