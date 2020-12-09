@@ -57,13 +57,15 @@ Level 0: Fire And Forget
 
 Level 1: Delivered at least once
 : Receiver will get it at least once.
-: No ack (or it gets lost) --> Resent until s
+: Resent until sender gets ack.
 : Duplicates can occur.
 
 Level 2: Delivered exactly once
-: Relies on reliability of TCP. No retransmission.
+: Receiver gets it exactly once.
+: M
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY5MDI2NDMsLTE3MzU3MjUxNjUsMT
-U5NjU3ODU3Ml19
+eyJoaXN0b3J5IjpbLTcwODgxMDcwNywtMTczNTcyNTE2NSwxNT
+k2NTc4NTcyXX0=
 -->
