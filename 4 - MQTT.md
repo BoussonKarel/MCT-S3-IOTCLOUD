@@ -43,6 +43,7 @@ Sectoren: *Telemetry, Automotive, Smart Home, Energy Monitoring, Chat Apps, Noti
 
 ![Topic](https://i.imgur.com/TRvBZAL.png)
 
+**Wildcards**
 ![Wildcards](https://i.imgur.com/baiMU6E.png)
 
 ![Wildcards](https://i.imgur.com/TByshhT.png)
@@ -64,9 +65,19 @@ Level 2: Delivered exactly once
 : Receiver gets it exactly once.
 : More overhead.
 
+---
+- **Payload**
+  - JSON
+  - XML
+  - CSV
+  - ...
+- Geen standaard
+- Nadeel is interoperatibility
+  - Samenwerken met andere systemen is moeilijk: geen afspraken rond inhoud.
+  - Goed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTU1NjY1NywtMTczNTcyNTE2NSwxNT
-k2NTc4NTcyXX0=
+eyJoaXN0b3J5IjpbNDU3Nzg2MzcyLC0xNzM1NzI1MTY1LDE1OT
+Y1Nzg1NzJdfQ==
 -->
