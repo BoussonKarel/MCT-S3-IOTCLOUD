@@ -50,11 +50,17 @@ Sectoren: *Telemetry, Automotive, Smart Home, Energy Monitoring, Chat Apps, Noti
 ---
 - **QoS** (Quality of Service)
 - 3 niveau's
-  - Fire And Forget
-  - Delivered at least once
-  - Delivered exactly once
+
+Level 0: Fire And Forget
+: Relies on reliability of TCP. No r
+
+Level 1: Delivered at least once
+:
+
+Level 2: Delivered exactly once
+:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzY5NDk3OCwtMTczNTcyNTE2NSwxNT
-k2NTc4NTcyXX0=
+eyJoaXN0b3J5IjpbNDA3OTMwMTEwLC0xNzM1NzI1MTY1LDE1OT
+Y1Nzg1NzJdfQ==
 -->
