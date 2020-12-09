@@ -139,14 +139,14 @@ Static Website
       - Row Key
       - Timestamp *(automatisch)*
     - Niet iedere rij moet evenveel kolommen hebben
-
+---
 + Table Storage Data Access
   + REST API
     + Cross platform HTTP Requests (.NET, PHP, Android, Objective C...)
   + Storage Client API (via NUGET Package Azure Storage)
   + Andere platformen zijn er ook libraries
     + iOS, Android, Python...
-
+---
 - Queries
   - Max. 1000 items terugkeren
   - Indien > 1000
@@ -154,7 +154,7 @@ Static Website
   - Query > 30 sec = cancelled
   - Geen index mogelijk
   - Query op partition & row key = snel
-
+---
 + Kolom types
   + Byte[]
   + Bool
@@ -164,7 +164,16 @@ Static Website
   + Int32 or int
   + Int64 or long
   + String
+---
+Waar zouden we dit kunnen gebruiken ?
+- Profiel info (zal niet veel wijzigen)
+- Device info
+  - *Bv. alle IMEI nummers van GSM toestellen binnen een netwerk*
+- TelemetryData
+  - *Bv. sensor netwerken die om de 5 sec waarde van (temperatuur) sensor doorsturen*
+- Data voor AI modellen
+- Alles waar je zeer veel niet veel wijzigende data wenst op te slaan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5OTA3MTQyLDEzMDEzNDUwODksNDA0Mz
-c5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbLTE2ODM1NjIxMTcsMTMwMTM0NTA4OSw0MD
+QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
