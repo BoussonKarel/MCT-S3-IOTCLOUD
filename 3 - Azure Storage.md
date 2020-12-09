@@ -190,6 +190,9 @@ Waar zouden we dit kunnen gebruiken ?
 ### Scenario 2
 ![Scenario 2](https://i.imgur.com/NRNZFM4.png)
 
+**Blob Trigger**
+Functie uitvoeren als er een Blob file aangemaakt is in een container
+
 **E-mail versturen** 
 Met SendGrid
 ![SendGrid](https://i.imgur.com/RX7Ftd7.png)
@@ -197,9 +200,11 @@ Met SendGrid
 Of MailKit (alternatief, geen mailservice)
 
 ### Scenario 3
+![Scenario 3](https://i.imgur.com/AFJD5M1.png)
 
+**Queue Trigger**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4NjQ0MDksODM2MDAwMDYxLC0yMT
-MwNDIyMTM1LDEzMDEzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3
-OTkxXX0=
+eyJoaXN0b3J5IjpbMTUwOTQ4MDY3MCw4MzYwMDAwNjEsLTIxMz
+A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
+OTFdfQ==
 -->
