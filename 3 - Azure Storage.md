@@ -182,7 +182,12 @@ Waar zouden we dit kunnen gebruiken ?
   - Versturen van berichten naar Queues
   - Wegschrijven van records naar table storage
 - Allemaal te programmeren via C#, Python of JS
+
+## Enkele Scenario's
+![Scenario 1](https://i.imgur.com/kCTSurn.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MD
-QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbMTQ2MzQ3NzgyOSwtMjEzMDQyMjEzNSwxMz
+AxMzQ1MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5MV19
 -->
