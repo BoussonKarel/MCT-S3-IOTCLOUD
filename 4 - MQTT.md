@@ -85,8 +85,25 @@ Level 2: Delivered exactly once
     - Krachtiger IoT device nodig voor encryptie (niet overal mogelijk)
 
 ## Opstellingen
+### Directe communicatie (one way)
+![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
 
+### Bericht via Azure Functions naar MQTT (one way)
+![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+
+### Communic
+![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+
+### Directe communicatie (one way)
+![Directe communicatie](https://i.imgur.com/DE7HY5V.png)
+
+## Belangrijk
+- Wat is MQTT ?
+- Wat zijn topics & subscriptions?
+- Welke vormen van topics zijn er , cfr. Wilcardsetc
+- Wat is QoSen welke zijn er ?
+- Welke opstellingen zijn er mogelijk ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzYyNjg4MCwtMTczNTcyNTE2NSwxNT
-k2NTc4NTcyXX0=
+eyJoaXN0b3J5IjpbNzY5ODc4MTc5LDE3NzM2MjY4ODAsLTE3Mz
+U3MjUxNjUsMTU5NjU3ODU3Ml19
 -->
