@@ -222,16 +222,16 @@ Bij ontvangst van een bericht op de queue
 
 ## Belangrijk
 - Welke zijn de verschillende soorten Azure Storage en wat is hun doel ?
-- Wat is Azure Blob storage enwanneergebruikje deze?
-- Wat is Azure Storage Queues enwanneergebruikikdeze?
-- Wat is Azure Table Storage enwanneergebruikikdeze?
-- Wat zijnpartitions in Azure Table Storage?
-- Hoe werken Azure FunctionsBlobTriggers
-- Waarvoorkan ik Azure FunctionsBlobTrigger gebruikenWat is SendGrid
-
-Goodpractices
+- Wat is Azure Blob storage en wanneer gebruik je deze?
+- Wat is Azure Storage Queues en wanneer gebruik ik deze?
+- Wat is Azure Table Storage en wanneer gebruik ik deze?
+- Wat zijn partitions in Azure Table Storage?
+- Hoe werken Azure Functions BlobTriggers?
+- Waarvoor kan ik Azure Functions Blob Trigger gebruiken?
+- Wat is SendGrid?
+- Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzQ1NTc4NCw4MzYwMDAwNjEsLTIxMz
+eyJoaXN0b3J5IjpbLTQ1NjY3ODM0Myw4MzYwMDAwNjEsLTIxMz
 A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
 OTFdfQ==
 -->
