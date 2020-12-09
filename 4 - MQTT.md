@@ -5,8 +5,7 @@
 # MQTT
 ![MQTT werking](https://i.imgur.com/anwfSw4.png)
 
-- Broker staat centraal
-- Doet niets anders dan berichten doorsturen en ontvangen
+- Broker doet niets anders dan berichten doorsturen en ontvangen
 
 ![(Un)managed services](https://i.imgur.com/fAhYOSM.png)
 
@@ -25,7 +24,12 @@ MQTT
   - Standaard (versie 3.1.1)
   - Eenvoudig in gebruik
 ---
-- We spreken van een Publishing / Subscriber protocol
+- We spreken van een **Pub**lishing / **Sub**scriber protocol
+- Centraal staat de broker die bemiddeling doet tussen clients
+- Eén of meerdere client subscriben op een **topic**
+- Eén of meerdere client kunnen een bericht plaatsen op een **topic**
+- Pub/Sub weten niets van elkaars bestaan af (geen IP, ports, locatie...)
+- Pub/Sub moeten niet op hetzelfde 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzOTE1NzI5LDE1OTY1Nzg1NzJdfQ==
+eyJoaXN0b3J5IjpbNzcyMDE5MjEwLDE1OTY1Nzg1NzJdfQ==
 -->
