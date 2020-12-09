@@ -113,10 +113,16 @@ Hoe data verwerken die binnenkomt op IoTHub
   + Makkelijk updaten van IoT Edge device
 
 - *Voorbeelden*
-  - *Foto analyse 
+  - *Foto analyse op IoT Edge*
+  - *Filteren van data op de Edge Device*
+  - *Lokale data opslag*
+
++ Opbouw applicatie aan device kant bij IoT Hub
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk5NDA3MzYsLTE4ODMxMDQxMjMsLT
-g4NTQ3NjMzNCwzOTk0NTI3NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3
-NDEsMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMT
-I5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbMTA5NTM4ODAzNywtMjEwOTk0MDczNiwtMT
+g4MzEwNDEyMywtODg1NDc2MzM0LDM5OTQ1Mjc0OCwyMDQyMzI0
+NDU3LDkxOTA1Mzc0MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwyMD
+MxMzkxMzE1LC0xMjkwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEw
+OTI2NzNdfQ==
 -->
