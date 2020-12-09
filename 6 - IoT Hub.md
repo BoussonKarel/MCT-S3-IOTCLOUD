@@ -40,8 +40,12 @@ Device zit rechtstreeks op het internet
   - Goedkope hardware (kan niet altijd connecteren op internet)
 - Oplossing
   - Field gateway *(RPi, Industriële PC)*
-  - Krachtig genoeg om veilig 
+  - Krachtig genoeg om veilig met internet te communiceren
+  - Field gateway zal lokaal met minder krachtige device praten via CoAP, Bluetooth AllJoyn...
+
+![Field Gateway](https://i.imgur.com/sqMdoWf.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOT
-A0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
+eyJoaXN0b3J5IjpbMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMT
+M5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDky
+NjczXX0=
 -->
