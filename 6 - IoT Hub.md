@@ -27,7 +27,10 @@ Azure IoT Hub is a fully managed service that enables **reliable** and secure **
   - AMQP
   - MQTT
   - HTTPS
+- Meest eenvoudige opstelling
+- Hardware moet wel krachtig genoeg zijn
+  - Raspi, Sparkfun
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODQ3MzgwNCwxNTU1NDg3OTg1LC0xMj
-MxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbLTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMT
+IzMTA5MjY3M119
 -->
