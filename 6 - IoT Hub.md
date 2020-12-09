@@ -78,8 +78,12 @@ Hoe data verwerken die binnenkomt op IoTHub
   + Toestelstatus
   + Laatste upload toestel > cloud
 
+- **Device Methodes**
+  - Methodes op toestel activeren vanop afstand
+  - We gaan de effectieve Python methode vanop afstand starten
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM3MjI3MzYsMjA0MjMyNDQ1Nyw5MT
+eyJoaXN0b3J5IjpbLTE0NTYzNDMzODcsMjA0MjMyNDQ1Nyw5MT
 kwNTM3NDEsMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMx
 NSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX
 0=
