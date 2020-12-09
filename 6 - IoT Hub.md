@@ -68,7 +68,7 @@ Hoe data verwerken die binnenkomt op IoTHub
   - In de Cloud (IoT Hub)
   - Op het toestel *(bv. variable in Python)*
 - Alles wat configureerbaar moet zijn op afstand
-- *Bijvoorbeeld Threshold voor temperatuur meter*
+- *Bv. Threshold voor temperatuur meter*
 
 + **Reporting properties**
   + Device kan rapporteren aan cloud
@@ -79,10 +79,10 @@ Hoe data verwerken die binnenkomt op IoTHub
 - **Device Methodes**
   - Methodes op toestel activeren vanop afstand
   - We gaan de effectieve Python methode vanop afstand starten
-  - *Bijvoorbeeld reboot*
+  - *Bv. reboot*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTY3ODU3NSwyMDQyMzI0NDU3LDkxOT
-A1Mzc0MSwxNjU3NjUwNDIzLDg0OTA4NjIyOSwyMDMxMzkxMzE1
-LC0xMjkwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMzQ1MjM1MDUsMjA0MjMyNDQ1Nyw5MT
+kwNTM3NDEsMTY1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMx
+NSwtMTI5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX
+0=
 -->
