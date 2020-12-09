@@ -37,7 +37,9 @@ Device zit rechtstreeks op het internet
 ---
 - Wat als device niet krachtig genoeg is?
   - Arduino, Mbed Cortex M0, M1...
+  - Goedkope hardware (kan niet altijd connecteren op internet)
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjY1MjM5OSwyMDMxMzkxMzE1LC0xMj
-kwNDk5MzkyLDE1NTU0ODc5ODUsLTEyMzEwOTI2NzNdfQ==
+eyJoaXN0b3J5IjpbLTE1MDY2MzAyODQsMjAzMTM5MTMxNSwtMT
+I5MDQ5OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
 -->
