@@ -34,8 +34,13 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 ## Azure Blob Storage
 - Opslag van bestanden
   - *Afbeeldingen, PDF, CSS, JS files van web apps kan je hier plaatsen*
-- 
+- Single page apps (Vue, Angular, Blazor)
+- Container
+  - Bevat de bestanden
+  - Naam opgeven
+  - Public Access Level (wie kan welke bestanden zien)
+    - Private (default) extern bekijk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3ND
-E4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDc3NTIyOTUsMTMwMTM0NTA4OSw0MD
+QzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
