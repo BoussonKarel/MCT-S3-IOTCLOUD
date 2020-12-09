@@ -85,8 +85,14 @@ Hoe data verwerken die binnenkomt op IoTHub
   - Python methode vanop afstand uitvoeren
   - Via portal, C#
   - Parameters meesturen mogelijk
+
++ Queries mogelijk op twins
+
+- **IoT Hub Trigger for Azure Functions**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NDUyNzQ4LDIwNDIzMjQ0NTcsOTE5MD
-UzNzQxLDE2NTc2NTA0MjMsODQ5MDg2MjI5LDIwMzEzOTEzMTUs
-LTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMTIzMTA5MjY3M119
+eyJoaXN0b3J5IjpbLTIxMjcwOTg3ODYsMzk5NDUyNzQ4LDIwND
+IzMjQ0NTcsOTE5MDUzNzQxLDE2NTc2NTA0MjMsODQ5MDg2MjI5
+LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4Nzk4NSwtMT
+IzMTA5MjY3M119
 -->
