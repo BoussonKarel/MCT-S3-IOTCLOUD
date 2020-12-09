@@ -121,9 +121,13 @@ Hoe data verwerken die binnenkomt op IoTHub
 
 ![](https://i.imgur.com/SVqw513.png)
 
+IoT Edge draait op Docker Containers zijn modules
+![](https://i.imgur.com/90hvUbB.png)
 
+- Azure IoT Edge Runtime
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODQ4MDUyOSwxMDk1Mzg4MDM3LC0yMT
+eyJoaXN0b3J5IjpbLTMzNjYyMTA2MSwxMDk1Mzg4MDM3LC0yMT
 A5OTQwNzM2LC0xODgzMTA0MTIzLC04ODU0NzYzMzQsMzk5NDUy
 NzQ4LDIwNDIzMjQ0NTcsOTE5MDUzNzQxLDE2NTc2NTA0MjMsOD
 Q5MDg2MjI5LDIwMzEzOTEzMTUsLTEyOTA0OTkzOTIsMTU1NTQ4
