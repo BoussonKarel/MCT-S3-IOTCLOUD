@@ -137,11 +137,14 @@ IoT Edge draait op Docker Containers zijn modules
 
 ---
 - Modules
+  - Functionaliteit toevoegen op Edge
+  - Iedere module zal een actie uitvoeren
+  - We koppelen
   - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NTI4MTk5LDEwOTUzODgwMzcsLTIxMD
-k5NDA3MzYsLTE4ODMxMDQxMjMsLTg4NTQ3NjMzNCwzOTk0NTI3
-NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMTY1NzY1MDQyMyw4ND
-kwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5OTM5MiwxNTU1NDg3
-OTg1LC0xMjMxMDkyNjczXX0=
+eyJoaXN0b3J5IjpbLTE4MjEyNTEwNzAsOTQ5NTI4MTk5LDEwOT
+UzODgwMzcsLTIxMDk5NDA3MzYsLTE4ODMxMDQxMjMsLTg4NTQ3
+NjMzNCwzOTk0NTI3NDgsMjA0MjMyNDQ1Nyw5MTkwNTM3NDEsMT
+Y1NzY1MDQyMyw4NDkwODYyMjksMjAzMTM5MTMxNSwtMTI5MDQ5
+OTM5MiwxNTU1NDg3OTg1LC0xMjMxMDkyNjczXX0=
 -->
