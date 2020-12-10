@@ -1,4 +1,7 @@
 # IoT Cloud - Handy things
+## IoTHub Connection string
+
+
 ## Python: HTTP requests
 **GET**
 ```python
@@ -70,7 +73,7 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzczNzc3MywxMjgwMjU0ODMxLC0xMz
-g1MTc1NDAsMTgxOTYyMjM3OSwyMDIxMjUxMDA1LDEwOTk5NzY4
-MzldfQ==
+eyJoaXN0b3J5IjpbLTI0NjYxODg2NywxNjIzNzM3NzczLDEyOD
+AyNTQ4MzEsLTEzODUxNzU0MCwxODE5NjIyMzc5LDIwMjEyNTEw
+MDUsMTA5OTk3NjgzOV19
 -->
