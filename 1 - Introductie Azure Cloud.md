@@ -86,16 +86,16 @@ Portal gebruikt voor het beheren van Cloud services en applicaties.
 ![Account, Subscription, Resource groups](https://i.imgur.com/C4WiSOx.png)
 
 Logische container
-: Per project
-: Per soort service *(Storage; Webservers; Fileservers; SQL, Blob...)*
-: ...
+
+- Per project
+- Per soort service *(Storage; Webservers; Fileservers; SQL, Blob...)*
+- ...
 
 + Container met inhoud in één keer verwijderen
 + Toegangsrechten per container
 
 ## Azure Virtual Machines
-- Eigen server op Azure omgeving
-- Meestal migratie On-premise
+Eigen server op Azure omgeving
 
 + Heel wat mogelijkheden 
 *(file servers, database servers, webservers, application servers...)*
@@ -264,11 +264,10 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM0OTc0MTYsNTA5OTcxMDQ5LDE2ND
-A4Njc4MTUsLTE1ODMzODQ4LC0xNTA2MzAwMjcsMTAxNDM4MTAw
-NiwtNzMxNDIyNzEwLDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMD
-gxNTAxMzA4LC0xMTg0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5
-MTYyOTIsLTE0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNT
-I4LDMxNzYxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
-
+eyJoaXN0b3J5IjpbLTgwODM1Mzg1LDUwOTk3MTA0OSwxNjQwOD
+Y3ODE1LC0xNTgzMzg0OCwtMTUwNjMwMDI3LDEwMTQzODEwMDYs
+LTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyODQ1OTY1NDUsMjA4MT
+UwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2OTM2MSwtODU5OTE2
+MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5ODMsLTYwOTg0MjUyOC
+wzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkxMzUxNDAwXX0=
 -->
