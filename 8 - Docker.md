@@ -141,8 +141,15 @@ Azure Web App for Containers
 
 ## Docker Compose
 - Wat als we meerdere docker containers nodig hebben voor onze applicatie?
-- Cache Server
-- Data
+  - Cache Server
+  - Database Server
+  - Meerdere webservers?
+- Via Docker compose kunnen we
+  - Alle containers definiëren in een yaml file
+  - Via 1 commando zullen alle containers opgezet worden
+  - We maken gebruik van docker-compose.yml
+
++ **Docker-compose.yml**
 
 ## Docker Volumes
 
@@ -156,8 +163,8 @@ Azure Web App for Containers
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTE3NjY3OSwtMTEzMzgyMDc0OCwxMz
-cyMDMzMTc4LC0xMDMxNDcyNjk2LDE3Mzg4MDcwNjksODI1MzIy
-ODY4LDE3MTkzMDc3MTAsNjYyNTA3NjYsLTE1NjE0NjM1NjEsOD
-QzNTIxMTksMTQzMjYzNDYxMl19
+eyJoaXN0b3J5IjpbLTExODg0MDkyNTUsLTExMzM4MjA3NDgsMT
+M3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNzM4ODA3MDY5LDgyNTMy
+Mjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYxLD
+g0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
 -->
