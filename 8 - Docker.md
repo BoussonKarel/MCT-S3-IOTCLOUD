@@ -18,7 +18,18 @@
 ![](https://i.imgur.com/a8A94Ez.png)
 
 **Nieuwe manier** van deployment (installatie van de applicatie)
-- Applicatie met nodige libraries in een image, die we kunnen opstarten als 
+- Applicatie met nodige libraries in een image, die we kunnen opstarten als container
+- Alle applicaties gescheiden van elkaar, delen enkel kernel van OS
+- Geen versie conflicten tussen libraries
+- Makkelijker updates, gewoon update van de image en container heropstarten
+- Geen systeembeheerder nodig
+
+![](https://i.imgur.com/4tGUd33.png)
+
+![](https://i.imgur.com/cfKFyZ9.png)
+
+## Wat is Docker?
+Waarom Docker?
 
 ## Hoe werkt Docker?
 
@@ -48,7 +59,7 @@
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDAzMTIzOSwxNzE5MzA3NzEwLDY2Mj
+eyJoaXN0b3J5IjpbMTcwMjIxMDc2NiwxNzE5MzA3NzEwLDY2Mj
 UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
 fQ==
 -->
