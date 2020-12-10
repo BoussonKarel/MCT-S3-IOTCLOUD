@@ -326,17 +326,17 @@ HttpClient > Zie **Device Programming**
 - Over welke soorten “Internet” spreken we ?
 - Wat zijn Webservices en hun eigenschappen?
 - Wanneer moet je GET POST PUT DELETE gebruiken?
-- Welk HTTP verbszijn idempotent?
+- Welk HTTP Verbs zijn idempotent?
 - Welke statuscodes moet ik terugsturen?
 - Wat is JSON en zorg dat je manueel JSON kan schrijven?
 - Hoe kan je Azure Functions aanroepen vanuit Python?
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzU4Mjk4NSwxNjMwNjA3MDEzLC00ND
-kxNTcyNDEsMTY1Nzk2NjAyMyw5MzUxMDA1NDksLTM0NDAzNzU2
-Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEsNjQ0MT
-Y2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4
-LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
-I5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTE3OTc3ODA3NzUsMTYzMDYwNzAxMywtND
+Q5MTU3MjQxLDE2NTc5NjYwMjMsOTM1MTAwNTQ5LC0zNDQwMzc1
+NjcsNzU3MTI2MjA2LDEyOTk3OTcwODIsMzgxODI1MDExLDY0ND
+E2NjM5OSw4NjE2ODYzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5
+OCwxNDMwOTMxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMj
+EyOTkxNDA5XX0=
 -->
