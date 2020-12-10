@@ -195,6 +195,8 @@ Hoe meer DTU, hoe meer power, hoe duurder
 Het onderbreken van database communicatie omdat je teveel resources gebruikt.
 *Zelf voor retry zorgen.*
 
+Er zijn ver
+
 ![Throttling types](https://i.imgur.com/1R4Y5Zw.png)
 
 ![Throttling modes](https://i.imgur.com/t4mYuN2.png)
@@ -248,11 +250,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MjQ4ODExLDExOTE5NDQzMDcsNjQyNz
-g4Nyw1MDk5NzEwNDksMTY0MDg2NzgxNSwtMTU4MzM4NDgsLTE1
-MDYzMDAyNywxMDE0MzgxMDA2LC03MzE0MjI3MTAsMTMxNjM1NT
-g2MSwxMjg0NTk2NTQ1LDIwODE1MDEzMDgsLTExODQ3MzgwNjQs
-LTE4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMj
-QwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5
-NzU4XX0=
+eyJoaXN0b3J5IjpbLTE4NDQwNDU3MDYsNDc2MjQ4ODExLDExOT
+E5NDQzMDcsNjQyNzg4Nyw1MDk5NzEwNDksMTY0MDg2NzgxNSwt
+MTU4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMDA2LC03MzE0Mj
+I3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MDEzMDgs
+LTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMT
+QxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2
+NjYwXX0=
 -->
