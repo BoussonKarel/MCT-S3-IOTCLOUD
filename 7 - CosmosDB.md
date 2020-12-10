@@ -157,9 +157,16 @@ Veel gebruikt voor data analyse systemen
 ### CosmosDB API
 - CosmosDB Account
 + Database
-  + Groep van containers
-- Container = tabel
+  + Groep van containers (Collection)
+- Container == 'Tabel' (in klassieke SQL)
+  - Verzameling verschillende JSON documenten
++ Item == 'Record' (in klassieke SQL)
+  + JSON content
+
+Wij gebruiken SQL API
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzcyMjIzMywxODc3ODYzMTU3LC0yMD
-Q5MTM4MzY3XX0=
+eyJoaXN0b3J5IjpbNTU2MjEwNjExLDE4Nzc4NjMxNTcsLTIwND
+kxMzgzNjddfQ==
 -->
