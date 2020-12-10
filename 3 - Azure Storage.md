@@ -117,9 +117,8 @@ Static Website
 
 ![Azure Table Storage](https://i.imgur.com/F8F6m2T.png)
 
----
 ### Partitions
-  - Verdelen van table over partities
+Verdelen van table over partities
   - Iedere partitie op eigen server
   - Zal beter schalen en load verdelen over server
 - Load balancing over 3 server
@@ -227,7 +226,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODU0ODM3NSwxNjIxNTQ1NzI3LDEzOD
+eyJoaXN0b3J5IjpbLTkzMjQ1MTY4NSwxNjIxNTQ1NzI3LDEzOD
 EyMzM3MjcsLTE5ODAwOTI1NjcsLTgxOTI3NjIxOCw4MzYwMDAw
 NjEsLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLT
 E3NDE4ODc5OTFdfQ==
