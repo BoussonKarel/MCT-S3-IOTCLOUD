@@ -98,12 +98,14 @@ RUN pip install matplotlib
 RUN pip install numpy
 ```
 
-We moeten ook de applicatie naar 
+We moeten ook de applicatie naar de image kopiëren
 ```docker
-RUN apt-get update
+COPY ./app /app
+# (bron op pc) (doel in container)
 ```
-## Build Image
 
+## Build Image
+m
 
 ## Run container
 
@@ -125,7 +127,7 @@ RUN apt-get update
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc1NzE0ODUsLTEwMzE0NzI2OTYsMT
-czODgwNzA2OSw4MjUzMjI4NjgsMTcxOTMwNzcxMCw2NjI1MDc2
-NiwtMTU2MTQ2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEyXX0=
+eyJoaXN0b3J5IjpbMTM3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNz
+M4ODA3MDY5LDgyNTMyMjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2
+LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
 -->
