@@ -55,11 +55,11 @@ OSI: *Application Layer*
 - Onderliggende protocol waarop Internet werkt
 - Opvragen van tekst, bestanden vanaf servers
 - Request meestal afkomstig v/e webbrowser, maar ook smartphone, IoT device
-- HTTP zal bepalen hoe een request en response er moeten uitzien
-- HTTP bevat een aantal commando's (HTTP verbs)
-- HTTP is stateless, houdt geen rekening met voorgaande requests
-- HTTP is niet sessionless, we kunnen cookies gebruiken om data bij te houden
-- HTTP is relatief eenvoudig
++ HTTP zal bepalen hoe een request en response er moeten uitzien
++ HTTP bevat een aantal commando's **(HTTP verbs**)
++ HTTP is **stateless**, houdt geen rekening met voorgaande requests
++ HTTP is **niet sessionless**, we kunnen cookies gebruiken om data bij te houden
++ HTTP is relatief eenvoudig
 
 #### HTTP Verbs
 | Verb | |
@@ -343,8 +343,8 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTQyMTg4NCwxMjk5Nzk3MDgyLDM4MT
-gyNTAxMSw2NDQxNjYzOTksODYxNjg2MzE4LDIwNzI3NjA5NDMs
-LTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2MDY3NCwxOT
-Y1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbNzU3MTI2MjA2LDEyOTk3OTcwODIsMzgxOD
+I1MDExLDY0NDE2NjM5OSw4NjE2ODYzMTgsMjA3Mjc2MDk0Mywt
+MTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYwNjc0LDE5Nj
+UyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
