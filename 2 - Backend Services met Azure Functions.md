@@ -127,9 +127,7 @@ OSI: *Application Layer*
   - *XML, JSON...*
 ---
 + Open data
-  + Data die vrij beschikbaar is
-  + Opvraagbaar via webservices
-  + Meer en meer steden stellen data beschikbaar
+  + Data die vrij beschikbaar is, opvraagbaar via webservices
 
 - Cognitive services
   - AI API op Azure
@@ -137,11 +135,10 @@ OSI: *Application Layer*
 + Internet of Things
   + *Philips Hue API, Parrot AR Drone...*
 
-- Alle voorgaandevoorbeelden:
-  - Maken gebruik van HTTP
-  - GET/POST Request naar device
-  - In de body van het request JSON data
-  - Cross-platform
+- Maken gebruik van HTTP
+- GET/POST Request naar device
+- In de body van het request JSON data
+- Cross-platform
 
 ### JSON
 **J**ava**S**cript **O**bject **N**otation
@@ -342,9 +339,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Nzk4NTkwMCw5MzUxMDA1NDksLTM0ND
-AzNzU2Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEs
-NjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2OD
-M4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4
-LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTEwNzExODUyNTIsOTM1MTAwNTQ5LC0zND
+QwMzc1NjcsNzU3MTI2MjA2LDEyOTk3OTcwODIsMzgxODI1MDEx
+LDY0NDE2NjM5OSw4NjE2ODYzMTgsMjA3Mjc2MDk0MywtMTQzNj
+gzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgx
+OCwtMjEyOTkxNDA5XX0=
 -->
