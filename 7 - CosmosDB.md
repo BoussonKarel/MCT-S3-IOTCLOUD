@@ -187,8 +187,16 @@ Belangrijke parameters
   - Werken op collection niveau
   - Aanroepen via API of portal
   - Javascript
-- UDF (Us
+- UDF (User Defined Functions)
+  - Functies die we aanroepen vanuit queries *(bv. berekeningen maken)*
+  - JS
+
+## Belangrijk
+- SQL vs NoSQL
+- Waarom en wanneer NoSQLdatabases?
+- Welke soorten NoSQLdatabases zijn er?
+- Weet hoe je kanlezenen schrijvennaarCosmosDB?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzA5NzgxNSwxMjM2NzczNzgsMTg3Nz
+eyJoaXN0b3J5IjpbMTM4Njc5MzU0OCwxMjM2NzczNzgsMTg3Nz
 g2MzE1NywtMjA0OTEzODM2N119
 -->
