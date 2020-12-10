@@ -49,14 +49,14 @@
 **Amazon AWS**
 : *coursera, Atlassian, IMDb, Lamborghini, FCBarcelona, Netflix, Spotify, Airbnb, Autodesk…*
 
-+ **Azure Cases**
-+ *hp, BMW, Adobe Creative Cloud, Sodexo, G&J Pepsi, M&M’s*
+**Azure Cases**
+: *hp, BMW, Adobe Creative Cloud, Sodexo, G&J Pepsi, M&M’s*
 
-- **Google Cloud**
-- *Coolblue, Philips, Ferrero, Red Bull, Airbus*
+**Google Cloud**
+: *Coolblue, Philips, Ferrero, Red Bull, Airbus*
 
-+ **Overige**
-+ Tencent Cloud, IBM, Oracle, Alibaba Cloud
+**Overige**
+: Tencent Cloud, IBM, Oracle, Alibaba Cloud
 
 ## Microsoft Azure
 **Waarom?**
@@ -265,10 +265,10 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjcxNTI2MCwtMTUwNjMwMDI3LDEwMT
-QzODEwMDYsLTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyODQ1OTY1
-NDUsMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2OTM2MS
-wtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5ODMsLTYw
-OTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkxMzUxND
-AwXX0=
+eyJoaXN0b3J5IjpbLTE1ODMzODQ4LC0xNTA2MzAwMjcsMTAxND
+M4MTAwNiwtNzMxNDIyNzEwLDEzMTYzNTU4NjEsMTI4NDU5NjU0
+NSwyMDgxNTAxMzA4LC0xMTg0NzM4MDY0LC0xODU1NjY5MzYxLC
+04NTk5MTYyOTIsLTE0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNjA5
+ODQyNTI4LDMxNzYxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MD
+BdfQ==
 -->
