@@ -26,23 +26,22 @@
   - *Configureren, beveiligen, updaten*
 - **Vrijheid:** software
 - Zelf scaling doen (soms auto)
-- Migratie On Premise --> Cloud
++ *Migratie On Premise naar Cloud*
 
 ### PaaS (Platform as a Service)
 - **Geen systeembeheerder** nodig
 - Ontwikkelaar maakt applicatie en "plaatst" deze op Cloud platform
 - Platform beheert servers, hosting, back-ups, scaling
 - Zeer veel **flexibiliteit**
-  - *ASP.NET Core, nodejs, python, Java, php*
-  - *AWS, Microsoft Azure, IBM Bluemix, Heroku, Google Cloud*
++ *ASP.NET Core, nodejs, python, Java, php*
++ *AWS, Microsoft Azure, IBM Bluemix, Heroku, Google Cloud*
 
 ### SaaS (Software as a Service)
 - Software draait meestal niet lokaal
 - Betalen per maand/per gebruiker
 - Flexibele abonnementen, snel op te zetten
 - Geen rekening houden met back-ups en uptime
-
-*Office365, OneDrive, Dropbox, Adobe CC, Google Drive, Gmail, iCloud*
++ *Office365, OneDrive, Dropbox, Adobe CC, Google Drive, Gmail, iCloud*
 
 ### 3 Vendors
 ![AWS, Azure, Google Cloud](https://i.imgur.com/k0A4FL9.png)
@@ -266,9 +265,9 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMzQxNDIsMTAxNDM4MTAwNiwtNzMxND
-IyNzEwLDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4
-LC0xMTg0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLT
-E0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYx
-NjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MDYzMDAyNywxMDE0MzgxMDA2LC03Mz
+E0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MDEz
+MDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5Mi
+wtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3
+NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
