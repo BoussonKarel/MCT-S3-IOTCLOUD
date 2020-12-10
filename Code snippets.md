@@ -13,6 +13,9 @@
 **IoTHub > Built-in endpoints:** Event-Hub compatible endpoint
 ![](https://i.imgur.com/4fLTxe0.png)
 
+
+![](https://i.imgur.com/L19gkIR.png)
+
 ## Python: HTTP requests
 **GET**
 ```python
@@ -84,8 +87,8 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjA3MzA3NSwtNjgxMjU3MzQ1LC0yND
-Y2MTg4NjcsMTYyMzczNzc3MywxMjgwMjU0ODMxLC0xMzg1MTc1
-NDAsMTgxOTYyMjM3OSwyMDIxMjUxMDA1LDEwOTk5NzY4MzldfQ
-==
+eyJoaXN0b3J5IjpbLTIwNTU5NTk2MjEsMTM3MjA3MzA3NSwtNj
+gxMjU3MzQ1LC0yNDY2MTg4NjcsMTYyMzczNzc3MywxMjgwMjU0
+ODMxLC0xMzg1MTc1NDAsMTgxOTYyMjM3OSwyMDIxMjUxMDA1LD
+EwOTk5NzY4MzldfQ==
 -->
