@@ -7,7 +7,7 @@
 - IT afdeling **verantwoordelijk voor ALLES**
   - *Back-up + recovery, aankoop hardware, scaling*
 - **Investeren in hardware** die je beperkt nodig hebt (*bv. kerst*)
-- Meeste **vrijheid**
+- **Vrijheid**
 - Soms **verplicht door wetgeving**
   - Medische data
   - Financiële data
@@ -270,8 +270,9 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwOD
-E1MDEzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkx
-NjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1Mj
-gsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbLTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyOD
+Q1OTY1NDUsMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2
+OTM2MSwtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5OD
+MsLTYwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkx
+MzUxNDAwXX0=
 -->
