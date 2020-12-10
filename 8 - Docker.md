@@ -86,6 +86,7 @@ File zonder extensie met als naam "Dockerfile"
 
 ## Build Image
 
+
 ## Run container
 
 ## Push naar Azure Container Registry
@@ -106,7 +107,7 @@ File zonder extensie met als naam "Dockerfile"
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MjIyNjIsMTczODgwNzA2OSw4MjUzMj
-I4NjgsMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MTQ2MzU2MSw4
-NDM1MjExOSwxNDMyNjM0NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwMzE0NzI2OTYsMTczODgwNzA2OSw4Mj
+UzMjI4NjgsMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MTQ2MzU2
+MSw4NDM1MjExOSwxNDMyNjM0NjEyXX0=
 -->
