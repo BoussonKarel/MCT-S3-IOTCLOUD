@@ -106,7 +106,7 @@ OSI: *Application Layer*
   - *Methods, status codes, URIs and header fields*
 - Request multiplexing over single TCP connection
   - Meerdere requests parallel over 1 TCP connectie
-  - Asychroon downloaden van meerdere bestanden
+  - Asynchroon downloaden van meerdere bestanden
 - Header Compression
 - Binary Protocol (HTTP/1.1 is tekst protocol)
 - HTTP/2 Server push
@@ -342,9 +342,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYyNTMyNzMsLTM0NDAzNzU2Nyw3NT
-cxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEsNjQ0MTY2Mzk5
-LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0Mz
-A5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0
-MDldfQ==
+eyJoaXN0b3J5IjpbOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MT
+I2MjA2LDEyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4
+NjE2ODYzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOT
+MxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5
+XX0=
 -->
