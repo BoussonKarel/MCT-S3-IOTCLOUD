@@ -1,5 +1,6 @@
 # 2 - Backend Services met Azure Functions
 ## The Internet of ??
+### The Internet of Information
 - Webpagina's met content
   - Opzoeken van informatie
   - Raadplegen van informatie
@@ -9,7 +10,7 @@
 - Technologie: HTML, CSS, JS, PHP / ASP / JAVA
 ![The Internet of ??](https://i.imgur.com/9C0b2Vj.png)
 
-## The Internet of Services
+### The Internet of Services
 - Connectiviteit
   - Driving factor mobile apps
   - Cross platform
@@ -19,7 +20,7 @@
   - REST Based
 ![The Internet of Services](https://i.imgur.com/462lUmV.png)
 
-## The Internet of Things
+### The Internet of Things
 - Connecting hardware
   - Device koppelen aan internet
     - Informatie versturen naar Cloud
@@ -345,7 +346,8 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2OD
-YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
-LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTI1ODM4ODU4OSwzODE4MjUwMTEsNjQ0MT
+Y2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4
+LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
+I5OTE0MDldfQ==
 -->
