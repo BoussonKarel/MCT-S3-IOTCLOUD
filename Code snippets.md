@@ -6,8 +6,11 @@
 ![Connectionstring voor device](https://i.imgur.com/gmRhSun.png)
 
 ### Connectionstring voor IoT Hub Trigger
-**IoTHub > Built-in endpoints**
+**IoTHub > Built-in endpoints:** Event-Hub compatible endpoint
+![](https://i.imgur.com/4fLTxe0.png)
 
+### Connectionstring voor IoT Hub Trigger
+**IoTHub > Built-in endpoints:** Event-Hub compatible endpoint
 ![](https://i.imgur.com/4fLTxe0.png)
 
 ## Python: HTTP requests
@@ -81,7 +84,8 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2ODE2ODMzLC02ODEyNTczNDUsLTI0Nj
-YxODg2NywxNjIzNzM3NzczLDEyODAyNTQ4MzEsLTEzODUxNzU0
-MCwxODE5NjIyMzc5LDIwMjEyNTEwMDUsMTA5OTk3NjgzOV19
+eyJoaXN0b3J5IjpbMTM3MjA3MzA3NSwtNjgxMjU3MzQ1LC0yND
+Y2MTg4NjcsMTYyMzczNzc3MywxMjgwMjU0ODMxLC0xMzg1MTc1
+NDAsMTgxOTYyMjM3OSwyMDIxMjUxMDA1LDEwOTk5NzY4MzldfQ
+==
 -->
