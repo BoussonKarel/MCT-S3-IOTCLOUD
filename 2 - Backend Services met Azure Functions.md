@@ -7,11 +7,11 @@
 
 ![The Internet of ??](https://i.imgur.com/9C0b2Vj.png)
 
-+ The Internet of Services
+- **The Internet of Services**
 - Connectiviteit
-  - Driving factor mobile apps
+  - Mobile apps
   - Cross platform
-  - Data op makkelijke manier uitwissen
+  - Data gemakkelijk uitwisselen
   - Functionaliteit makkelijk aanroepen
   - Centraal staan Cloud platforms
   - REST Based
@@ -343,7 +343,7 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzUwNTUyMSwzODE4MjUwMTEsNjQ0MT
+eyJoaXN0b3J5IjpbMTI5OTc5NzA4MiwzODE4MjUwMTEsNjQ0MT
 Y2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4
 LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
 I5OTE0MDldfQ==
