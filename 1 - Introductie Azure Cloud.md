@@ -180,15 +180,14 @@ Scale Out
  - Database draait op een server
 - Verschillende pricing mogelijkheden
 ---
-Security
-: IP Adres instellen in Firewall
+### Security
+IP Adres instellen in Firewall
 
 ---
-### Azure DTU
-Database Transaction Units
-: CPU
-: Memory
-: I/O
+### DTU (Database Transaction Units)
+- CPU
+- Memory
+- I/O
 
 Hoe meer DTU, hoe meer power, hoe duurder
 
@@ -249,11 +248,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjc4MTgzNSwxMTkxOTQ0MzA3LDY0Mj
-c4ODcsNTA5OTcxMDQ5LDE2NDA4Njc4MTUsLTE1ODMzODQ4LC0x
-NTA2MzAwMjcsMTAxNDM4MTAwNiwtNzMxNDIyNzEwLDEzMTYzNT
-U4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMTg0NzM4MDY0
-LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5Mzk0ODQsLT
-I0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MCwtMTc5MTU5
-OTc1OF19
+eyJoaXN0b3J5IjpbNDc2MjQ4ODExLDExOTE5NDQzMDcsNjQyNz
+g4Nyw1MDk5NzEwNDksMTY0MDg2NzgxNSwtMTU4MzM4NDgsLTE1
+MDYzMDAyNywxMDE0MzgxMDA2LC03MzE0MjI3MTAsMTMxNjM1NT
+g2MSwxMjg0NTk2NTQ1LDIwODE1MDEzMDgsLTExODQ3MzgwNjQs
+LTE4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMj
+QwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5
+NzU4XX0=
 -->
