@@ -163,10 +163,15 @@ Veel gebruikt voor data analyse systemen
 + Item == 'Record' (in klassieke SQL)
   + JSON content
 
-Wij gebruiken SQL API
+Wij gebruiken SQL API (niet zo krachtig als SQL taal die we kennen)
+
+Belangrijke parameters
+: URI
+: PRIMARY KEY
+ *(instellen in local.settings.json en App Settings van Azure Function)*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MjEwNjExLDE4Nzc4NjMxNTcsLTIwND
-kxMzgzNjddfQ==
+eyJoaXN0b3J5IjpbLTEzMDYxODE1MTUsMTg3Nzg2MzE1NywtMj
+A0OTEzODM2N119
 -->
