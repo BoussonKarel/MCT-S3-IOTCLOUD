@@ -150,10 +150,14 @@ Azure Web App for Containers
   - We maken gebruik van docker-compose.yml
 
 **Docker-compose.yml**
-> - services: containers die je nodig hebt
->   - web (zelfgekozen naam)
->     - build (op basis van docker file)
->     - ports: (welke poort gebruiken)
+> services: containers die je nodig hebt
+> - web (zelfgekozen naam)
+>   - build (op basis van docker file)
+>   - ports (welke poort gebruiken)
+> - redis (zelfgekozen naam)
+>   - image (welke image gebruiken voor redis)
+
+![](https://i.imgur.com/hvQ5ejU.png)
 
 ## Docker Volumes
 
@@ -167,8 +171,8 @@ Azure Web App for Containers
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzQyMjAzNSwtMTEzMzgyMDc0OCwxMz
-cyMDMzMTc4LC0xMDMxNDcyNjk2LDE3Mzg4MDcwNjksODI1MzIy
-ODY4LDE3MTkzMDc3MTAsNjYyNTA3NjYsLTE1NjE0NjM1NjEsOD
-QzNTIxMTksMTQzMjYzNDYxMl19
+eyJoaXN0b3J5IjpbNzMzNzgzMjU4LC0xMTMzODIwNzQ4LDEzNz
+IwMzMxNzgsLTEwMzE0NzI2OTYsMTczODgwNzA2OSw4MjUzMjI4
+NjgsMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MTQ2MzU2MSw4ND
+M1MjExOSwxNDMyNjM0NjEyXX0=
 -->
