@@ -9,8 +9,7 @@
 - **Investeren in hardware** die je beperkt nodig hebt (*bv. kerst*)
 - **Vrijheid**
 - Soms **verplicht door wetgeving**
-  - Medische data
-  - Financiële data
+  - *Medische / financiële data*
 - Gebrek aan **vertrouwen** public cloud provider
 
 ### Hybrid (On Premise & Cloud)
@@ -270,9 +269,9 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyOD
-Q1OTY1NDUsMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2
-OTM2MSwtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5OD
-MsLTYwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkx
-MzUxNDAwXX0=
+eyJoaXN0b3J5IjpbMTAxNDM4MTAwNiwtNzMxNDIyNzEwLDEzMT
+YzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMTg0NzM4
+MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5Mzk0OD
+QsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MCwtMTc5
+MTU5OTc1OCwxOTEzNTE0MDBdfQ==
 -->
