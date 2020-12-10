@@ -15,6 +15,7 @@
   - Functionaliteit makkelijk aanroepen
   - Centraal staan Cloud platforms
   - REST Based
+
 ![The Internet of Services](https://i.imgur.com/462lUmV.png)
 
 ### The Internet of Things
@@ -343,8 +344,8 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTc5NzA4MiwzODE4MjUwMTEsNjQ0MT
-Y2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4
-LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
-I5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTExNjQ3Mzk0NDgsMTI5OTc5NzA4MiwzOD
+E4MjUwMTEsNjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQz
+LC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMT
+k2NTI3ODE4LC0yMTI5OTE0MDldfQ==
 -->
