@@ -76,7 +76,7 @@ Static Website
 - Applicatie zal berichten op wachtrij plaatsen (**Sender**)
 - Tweede applicatie kan deze op zelf gekozen moment ophalen en verwerken (**Receiver**)
 - We spreken over een **decoupled** applicatie
-  - Zender & ontvanger werken onafhankelijk
+  - Zender & ontvanger werken **onafhankelijk**
 - Zeer schaalbaar door meerder queues op te starten
 - **Resilience**: buffer van berichten op queue zorgt ervoor dat er niets verloren gaat als back-end wegvalt.
 
@@ -227,7 +227,8 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTIzMzcyNywtMTk4MDA5MjU2NywtOD
-E5Mjc2MjE4LDgzNjAwMDA2MSwtMjEzMDQyMjEzNSwxMzAxMzQ1
-MDg5LDQwNDM3OTc4NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbMTYyMTU0NTcyNywxMzgxMjMzNzI3LC0xOT
+gwMDkyNTY3LC04MTkyNzYyMTgsODM2MDAwMDYxLC0yMTMwNDIy
+MTM1LDEzMDEzNDUwODksNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX
+0=
 -->
