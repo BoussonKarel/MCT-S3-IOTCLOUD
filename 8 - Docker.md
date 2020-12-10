@@ -9,8 +9,12 @@
 ### Deployment van applicaties
 Oude manier:
 - Verschillende applicaties op één server.
-- Server bevat
-- 
+- Server bevat alle nodige libraries die alle applicaties nodig hebben
+- Zeer lastig om te beheren (nieuwe versies, maar niet alles updaten)
+- Applicaties NIET gescheiden van elkaar
+- Veel werk bij update uitrollen
+- Altijd systeembeheerder nodig om updates uit te rollen
+
 ## Hoe werkt Docker?
 
 ## Basiscommando's
@@ -39,6 +43,7 @@ Oude manier:
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MT
-Q2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEyXX0=
+eyJoaXN0b3J5IjpbMTYyODIxNDI2LDE3MTkzMDc3MTAsNjYyNT
+A3NjYsLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMjYzNDYxMl19
+
 -->
