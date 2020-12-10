@@ -64,24 +64,23 @@
 - Meeste opties en mogelijkheden
 - Zeer lage instapdrempel voor studenten
 
-**Waarvoor AWS gebruiken?**
+**Waarom AWS gebruiken?**
 Cloud Services (Smart Tech & Infrastructure)
 
-**Waarvoor Google Cloud Platform gebruiken?**
+**Waarvom Google Cloud Platform gebruiken?**
 Kan in projectweken, vooral AI projecten
 
 ### Azure Portal
 Portal gebruikt voor het beheren van Cloud services en applicaties.
 
 ### Azure Subscription
-**Abonnement** 
-: Zal bepalen hoe ze factureren
+- **Abonnement** 
+- Zal bepalen hoe ze factureren
 
-- Credits op voorhand
-- Pay by use
++ Credits op voorhand
++ Pay by use
 
-+ *In de praktijk: Subscription per klant*
-
+- *In de praktijk: Subscription per klant*
 
 ## Resource Group
 ![Account, Subscription, Resource groups](https://i.imgur.com/C4WiSOx.png)
@@ -265,10 +264,10 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2MzgwNTUsMTY0MDg2NzgxNSwtMT
-U4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMDA2LC03MzE0MjI3
-MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MDEzMDgsLT
-ExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMTQx
-ODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2Nj
-YwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbNTA5OTcxMDQ5LDE2NDA4Njc4MTUsLTE1OD
+MzODQ4LC0xNTA2MzAwMjcsMTAxNDM4MTAwNiwtNzMxNDIyNzEw
+LDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMT
+g0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5
+Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MC
+wtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
 -->
