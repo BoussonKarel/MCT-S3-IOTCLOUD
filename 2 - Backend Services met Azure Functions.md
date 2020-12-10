@@ -266,7 +266,7 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   - Webservice
 - Timer trigger
   - Via **cron expressie** de functie op een tijdstip uitvoeren
-    - 0 \* 5 \* \* \* \*
+    - 0 \*/5 \* \* \* \*
 - IoT Hub Trigger
 - ...
 
@@ -334,10 +334,10 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk5MzEyOTMsLTE3OTc3ODA3NzUsMT
-YzMDYwNzAxMywtNDQ5MTU3MjQxLDE2NTc5NjYwMjMsOTM1MTAw
-NTQ5LC0zNDQwMzc1NjcsNzU3MTI2MjA2LDEyOTk3OTcwODIsMz
-gxODI1MDExLDY0NDE2NjM5OSw4NjE2ODYzMTgsMjA3Mjc2MDk0
-MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYwNjc0LD
-E5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTE5MDA0NzU4NTIsLTE1Nzk5MzEyOTMsLT
+E3OTc3ODA3NzUsMTYzMDYwNzAxMywtNDQ5MTU3MjQxLDE2NTc5
+NjYwMjMsOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MTI2MjA2LD
+EyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2ODYz
+MTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC
+0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
