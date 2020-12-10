@@ -85,7 +85,14 @@ Docker Client
 File zonder extensie met als naam "Dockerfile"
 
 **Beschrijft build proces image**
+```docker
+FROM tiangolo/uwsgi-nginx-flask:python3.6
+```
 
+Via RUN commando kunnen we extra bibliotheken 
+```docker
+FROM tiangolo/uwsgi-nginx-flask:python3.6
+```
 
 ## Build Image
 
@@ -110,7 +117,7 @@ File zonder extensie met als naam "Dockerfile"
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDIxNDI3MSwtMTAzMTQ3MjY5NiwxNz
+eyJoaXN0b3J5IjpbMTM2MDg3ODI4NywtMTAzMTQ3MjY5NiwxNz
 M4ODA3MDY5LDgyNTMyMjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2
 LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
 -->
