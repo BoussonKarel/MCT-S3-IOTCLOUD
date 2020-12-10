@@ -17,7 +17,7 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 
 ## Azure Files
 - Hard Disk in de Cloud
-- Je kan deze mappen naar eigen pc *(bv. Z:\\)*
+- Mappen mogelijk *(bv. Z:\\)*
 - Handig: veilig files kopiëren Cloud <> On Premise
 - Zal gekende protocollen volgen zoals SMB3.0
 - Veel gebruikt in Hybrid Cloud
@@ -230,7 +230,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc1ODIwMjksLTgxOTI3NjIxOCw4Mz
-YwMDAwNjEsLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3
-ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MDI1NzA0MSwtODE5Mjc2MjE4LDgzNj
+AwMDA2MSwtMjEzMDQyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4
+NCwtMTc0MTg4Nzk5MV19
 -->
