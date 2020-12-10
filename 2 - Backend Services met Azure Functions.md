@@ -151,19 +151,19 @@ OSI: *Application Layer*
 
 ![JSON format](https://i.imgur.com/UQISVsI.png)
 
-Complexe JSON
+**Complexe JSON**
 - Value kan terug een JSON bevatten
 - Daarbinnen terug een key met nieuwe JSON string
 - Zoveel nesten als je wil
 
 ![Complexere JSON: nesten](https://i.imgur.com/CRw5mfX.png)
 
-Complexe JSON Arrays
+**Complexe JSON Arrays**
 - Wanneer er meerdere JSON objecten zijn spreken we van een array
 - Deze plaatsen we tussen []
 - Value kan een array van JSON objecten zijn
 
-![Complexere JSON: list](https://i.imgur.com/DV4AXjg.png)
+![Complexere JSON arrays](https://i.imgur.com/DV4AXjg.png)
 
 ### URI
 Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
@@ -340,7 +340,7 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTI2NDY5Nyw5MzUxMDA1NDksLTM0ND
+eyJoaXN0b3J5IjpbMTY1Nzk2NjAyMyw5MzUxMDA1NDksLTM0ND
 AzNzU2Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEs
 NjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2OD
 M4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4
