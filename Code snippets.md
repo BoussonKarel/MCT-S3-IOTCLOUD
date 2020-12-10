@@ -1,4 +1,4 @@
-# IoT Cloud - Handy code
+# IoT Cloud - Handy things
 ## Python: HTTP requests
 **GET**
 ```python
@@ -34,6 +34,6 @@ obj = json.loads(jsonstring)
 print("Het resultaat is {}".format(obj["quotient"]))
 ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjM0Mzc2NywyMDIxMjUxMDA1LDEwOT
+eyJoaXN0b3J5IjpbLTMyMjM4MDIyMywyMDIxMjUxMDA1LDEwOT
 k5NzY4MzldfQ==
 -->
