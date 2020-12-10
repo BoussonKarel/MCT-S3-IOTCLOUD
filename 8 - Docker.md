@@ -129,12 +129,20 @@ Eerst inloggen in de private registry
 Voor we kunnen pushen moeten we de image taggen
 ```
 docker tag demonmct:first iotcloudles.azurecr.io/demonmct
-# naam image lokaal (demonmct) tag voor privat
+# naam image lokaal (demonmct) + tag voor private repo (moet URL repo bevatten)
+```
+
+```
+docker push <url>/<naam image>
 ```
 
 ## Deploy Container Azure
+Azure Web App for Containers
 
 ## Docker Compose
+- Wat als we meerdere docker containers nodig hebben voor onze applicatie?
+- Cache Server
+- Data
 
 ## Docker Volumes
 
@@ -148,8 +156,8 @@ docker tag demonmct:first iotcloudles.azurecr.io/demonmct
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE0NDI2MzMsLTExMzM4MjA3NDgsMT
-M3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNzM4ODA3MDY5LDgyNTMy
-Mjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYxLD
-g0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
+eyJoaXN0b3J5IjpbMTg4MTE3NjY3OSwtMTEzMzgyMDc0OCwxMz
+cyMDMzMTc4LC0xMDMxNDcyNjk2LDE3Mzg4MDcwNjksODI1MzIy
+ODY4LDE3MTkzMDc3MTAsNjYyNTA3NjYsLTE1NjE0NjM1NjEsOD
+QzNTIxMTksMTQzMjYzNDYxMl19
 -->
