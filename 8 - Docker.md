@@ -76,6 +76,7 @@ Docker Client
 | docker images | Overzicht images op het systeem |
 | docker run -p 80:80 nginx | Opstarten van container op basis van image nginx en poort 80 [container] mappen naar poort 80 [host] |
 | docker ps | Overzicht containers die actief zijn |
+| docker ps -all | Overzicht van alle containers |
 | docker exec -it 6becfdf32737 bash | Inloggen in container met bash shell |
 | docker stop | Stoppen van container |
 | docker rm | Verwijderen van container |
@@ -113,9 +114,13 @@ docker build -t demonmct:first
 ## Run container
 Opvragen van de images met ```docker images```
 
+Starten van een image ```docker run -p 80:80 -t demonmct:first```
 
+Stoppen van een image ```docker stop <container-id>```
 
 ## Push naar Azure Container Registry
+Azure Container Registry
+: Private repository voor Images
 
 ## Deploy Container Azure
 
@@ -133,7 +138,7 @@ Opvragen van de images met ```docker images```
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc5NTc1NTUsLTExMzM4MjA3NDgsMT
+eyJoaXN0b3J5IjpbLTEyNDU0MzE5NjgsLTExMzM4MjA3NDgsMT
 M3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNzM4ODA3MDY5LDgyNTMy
 Mjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYxLD
 g0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
