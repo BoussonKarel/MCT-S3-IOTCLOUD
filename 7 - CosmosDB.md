@@ -128,9 +128,16 @@ Veel gebruikt voor data analyse systemen
 - Slaan data op als JSON in database zelf
 - Moeten data niet meer uitlezen en INSERT opbouwen
 
-**Nadeel:** dubbele data, geen relaties
 ![](https://i.imgur.com/3ZqyFjH.png)
 
+**Nadeel:** dubbele data, geen relaties
+
+## CosmosDB
+- CosmosDB is managed database service op Azure
+  - Geen onderhoud, patching
+  - Eenvoudig op te zetten
+  - Pay what you use
+  - Krachtige API's
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTc0MTEwOCwtMjA0OTEzODM2N119
+eyJoaXN0b3J5IjpbLTM2Mjk3NjQwOSwtMjA0OTEzODM2N119
 -->
