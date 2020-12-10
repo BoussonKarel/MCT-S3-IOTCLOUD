@@ -171,8 +171,15 @@ Belangrijke parameters
  *(instellen in local.settings.json en App Settings van Azure Function)*
 
 ### CosmosDB Extra's
-
+- Azure Search
+  - Krachtige zoekmachine boven CosmosDB
+  - Text search
+  - Indexing
+- Azure Functions
+  - CosmosDB Trigger
+  - *(Bij toevoegen documenten)*
+- Time To Live
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjc3Mzc4LDE4Nzc4NjMxNTcsLTIwND
-kxMzgzNjddfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk5OTkzNiwxMjM2NzczNzgsMTg3Nz
+g2MzE1NywtMjA0OTEzODM2N119
 -->
