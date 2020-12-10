@@ -167,10 +167,10 @@ OSI: *Application Layer*
 
 ### URI
 Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
-- Gebruik geen spaties in de URL
-- Gebruik meervoud voor resource namen
-- Geen hoofdletters
-- Gebruik geen HTTP Verb om operatie aan te duiden (in URL)
+- Gebruik **geen spaties** in de URL
+- Gebruik **meervoud** voor resource namen
+- **Geen hoofdletters**
+- Gebruik **GEEN HTTP Verb** om operatie aan te duiden (**in URL**)
 
 | URL | OK/NOK |
 |--|--|
@@ -340,9 +340,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzk2NjAyMyw5MzUxMDA1NDksLTM0ND
-AzNzU2Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEs
-NjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2OD
-M4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4
-LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTQ0OTE1NzI0MSwxNjU3OTY2MDIzLDkzNT
+EwMDU0OSwtMzQ0MDM3NTY3LDc1NzEyNjIwNiwxMjk5Nzk3MDgy
+LDM4MTgyNTAxMSw2NDQxNjYzOTksODYxNjg2MzE4LDIwNzI3Nj
+A5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2MDY3
+NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
