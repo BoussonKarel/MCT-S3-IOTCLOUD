@@ -97,9 +97,9 @@ Logische container
 ## Azure Virtual Machines
 Eigen server op Azure omgeving
 
-+ Heel wat mogelijkheden 
++ Heel wat **mogelijkheden** 
 *(file servers, database servers, webservers, application servers...)*
-+ Toegang tot resources op server die niet mogelijk zijn via web applicatie 
++ **Toegang tot resources op server** die niet mogelijk zijn via web applicatie 
 *(Communicatie met oude softwarepakketten; Genereren van Word/Excel documenten)*
 
 - Wanneer je **volledige controle** wenst
@@ -107,9 +107,7 @@ Eigen server op Azure omgeving
 
 ### Planned maintenance
 - Updates van het Azure platform
-  - Stabiliteit
-  - Security
-  - Performantie
+  - *Stabiliteit, security, performantie*
 - Soms herstarten
 
 ### Unplanned maintenance
@@ -264,7 +262,7 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODM1Mzg1LDUwOTk3MTA0OSwxNjQwOD
+eyJoaXN0b3J5IjpbLTUxNDIyNDIzLDUwOTk3MTA0OSwxNjQwOD
 Y3ODE1LC0xNTgzMzg0OCwtMTUwNjMwMDI3LDEwMTQzODEwMDYs
 LTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyODQ1OTY1NDUsMjA4MT
 UwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2OTM2MSwtODU5OTE2
