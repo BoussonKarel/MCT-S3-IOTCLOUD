@@ -217,13 +217,9 @@ Er zijn verschillende **throttling types** en **modes**.
 ![Microsoft Services](https://i.imgur.com/UwgLGFE.png)
 
 ## Azure CLI
-Azure Portal
-: Dagelijks gebruik
-: Niet makkelijk te automatiseren
-: Wat bij 100 sites?
-: Wat bij 50 servers?
+Wat bij 100 sites? Wat bij 50 servers?
 
-Oplossing: Azure CLI 2.0
+Azure CLI 2.0
 : Commandline > Resources aanmaken
 : Makkelijk via scripts
 : Ideaal voor DevOps
@@ -246,11 +242,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTYyOTEyLDE2NTIwODI3MjIsNDc2Mj
-Q4ODExLDExOTE5NDQzMDcsNjQyNzg4Nyw1MDk5NzEwNDksMTY0
-MDg2NzgxNSwtMTU4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMD
-A2LC03MzE0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIw
-ODE1MDEzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OT
-kxNjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTExMzY0ODcxODEsMTY2OTYyOTEyLDE2NT
+IwODI3MjIsNDc2MjQ4ODExLDExOTE5NDQzMDcsNjQyNzg4Nyw1
+MDk5NzEwNDksMTY0MDg2NzgxNSwtMTU4MzM4NDgsLTE1MDYzMD
+AyNywxMDE0MzgxMDA2LC03MzE0MjI3MTAsMTMxNjM1NTg2MSwx
+Mjg0NTk2NTQ1LDIwODE1MDEzMDgsLTExODQ3MzgwNjQsLTE4NT
+U2NjkzNjEsLTg1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4
+OTgzXX0=
 -->
