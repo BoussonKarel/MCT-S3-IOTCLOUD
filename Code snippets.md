@@ -1,5 +1,5 @@
 # IoT Cloud - Handy code
-## Python: HTTP reque
+## Python: HTTP requests
 **GET**
 ```python
 import requests
@@ -32,7 +32,7 @@ print(ret.text)
 jsonstring = ret.text
 obj = json.loads(jsonstring)
 print("Het resultaat is {}".format(obj["quotient"]))
-
+```
 
 ## Azure Functions - basics
 Sending information in the **body** using **POST**
@@ -264,6 +264,6 @@ private static async Task SendEmailMessage(Registration reg)
 Registration reg = JsonConvert.DeserializeObject<Registration>(myQueueItem);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkyNzY1NjIsMjAyMTI1MTAwNSwxMD
-k5OTc2ODM5XX0=
+eyJoaXN0b3J5IjpbMTg0NjU2NTkzMCwyMDIxMjUxMDA1LDEwOT
+k5NzY4MzldfQ==
 -->
