@@ -49,8 +49,10 @@ Eenvoudiger software distribueren
 ## Hoe werkt Docker?
 | Docker Image | Docker Container |
 |--|--|
-| Snapshot van files in een Linux file system | Runtime instantie van een container (beetje zoals aanmaken object op basis van een klasse (container image) |
-
+| Snapshot van files in een Linux file system | Runtime instantie van een container (zoals aanmaken object op basis van een klasse (container image) |
+| Basis van Image is een Linux OS (Windows kan maar zien we niet) | Docker container zijn geïsoleerd van elkaar maar ze kunnen wel communiceren naar buiten toe |
+| Via een Dockerfile kunnen we een Docker image aanmaken | Volledige toegang tot CPU en memory |
+| Bevat de ontwikkelde applicaties en de libraries die er nodig zijn | |
 ## Basiscommando's
 
 ## Dockerfile
@@ -77,7 +79,7 @@ Eenvoudiger software distribueren
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTU5NjE0MCwxNzE5MzA3NzEwLDY2Mj
+eyJoaXN0b3J5IjpbMTQ4NjM5Nzk1MSwxNzE5MzA3NzEwLDY2Mj
 UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
 fQ==
 -->
