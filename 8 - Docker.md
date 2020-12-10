@@ -34,6 +34,15 @@ Eenvoudiger software distribueren
 - Meer en meer gebruik van verschillende platformen binnen 1 applicatie
 - Willen ons niet koppelen aan 1 Cloud > Vendor locking vermijden
 - Azure, Amazon, Google... allemaal ondersteuning voor Docker
+- We moeten onze code NIET aanpassen, gewoon container aanpassen
+
+**Docker scenario's**
+- Custom ML / Deep Learning model draaien in cloud omgeving
+  - Toegang tot GPU vanuit Docker enkel op Linux
+- Als je Cloud vendor neutraal wil zijn
+- Dev Ops deployments
+- Nieuwe technologie verkennen zonder uw machine te vervuilen
+- PC
 
 ## Hoe werkt Docker?
 
@@ -63,7 +72,7 @@ Eenvoudiger software distribueren
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjcyOTc0MCwxNzE5MzA3NzEwLDY2Mj
-UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
-fQ==
+eyJoaXN0b3J5IjpbMzM2Mjk0NDI4LDE3MTkzMDc3MTAsNjYyNT
+A3NjYsLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMjYzNDYxMl19
+
 -->
