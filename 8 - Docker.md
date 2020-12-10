@@ -28,8 +28,12 @@
 
 ![](https://i.imgur.com/cfKFyZ9.png)
 
-## Wat is Docker?
-Waarom Docker?
+## Waarom Docker?
+Eenvoudiger software distribueren
+- Verplaatsen workload naar Cloud
+- Meer en meer gebruik van verschillende platformen binnen 1 applicatie
+- Willen ons niet koppelen aan 1 Cloud > Vendor locking vermijden
+- Azure, Amazon, Google... allemaal ondersteuning voor Docker
 
 ## Hoe werkt Docker?
 
@@ -59,7 +63,7 @@ Waarom Docker?
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjIxMDc2NiwxNzE5MzA3NzEwLDY2Mj
+eyJoaXN0b3J5IjpbMTQ4MjcyOTc0MCwxNzE5MzA3NzEwLDY2Mj
 UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
 fQ==
 -->
