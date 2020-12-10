@@ -47,9 +47,10 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
     - Private (default) extern bekijken is niet mogelijk
     - Blob (extern lezen per blob is mogelijk)
     - Container (extern lezen van volledige container is mogelijk)
+---
+Bestanden uploaden via Storage Explorer
 
-+ Bestanden uploaden via Storage Explorer
-
+---
 - Pricing
   - Per GB/Per maand
   - Hot / Cold
@@ -225,7 +226,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0ODM4Nzg5LC0xOTgwMDkyNTY3LC04MT
-kyNzYyMTgsODM2MDAwMDYxLC0yMTMwNDIyMTM1LDEzMDEzNDUw
-ODksNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
+eyJoaXN0b3J5IjpbLTE0MTQ1MDc1OTgsLTE5ODAwOTI1NjcsLT
+gxOTI3NjIxOCw4MzYwMDAwNjEsLTIxMzA0MjIxMzUsMTMwMTM0
+NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5OTFdfQ==
 -->
