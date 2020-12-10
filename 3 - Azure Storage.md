@@ -162,7 +162,7 @@ Verdelen van table over partities
   + Int64 or long
   + String
 ---
-Waar zouden we dit kunnen gebruiken ?
+**Waar zouden we dit kunnen gebruiken ?**
 - Profiel info (zal niet veel wijzigen)
 - Device info
   - *Bv. alle IMEI nummers van GSM toestellen binnen een netwerk*
@@ -226,8 +226,8 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjQ1MTY4NSwxNjIxNTQ1NzI3LDEzOD
-EyMzM3MjcsLTE5ODAwOTI1NjcsLTgxOTI3NjIxOCw4MzYwMDAw
-NjEsLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLT
-E3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbLTk4OTMwMjksMTYyMTU0NTcyNywxMzgxMj
+MzNzI3LC0xOTgwMDkyNTY3LC04MTkyNzYyMTgsODM2MDAwMDYx
+LC0yMTMwNDIyMTM1LDEzMDEzNDUwODksNDA0Mzc5Nzg0LC0xNz
+QxODg3OTkxXX0=
 -->
