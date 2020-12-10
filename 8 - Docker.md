@@ -70,7 +70,7 @@ Docker Client
 ![](https://i.imgur.com/HE9awAO.png)
 
 ## Basiscommando's
-| Commando | |
+| Docker commando | |
 |--|--|
 | docker pull nginx | Download image "nginx" van Docker Hub |
 | docker images | Overzicht images op het systeem |
@@ -78,7 +78,8 @@ Docker Client
 | docker ps | Overzicht containers die actief zijn |
 | docker exec -it 6becfdf32737 bash | Inloggen in container met bash shell |
 | docker stop | Stoppen van container |
-| docker rm | V
+| docker rm | Verwijderen van container |
+| docker rmi | Verwijderen image |
 
 ## Dockerfile
 
@@ -104,7 +105,7 @@ Docker Client
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjkwMjg3MSwxNzE5MzA3NzEwLDY2Mj
-UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
-fQ==
+eyJoaXN0b3J5IjpbODI1MzIyODY4LDE3MTkzMDc3MTAsNjYyNT
+A3NjYsLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMjYzNDYxMl19
+
 -->
