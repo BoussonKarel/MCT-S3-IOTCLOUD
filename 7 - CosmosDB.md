@@ -155,7 +155,11 @@ Veel gebruikt voor data analyse systemen
 + SLA van 99,99% in een region, meerdere regions = hogere SLA
 
 ### CosmosDB API
+- CosmosDB Account
++ Database
+  + Groep van containers
+- Container = tabel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNDA3MDk5LDE4Nzc4NjMxNTcsLTIwND
-kxMzgzNjddfQ==
+eyJoaXN0b3J5IjpbLTM0MzcyMjIzMywxODc3ODYzMTU3LC0yMD
+Q5MTM4MzY3XX0=
 -->
