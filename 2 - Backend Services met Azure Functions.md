@@ -102,9 +102,8 @@ OSI: *Application Layer*
 ![HTTP Response content](https://i.imgur.com/Nh5aFHU.png)
 
 ### HTTP/2
-- Sinds 2015 actief
 - High-level compatibility with HTTP/1.1
-  - Methods, status codes, URIs and header fields.
+  - *Methods, status codes, URIs and header fields*
 - Request multiplexing over single TCP connection
   - Meerdere requests parallel over 1 TCP connectie
   - Asychroon downloaden van meerdere bestanden
@@ -343,8 +342,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDAzNzU2Nyw3NTcxMjYyMDYsMTI5OT
-c5NzA4MiwzODE4MjUwMTEsNjQ0MTY2Mzk5LDg2MTY4NjMxOCwy
-MDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4OD
-QxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbLTEwODYyNTMyNzMsLTM0NDAzNzU2Nyw3NT
+cxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEsNjQ0MTY2Mzk5
+LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0Mz
+A5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0
+MDldfQ==
 -->
