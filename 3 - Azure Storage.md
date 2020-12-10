@@ -27,7 +27,7 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 ## Azure Disk Storage
 - Basis voor Azure VM
 - Op deze locaties komt de server te staan
-- Mogelijk om datadisks te maken
+- Datadisks maken mogelijk
 - Hoge beschikbaarheid
 - Lage latency
 - Hoge troughput (2000MB/s)
@@ -230,7 +230,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTA5NDU4OCwtODE5Mjc2MjE4LDgzNj
-AwMDA2MSwtMjEzMDQyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4
-NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbLTE5ODAwOTI1NjcsLTgxOTI3NjIxOCw4Mz
+YwMDAwNjEsLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3
+ODQsLTE3NDE4ODc5OTFdfQ==
 -->
