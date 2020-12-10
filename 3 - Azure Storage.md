@@ -12,10 +12,11 @@ Vijf soorten storage
 : Table
 
 Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soorten storage aan.
+
 ![Azure Storage Account](https://i.imgur.com/c4F4KtA.png)
 
 ## Azure Files
-- Hard Disk maar in de Cloud
+- Hard Disk in de Cloud
 - Je kan deze mappen naar eigen pc *(bv. Z:\\)*
 - Handig: veilig files kopiëren Cloud <> On Premise
 - Zal gekende protocollen volgen zoals SMB3.0
@@ -229,7 +230,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTA4ODQ4NiwtODE5Mjc2MjE4LDgzNj
-AwMDA2MSwtMjEzMDQyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4
-NCwtMTc0MTg4Nzk5MV19
+eyJoaXN0b3J5IjpbLTIxMjc1ODIwMjksLTgxOTI3NjIxOCw4Mz
+YwMDAwNjEsLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3
+ODQsLTE3NDE4ODc5OTFdfQ==
 -->
