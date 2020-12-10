@@ -112,20 +112,20 @@ OSI: *Application Layer*
 - HTTP/2 Server push
 
 ## Wat zijn nu webservices?
-Functies die we kunnen aanroepen via het internet.
-- Opvragen van data via het internet
-- Devices aanspreekbaar maken via het internet
+**Functies die we kunnen aanroepen via het internet.**
+- **Opvragen van data** via het internet
+- **Devices aanspreekbaar maken** via het internet
 - Protocol is default (HTTP)
-- Technologie onafhankelijk
+- **Technologie onafhankelijk**
   - *Java, C#, PHP, Python*
-- Platform onafhankelijk
+- **Platform onafhankelijk**
   - *Windows, Linux, Android, iOS...*
 - 2 protocollen
   - SOAP
   - REST
 - Datatransport via
   - *XML, JSON...*
-
+---
 + Open data
   + Data die vrij beschikbaar is
   + Opvraagbaar via webservices
@@ -342,9 +342,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MT
-I2MjA2LDEyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4
-NjE2ODYzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOT
-MxMzk4LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5
-XX0=
+eyJoaXN0b3J5IjpbMTE1Nzk4NTkwMCw5MzUxMDA1NDksLTM0ND
+AzNzU2Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEs
+NjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2OD
+M4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4
+LC0yMTI5OTE0MDldfQ==
 -->
