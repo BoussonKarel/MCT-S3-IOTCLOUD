@@ -34,8 +34,23 @@ obj = json.loads(jsonstring)
 print("Het resultaat is {}".format(obj["quotient"]))
 ```
 
+## MQTT Trigger
+```csharp
+[FunctionName("MQTTTrigger")]
+public static void MQTTListener(
+[MqttTrigger("/lennertdefauw")] IMqttMessage message, ILogger logger)
+{
+	var body = message.GetMessage();
+	var bodyString = Encoding.UTF8.GetString(body);
+
+	Registration r = JsonConvert.DeserializeObject<Registration>(bodyString);
+
+	...
+}
+```
+
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTYyMjM3OSwyMDIxMjUxMDA1LDEwOT
-k5NzY4MzldfQ==
+eyJoaXN0b3J5IjpbLTkyMTQ0MjI2MywxODE5NjIyMzc5LDIwMj
+EyNTEwMDUsMTA5OTk3NjgzOV19
 -->
