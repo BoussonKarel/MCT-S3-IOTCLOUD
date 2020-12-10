@@ -288,6 +288,7 @@ Python: requests library
 **GET**
 ```python
 import requests
+
 url = "..."
 ret = requests.get(url)
 print(ret.status_code)
@@ -332,9 +333,10 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDYwNzAxMywtNDQ5MTU3MjQxLDE2NT
-c5NjYwMjMsOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MTI2MjA2
-LDEyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2OD
-YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
-LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTU5NzU4Mjk4NSwxNjMwNjA3MDEzLC00ND
+kxNTcyNDEsMTY1Nzk2NjAyMyw5MzUxMDA1NDksLTM0NDAzNzU2
+Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEsNjQ0MT
+Y2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2ODM4OTk4
+LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4LC0yMT
+I5OTE0MDldfQ==
 -->
