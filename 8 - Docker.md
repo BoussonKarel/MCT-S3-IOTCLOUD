@@ -149,7 +149,11 @@ Azure Web App for Containers
   - Via 1 commando zullen alle containers opgezet worden
   - We maken gebruik van docker-compose.yml
 
-+ **Docker-compose.yml**
+**Docker-compose.yml**
+> - services: containers die je nodig hebt
+>   - web (zelfgekozen naam)
+>     - build (op basis van docker file)
+>     - ports: (welke poort gebruiken)
 
 ## Docker Volumes
 
@@ -163,8 +167,8 @@ Azure Web App for Containers
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg0MDkyNTUsLTExMzM4MjA3NDgsMT
-M3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNzM4ODA3MDY5LDgyNTMy
-Mjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYxLD
-g0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
+eyJoaXN0b3J5IjpbLTYzNzQyMjAzNSwtMTEzMzgyMDc0OCwxMz
+cyMDMzMTc4LC0xMDMxNDcyNjk2LDE3Mzg4MDcwNjksODI1MzIy
+ODY4LDE3MTkzMDc3MTAsNjYyNTA3NjYsLTE1NjE0NjM1NjEsOD
+QzNTIxMTksMTQzMjYzNDYxMl19
 -->
