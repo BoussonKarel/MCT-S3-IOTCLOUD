@@ -228,8 +228,8 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   - *Azure Functions (C#, NodeJS of Python)*
 
 ## Azure Functions
-**Serverless Functions**
-- Waarom Azure Functions?
+### Serverless Functios
+- **Waarom Azure Functions?**
   - Eenvoudig concept
   - Eenvoudig aan te maken
   - Ondersteuning verschillende talen
@@ -335,7 +335,7 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzMyMzUwOSwtNDQ5MTU3MjQxLDE2NT
+eyJoaXN0b3J5IjpbMTA2MTQ4NjIxNCwtNDQ5MTU3MjQxLDE2NT
 c5NjYwMjMsOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MTI2MjA2
 LDEyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2OD
 YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
