@@ -240,13 +240,12 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   + Geen controle over wie wat doet
   + Hacker kan factuur doen oplopen: constant aanroepen
   + Andere gebruikers: tragere API
+  + **Dit moeten we vermijden**
 
 - Drie soorten security
-  - Anonymous: iedereen
-  - Function: *Enkel bij gekozen functie*
-  - Admin: *Alle functies*
-
-
+  - **Anonymous**: iedereen
+  - **Function**: *Enkel bij gekozen functie*
+  - **Admin**: *Alle functies*
 - Key zit in de URL
 
 + ✅ Makkelijk op te zetten
@@ -265,10 +264,10 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 ### Andere Azure Functions
 - HTTP Trigger
   - Webservice
-+ Timer trigger
+- Timer trigger
   - Via cron expressie de functie op een tijdstip uitvoeren
 - IoT Hub Trigger
-+ ...
+- ...
 
 ## What's Next
 - Welke nieuwe technologieën volgen?
@@ -333,9 +332,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcxMzUwNzUsLTQ0OTE1NzI0MSwxNj
-U3OTY2MDIzLDkzNTEwMDU0OSwtMzQ0MDM3NTY3LDc1NzEyNjIw
-NiwxMjk5Nzk3MDgyLDM4MTgyNTAxMSw2NDQxNjYzOTksODYxNj
-g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
-OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbMTYzMDYwNzAxMywtNDQ5MTU3MjQxLDE2NT
+c5NjYwMjMsOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MTI2MjA2
+LDEyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2OD
+YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
+LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
