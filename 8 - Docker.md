@@ -42,9 +42,14 @@ Eenvoudiger software distribueren
 - Als je Cloud vendor neutraal wil zijn
 - Dev Ops deployments
 - Nieuwe technologie verkennen zonder uw machine te vervuilen
-- PC
+- PC/Mac/Linux omgevingen in één team
+- Deployment op RPi
+- ... zolang er maar een Docker Engine aanwezig is
 
 ## Hoe werkt Docker?
+| Docker Image | Docker Container |
+|--|--|
+| Snapshot van files in een Linux file system | Runtime instantie van een container (beetje zoals aanmaken object op basis van een klasse (container image) |
 
 ## Basiscommando's
 
@@ -72,7 +77,7 @@ Eenvoudiger software distribueren
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2Mjk0NDI4LDE3MTkzMDc3MTAsNjYyNT
-A3NjYsLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMjYzNDYxMl19
-
+eyJoaXN0b3J5IjpbLTUwOTU5NjE0MCwxNzE5MzA3NzEwLDY2Mj
+UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
+fQ==
 -->
