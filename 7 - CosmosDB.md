@@ -128,9 +128,9 @@ Veel gebruikt voor data analyse systemen
 - Slaan data op als JSON in database zelf
 - Moeten data niet meer uitlezen en INSERT opbouwen
 
-+ **Nadeel:** dubbele data, geen relaties tussen data
+**Nadeel:** dubbele data, geen relaties
 ![](https://i.imgur.com/3ZqyFjH.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkxMzgzNjddfQ==
+eyJoaXN0b3J5IjpbLTI3NTc0MTEwOCwtMjA0OTEzODM2N119
 -->
