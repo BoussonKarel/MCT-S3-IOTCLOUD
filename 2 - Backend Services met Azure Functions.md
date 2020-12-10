@@ -32,23 +32,20 @@
 ![The Internet of Things](https://i.imgur.com/GU8ljua.png)
 
 ## Wat is de volgende stap?
-### The Internet of Value
-- **Value** verhandelen via het internet
-  - Bitcoin
-  - Cryptocurrencies
+- **The Internet of Value**
+- Value verhandelen via het internet
+  - *Bitcoin en andere Cryptocurrencies*
 
 + Onderliggende technologie veel belangrijker
-  + Blockchain
+  + Blockchain (public, gratis, open)
     + Distributed ledger (grootboek)
     + Registreren transacties
     + Elke transactie: verwijzing naar vorige transacties (chain)
 
-- Blockchain (public, gratis, open)
-
-+ Private blockchain mogelijk
-  + Veel evolutie in de wereld van fintech
-  + Etherium
-  + Smart Contracts
+- Private blockchain mogelijk
+  - Veel evolutie in de wereld van fintech
+  - Etherium
+  - Smart Contracts
 
 ## Hoe werkt HTTP?
 ### HTTP
@@ -346,8 +343,8 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYxOTc1NzQsMTI5OTc5NzA4MiwzOD
-E4MjUwMTEsNjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQz
-LC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMT
-k2NTI3ODE4LC0yMTI5OTE0MDldfQ==
+eyJoaXN0b3J5IjpbMjA4OTQyMTg4NCwxMjk5Nzk3MDgyLDM4MT
+gyNTAxMSw2NDQxNjYzOTksODYxNjg2MzE4LDIwNzI3NjA5NDMs
+LTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2MDY3NCwxOT
+Y1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
