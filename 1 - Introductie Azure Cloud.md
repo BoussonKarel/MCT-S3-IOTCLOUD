@@ -135,13 +135,8 @@ Eigen server op Azure omgeving
 - Monitoring
 - Staging mode
 
-| FREE | SHARED | BASIC, PREMIUM | ... |
-| -- | -- | -- | -- |
-| Gedeelde server | Gedeelde server | App Service Plan: eigen server | |
-| 1GB Storage | 1GB Storage | SSL | |
-| Beperkte trafiek (165MB/dag) | Mogelijkheid tot DNS: custom domains | Mogelijkheid tot DNS: custom domains | |
-| | | CPU keuze, Memory keuze | |
-| | | Scaling tot 3 toestellen | |
++ Free, Shared, Basic, Premium...
++ *Meer storage, SSL, meer trafiek, custom DNS, scaling...*
 
 ## Scaling
 Scale Up 
@@ -254,10 +249,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNzg4Nyw1MDk5NzEwNDksMTY0MDg2Nz
-gxNSwtMTU4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMDA2LC03
-MzE0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MD
-EzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5
-MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMz
-E3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbMTE5MTk0NDMwNyw2NDI3ODg3LDUwOTk3MT
+A0OSwxNjQwODY3ODE1LC0xNTgzMzg0OCwtMTUwNjMwMDI3LDEw
+MTQzODEwMDYsLTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyODQ1OT
+Y1NDUsMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2OTM2
+MSwtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5ODMsLT
+YwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkxMzUx
+NDAwXX0=
 -->
