@@ -59,7 +59,7 @@
 : Tencent Cloud, IBM, Oracle, Alibaba Cloud
 
 ## Microsoft Azure
-**Waarom?**
+**Waarom Azure gebruiken?**
 - Zowel .NET als Open Source (PHP, Java, Node, Python, Flask, Docker...)
 - Meeste opties en mogelijkheden
 - Zeer lage instapdrempel voor studenten
@@ -265,10 +265,10 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMzODQ4LC0xNTA2MzAwMjcsMTAxND
-M4MTAwNiwtNzMxNDIyNzEwLDEzMTYzNTU4NjEsMTI4NDU5NjU0
-NSwyMDgxNTAxMzA4LC0xMTg0NzM4MDY0LC0xODU1NjY5MzYxLC
-04NTk5MTYyOTIsLTE0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNjA5
-ODQyNTI4LDMxNzYxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MD
-BdfQ==
+eyJoaXN0b3J5IjpbMTY0MDg2NzgxNSwtMTU4MzM4NDgsLTE1MD
+YzMDAyNywxMDE0MzgxMDA2LC03MzE0MjI3MTAsMTMxNjM1NTg2
+MSwxMjg0NTk2NTQ1LDIwODE1MDEzMDgsLTExODQ3MzgwNjQsLT
+E4NTU2NjkzNjEsLTg1OTkxNjI5MiwtMTQxODkzOTQ4NCwtMjQw
+MDg4OTgzLC02MDk4NDI1MjgsMzE3NjE2NjYwLC0xNzkxNTk5Nz
+U4LDE5MTM1MTQwMF19
 -->
