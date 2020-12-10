@@ -38,7 +38,7 @@ print("Het resultaat is {}".format(obj["quotient"]))
 ```csharp
 [FunctionName("MQTTTrigger")]
 public static void MQTTListener(
-[MqttTrigger("/lennertdefauw")] IMqttMessage message, ILogger logger)
+[MqttTrigger("/karelstopic")] IMqttMessage message, ILogger logger)
 {
 	var body = message.GetMessage();
 	var bodyString = Encoding.UTF8.GetString(body);
@@ -51,6 +51,6 @@ public static void MQTTListener(
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTQ0MjI2MywxODE5NjIyMzc5LDIwMj
+eyJoaXN0b3J5IjpbLTEzODUxNzU0MCwxODE5NjIyMzc5LDIwMj
 EyNTEwMDUsMTA5OTk3NjgzOV19
 -->
