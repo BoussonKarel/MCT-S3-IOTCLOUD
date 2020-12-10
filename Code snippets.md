@@ -51,8 +51,8 @@ public static void MQTTListener(
 ```
 ### MQTT Send
 ```csharp
-[FunctionName("GratisMode")]
-public static IActionResult GratisMode(
+[FunctionName("MQTTSend")]
+public static IActionResult MQTTSend(
 [HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = "routenaam/objects")] HttpRequest req,
 ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 {
@@ -70,6 +70,7 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDI1NDgzMSwtMTM4NTE3NTQwLDE4MT
-k2MjIzNzksMjAyMTI1MTAwNSwxMDk5OTc2ODM5XX0=
+eyJoaXN0b3J5IjpbMTYyMzczNzc3MywxMjgwMjU0ODMxLC0xMz
+g1MTc1NDAsMTgxOTYyMjM3OSwyMDIxMjUxMDA1LDEwOTk5NzY4
+MzldfQ==
 -->
