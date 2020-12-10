@@ -32,8 +32,10 @@ print(ret.text)
 jsonstring = ret.text
 obj = json.loads(jsonstring)
 print("Het resultaat is {}".format(obj["quotient"]))
-``
+```
+
+## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjM4MDIyMywyMDIxMjUxMDA1LDEwOT
+eyJoaXN0b3J5IjpbMTgxOTYyMjM3OSwyMDIxMjUxMDA1LDEwOT
 k5NzY4MzldfQ==
 -->
