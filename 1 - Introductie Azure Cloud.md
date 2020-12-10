@@ -5,9 +5,7 @@
 
 ### On Premise (eigen servers)
 - IT afdeling **verantwoordelijk voor ALLES**
-  - Back-up + recovery
-  - Aankoop hardware
-  - Scaling
+  - *Back-up + recovery, aankoop hardware, scaling*
 - **Investeren in hardware** die je beperkt nodig hebt (*bv. kerst*)
 - Meeste **vrijheid**
 - Soms **verplicht door wetgeving**
@@ -272,8 +270,8 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMT
-g0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5
-Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MC
-wtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwOD
+E1MDEzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkx
+NjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1Mj
+gsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
