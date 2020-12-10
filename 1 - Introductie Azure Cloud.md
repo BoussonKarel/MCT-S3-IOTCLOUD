@@ -127,12 +127,7 @@ Eigen server op Azure omgeving
 - ~~Eigen server~~
 - ~~Webserver configuratie~~
 
-+ Ondersteuning voor ASP.NET (Core)
-  + PHP
-  + Python Flask
-  + Java
-  + NodeJS
-  + ...
++ Ondersteuning voor *ASP.NET (Core), PHP, Python Flask, Java, NodeJS ...*
 
 - Easy deployment
 - Eenvoudig te koppelen aan Github Repo
@@ -259,10 +254,10 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM3MTIxMiw1MDk5NzEwNDksMTY0MD
-g2NzgxNSwtMTU4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMDA2
-LC03MzE0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwOD
-E1MDEzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkx
-NjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1Mj
-gsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbNjQyNzg4Nyw1MDk5NzEwNDksMTY0MDg2Nz
+gxNSwtMTU4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMDA2LC03
+MzE0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MD
+EzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5
+MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMz
+E3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
