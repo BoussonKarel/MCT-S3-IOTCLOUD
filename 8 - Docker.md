@@ -30,11 +30,11 @@
 - Waarom dockergebruiken ?
 - Wat is een DockerFile?
 - Wat is docker-compose?
-- Wat is dockerhub
+- Wat is DockerHub?
 - De basiscommando’s weten wat ze doen, maar niet alle parameters
-- Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven ?
--   Wat zijn volumes ?
+- Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
+-   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMj
-YzNDYxMl19
+eyJoaXN0b3J5IjpbNjYyNTA3NjYsLTE1NjE0NjM1NjEsODQzNT
+IxMTksMTQzMjYzNDYxMl19
 -->
