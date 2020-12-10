@@ -61,7 +61,12 @@ Docker Client
 : Programma op PC developper voor aanmaken Docker Images
 : Volledig command line
 
-Wanneer een Docker Image klaar is:
+- Wanneer een Docker Image klaar is:
+  - Push naar docker registry
+    - Docker Hub
+    - Azure Container Registry
+  - Container opzetten in Cloud omgeving op basis van Image uit de Registry
+
 
 ## Basiscommando's
 
@@ -89,7 +94,7 @@ Wanneer een Docker Image klaar is:
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA5NjQwODcsMTcxOTMwNzcxMCw2Nj
+eyJoaXN0b3J5IjpbLTE2NTA2NDE2MzIsMTcxOTMwNzcxMCw2Nj
 I1MDc2NiwtMTU2MTQ2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEy
 XX0=
 -->
