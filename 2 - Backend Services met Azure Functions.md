@@ -2,23 +2,25 @@
 ## The Internet of ??
 - **The Internet of Information**
 - Webpagina's met content
-  - *Opzoeken / raadplegen van informatie, E-commerce, Social networks*
+  - *Opzoeken / raadplegen van informatie*
+  - *E-commerce*
+  - *Social networks*
 - Technologie: HTML, CSS, JS, PHP / ASP / JAVA
 
 ![The Internet of ??](https://i.imgur.com/9C0b2Vj.png)
 
 - **The Internet of Services**
 - Connectiviteit
-  - Mobile apps
-  - Cross platform
-  - Data gemakkelijk uitwisselen
-  - Functionaliteit makkelijk aanroepen
-  - Centraal staan Cloud platforms
-  - REST Based
+  - *Mobile apps*
+  - *Cross platform*
+  - *Data gemakkelijk uitwisselen*
+  - *Functionaliteit makkelijk aanroepen*
+  - *Centraal staan Cloud platforms*
+  - *REST Based*
 
 ![The Internet of Services](https://i.imgur.com/462lUmV.png)
 
-### The Internet of Things
+- **The Internet of Things**
 - Connecting hardware
   - Device koppelen aan internet
     - Informatie versturen naar Cloud
@@ -344,7 +346,7 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ3Mzk0NDgsMTI5OTc5NzA4MiwzOD
+eyJoaXN0b3J5IjpbLTEwMzYxOTc1NzQsMTI5OTc5NzA4MiwzOD
 E4MjUwMTEsNjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQz
 LC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMT
 k2NTI3ODE4LC0yMTI5OTE0MDldfQ==
