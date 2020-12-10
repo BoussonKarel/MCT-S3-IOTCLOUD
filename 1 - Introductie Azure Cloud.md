@@ -33,9 +33,8 @@
 - Ontwikkelaar maakt applicatie en "plaatst" deze op Cloud platform
 - Platform beheert servers, hosting, back-ups, scaling
 - Zeer veel **flexibiliteit**
-
-*ASP.NET Core, nodejs, python, Java, php*
-*AWS, Microsoft Azure, IBM Bluemix, Heroku, Google Cloud*
+  - *ASP.NET Core, nodejs, python, Java, php*
+  - *AWS, Microsoft Azure, IBM Bluemix, Heroku, Google Cloud*
 
 ### SaaS (Software as a Service)
 - Software draait meestal niet lokaal
@@ -267,9 +266,9 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDMwMzY2MCwxMDE0MzgxMDA2LC03Mz
-E0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MDEz
-MDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5Mi
-wtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3
-NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
+eyJoaXN0b3J5IjpbNzIwMzQxNDIsMTAxNDM4MTAwNiwtNzMxND
+IyNzEwLDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4
+LC0xMTg0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLT
+E0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYx
+NjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
 -->
