@@ -62,7 +62,7 @@ OSI: *Application Layer*
 + HTTP is relatief eenvoudig
 
 #### HTTP Verbs
-| Verb | |
+| HTTP Verb | Waarvoor wordt het gebruikt |
 |--|--|
 | **GET** | Ophalen data (safe, wijzigt niks) (**SELECT**) |
 | **POST** | Toevoegen data (**INSERT**) |
@@ -343,8 +343,8 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MTI2MjA2LDEyOTk3OTcwODIsMzgxOD
-I1MDExLDY0NDE2NjM5OSw4NjE2ODYzMTgsMjA3Mjc2MDk0Mywt
-MTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xODg0MTYwNjc0LDE5Nj
-UyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTE0MTA1NTMwNzksNzU3MTI2MjA2LDEyOT
+k3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2ODYzMTgs
+MjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xOD
+g0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
 -->
