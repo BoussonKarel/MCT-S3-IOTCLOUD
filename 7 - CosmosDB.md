@@ -170,8 +170,9 @@ Belangrijke parameters
 : PRIMARY KEY
  *(instellen in local.settings.json en App Settings van Azure Function)*
 
+### CosmosDB Extra's
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYxODE1MTUsMTg3Nzg2MzE1NywtMj
-A0OTEzODM2N119
+eyJoaXN0b3J5IjpbMTIzNjc3Mzc4LDE4Nzc4NjMxNTcsLTIwND
+kxMzgzNjddfQ==
 -->
