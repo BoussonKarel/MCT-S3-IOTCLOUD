@@ -1,13 +1,5 @@
 # 1 - Intro Azure Cloud
 ## Wat is Cloud Computing
-### Enkele eigenschappen
-- Geen eigen hardware
-- Unlimited computing power
-- Unlimited storage capacity
-- Scaling up and down (op aanvraag / automatisch)
-- Scaling in and out (op aanvraag / automatisch)
-- Geografische spreiding
-- Pay what you use
 
 ![Van On premise tot SaaS](https://i.imgur.com/Ne9mMxp.png)
 
@@ -280,8 +272,8 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMT
-g1NTY2OTM2MSwtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAw
-ODg5ODMsLTYwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NT
-gsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMT
+g0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5
+Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MC
+wtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
 -->
