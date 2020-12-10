@@ -1,4 +1,7 @@
 # IoT Cloud - Handy code
+
+
+
 ## Azure Functions - basics
 Sending information in the **body** using **POST**
 ```csharp
@@ -229,5 +232,5 @@ private static async Task SendEmailMessage(Registration reg)
 Registration reg = JsonConvert.DeserializeObject<Registration>(myQueueItem);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTk3NjgzOV19
+eyJoaXN0b3J5IjpbMjAyMTI1MTAwNSwxMDk5OTc2ODM5XX0=
 -->
