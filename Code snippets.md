@@ -55,6 +55,43 @@ public static async Task<IActionResult> Get_noParams(
 	}
 }
 ```
+
+```csharp
+[FunctionName("GET_Params")]
+public static async Task<IActionResult> Get_Params(
+	[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "getroute/{getal1}/{getal2}")] HttpRequest req,
+	ILogger log,
+	int getal1,int getal2)
+
+{
+
+try
+
+{
+
+//Using the parameters in the sum
+
+int result = getal1 + getal2;
+
+//Can also return the structure of a class
+
+return new OkObjectResult(result);
+
+}
+
+catch (Exception e)
+
+{
+
+//Returned http status code
+
+return new StatusCodeResult(500);
+
+}
+
+}
+```
+
 ## SQL Server
 ### Instellen van de SQL Server Connectionstring
 In **local.settings.json**:
@@ -250,6 +287,6 @@ private static async Task SendEmailMessage(Registration reg)
 Registration reg = JsonConvert.DeserializeObject<Registration>(myQueueItem);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MjIwMDY3LDIwMjEyNTEwMDUsMTA5OT
-k3NjgzOV19
+eyJoaXN0b3J5IjpbLTUyMDY0MDAwNSwyMDIxMjUxMDA1LDEwOT
+k5NzY4MzldfQ==
 -->
