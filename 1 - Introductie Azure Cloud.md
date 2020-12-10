@@ -74,13 +74,13 @@ Kan in projectweken, vooral AI projecten
 Portal gebruikt voor het beheren van Cloud services en applicaties.
 
 ### Azure Subscription
-- **Abonnement** 
-- Zal bepalen hoe ze factureren
+**Abonnement**
+: Zal bepalen hoe ze factureren
 
-+ Credits op voorhand
-+ Pay by use
+- Credits op voorhand
+- Pay by use
 
-- *In de praktijk: Subscription per klant*
+*In de praktijk: Subscription per klant*
 
 ## Resource Group
 ![Account, Subscription, Resource groups](https://i.imgur.com/C4WiSOx.png)
@@ -264,10 +264,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5OTcxMDQ5LDE2NDA4Njc4MTUsLTE1OD
-MzODQ4LC0xNTA2MzAwMjcsMTAxNDM4MTAwNiwtNzMxNDIyNzEw
-LDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMT
-g0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5
-Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MC
-wtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTM0OTc0MTYsNTA5OTcxMDQ5LDE2ND
+A4Njc4MTUsLTE1ODMzODQ4LC0xNTA2MzAwMjcsMTAxNDM4MTAw
+NiwtNzMxNDIyNzEwLDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMD
+gxNTAxMzA4LC0xMTg0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5
+MTYyOTIsLTE0MTg5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNT
+I4LDMxNzYxNjY2MCwtMTc5MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+
 -->
