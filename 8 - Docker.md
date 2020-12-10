@@ -50,9 +50,19 @@ Eenvoudiger software distribueren
 | Docker Image | Docker Container |
 |--|--|
 | Snapshot van files in een Linux file system | Runtime instantie van een container (container image) |
-| Basis van Image is een Linux OS (Windows kan maar zien we niet) | Docker container zijn geïsoleerd van elkaar maar ze kunnen wel communiceren naar buiten toe |
+| Basis van Image is een Linux OS (Windows kan maar zien we niet) | Containers geïsoleerd van elkaar, maar kunnen communiceren naar buiten toe |
 | Via een Dockerfile kunnen we een Docker image aanmaken | Volledige toegang tot CPU en memory |
 | Bevat de ontwikkelde applicaties en de libraries die er nodig zijn | |
+
+Docker Hub
+: Public repo met images
+
+Docker Client
+: Programma op PC developper voor aanmaken Docker Images
+: Volledig command line
+
+Wanneer een Docker Image klaar is:
+
 ## Basiscommando's
 
 ## Dockerfile
@@ -79,7 +89,7 @@ Eenvoudiger software distribueren
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTA4ODg3OCwxNzE5MzA3NzEwLDY2Mj
-UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MzA5NjQwODcsMTcxOTMwNzcxMCw2Nj
+I1MDc2NiwtMTU2MTQ2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEy
+XX0=
 -->
