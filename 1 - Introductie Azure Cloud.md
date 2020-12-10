@@ -209,7 +209,7 @@ Er zijn verschillende **throttling types** en **modes**.
 |--|--|
 | Azure Event Hubs | Ontvangen van berichten afkomstig van toestellen |
 |Azure IoT Hub | Ontvangen van berichten |
-|| Sturen van berichten naar toestellen |
+|| Sturen van berichten |
 |Azure Streaming Analytics | Verwerken van events afkomstig van Event Hubs en IoT hub |
 *Event Hubs en IoT hub kunnen miljoenen berichten per seconden aan.*
 
@@ -245,11 +245,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDM1ODExLDQ3NjI0ODgxMSwxMTkxOT
-Q0MzA3LDY0Mjc4ODcsNTA5OTcxMDQ5LDE2NDA4Njc4MTUsLTE1
-ODMzODQ4LC0xNTA2MzAwMjcsMTAxNDM4MTAwNiwtNzMxNDIyNz
-EwLDEzMTYzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0x
-MTg0NzM4MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MT
-g5Mzk0ODQsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2
-MF19
+eyJoaXN0b3J5IjpbMTY1MjA4MjcyMiw0NzYyNDg4MTEsMTE5MT
+k0NDMwNyw2NDI3ODg3LDUwOTk3MTA0OSwxNjQwODY3ODE1LC0x
+NTgzMzg0OCwtMTUwNjMwMDI3LDEwMTQzODEwMDYsLTczMTQyMj
+cxMCwxMzE2MzU1ODYxLDEyODQ1OTY1NDUsMjA4MTUwMTMwOCwt
+MTE4NDczODA2NCwtMTg1NTY2OTM2MSwtODU5OTE2MjkyLC0xND
+E4OTM5NDg0LC0yNDAwODg5ODMsLTYwOTg0MjUyOCwzMTc2MTY2
+NjBdfQ==
 -->
