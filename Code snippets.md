@@ -50,26 +50,24 @@ public static void MQTTListener(
 ```
 
 ## MQTT Send
-
+```csharp
 [FunctionName("GratisMode")]
 public static IActionResult GratisMode(
-[HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = "parking/mode")] HttpRequest req,
+[HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = "routenaam/objects")] HttpRequest req,
 ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 {
-            string requestBody = new StreamReader(req.Body).ReadToEnd();
+	string requestBody = new StreamReader(req.Body).ReadToEnd();
+	ObjectKlasse m = JsonConvert.DeserializeObject<ObjectKlasse>(requestBody);
 
-            ModeObject m = JsonConvert.DeserializeObject<ModeObject>(requestBody);
+	string json = "{\"key\" : \"" +  m.isTrue + "\"}";
+	outMessage = new MqttMessage("/karelstopic/subtopic", Encoding.ASCII.GetBytes(json), MqttQualityOfServiceLevel.AtLeastOnce, true);
 
-            string json = "{\"isTrue\" : \"" +  m.isTrue + "\"}";
-
-
-            outMessage = new MqttMessage("/lennertdefauw/mode", Encoding.ASCII.GetBytes(json), MqttQualityOfServiceLevel.AtLeastOnce, true);
-
-            return new StatusCodeResult(200);
-        }
+	return new StatusCodeResult(200);
+}
+```
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE3NzkyNiwtMTM4NTE3NTQwLDE4MT
-k2MjIzNzksMjAyMTI1MTAwNSwxMDk5OTc2ODM5XX0=
+eyJoaXN0b3J5IjpbLTE0NjY5ODQ4MTAsLTEzODUxNzU0MCwxOD
+E5NjIyMzc5LDIwMjEyNTEwMDUsMTA5OTk3NjgzOV19
 -->
