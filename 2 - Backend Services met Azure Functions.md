@@ -203,15 +203,13 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
   - 204 OK + No Content
 
 ---
-- Wat als er iets fout loopt?
-  - Wat terugkeren?
-  - Internam Server Error 500 + informatie die je zelf opstelt
-  - Denk na welke info:
-    - Geen connectie info
-    - Geen database namen
-    - Geen SQL statements
-    - Geen exceptions / interne foutmeldingen
-    - ...
+**Wat terugkeren bij fouten?**
+- Internal Server Error 500 + informatie (denk na welke info!)
+  - Geen connectie info
+  - Geen database namen
+  - Geen SQL statements
+  - Geen exceptions / interne foutmeldingen
+  - ...
 ---
 - Webservices zijn **stateless**
   - GEEN state van de client bijhouden aan server kant
@@ -340,9 +338,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTE1NzI0MSwxNjU3OTY2MDIzLDkzNT
-EwMDU0OSwtMzQ0MDM3NTY3LDc1NzEyNjIwNiwxMjk5Nzk3MDgy
-LDM4MTgyNTAxMSw2NDQxNjYzOTksODYxNjg2MzE4LDIwNzI3Nj
-A5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5OCwtMTg4NDE2MDY3
-NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
+eyJoaXN0b3J5IjpbLTE0NjkxNDc3MDMsLTQ0OTE1NzI0MSwxNj
+U3OTY2MDIzLDkzNTEwMDU0OSwtMzQ0MDM3NTY3LDc1NzEyNjIw
+NiwxMjk5Nzk3MDgyLDM4MTgyNTAxMSw2NDQxNjYzOTksODYxNj
+g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
+OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
