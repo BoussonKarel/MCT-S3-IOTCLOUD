@@ -105,7 +105,10 @@ COPY ./app /app
 ```
 
 ## Build Image
-m
+```
+docker build -t demonmct:first
+# -t = tag toevoegen na de :
+```
 
 ## Run container
 
@@ -127,7 +130,8 @@ m
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNz
-M4ODA3MDY5LDgyNTMyMjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2
-LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMzM4MjA3NDgsMTM3MjAzMzE3OCwtMT
+AzMTQ3MjY5NiwxNzM4ODA3MDY5LDgyNTMyMjg2OCwxNzE5MzA3
+NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0Mz
+I2MzQ2MTJdfQ==
 -->
