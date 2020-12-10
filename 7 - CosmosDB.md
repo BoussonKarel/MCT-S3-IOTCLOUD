@@ -133,11 +133,24 @@ Veel gebruikt voor data analyse systemen
 **Nadeel:** dubbele data, geen relaties
 
 ## CosmosDB
+### Waarom?
 - CosmosDB is managed database service op Azure
   - Geen onderhoud, patching
   - Eenvoudig op te zetten
   - Pay what you use
   - Krachtige API's
+- Globaal gedistribueerde database
+- Unlimited scalability
+- Low latency
+- SLA
+
+### CosmosDB
+- Globaal gedistribueerde database
+- Data troughput schaalbaar
+  - Scale up and down w
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjk3NjQwOSwtMjA0OTEzODM2N119
+eyJoaXN0b3J5IjpbLTE3MjExNzgxOTQsLTIwNDkxMzgzNjddfQ
+==
 -->
