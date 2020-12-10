@@ -121,6 +121,16 @@ Stoppen van een image ```docker stop <container-id>```
 ## Push naar Azure Container Registry
 Azure Container Registry
 : Private repository voor Images
+: Image uploaden voor we deze online kunnen zetten
+
+Eerst inloggen in de private registry
+```az acr login -name iotcloudles```
+
+Voor we kunnen pushen moeten we de image taggen
+```
+docker tag demonmct:first iotcloudles.azurecr.io/demonmct
+# naam image lokaal (demonmct) tag voor privat
+```
 
 ## Deploy Container Azure
 
@@ -138,7 +148,7 @@ Azure Container Registry
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU0MzE5NjgsLTExMzM4MjA3NDgsMT
+eyJoaXN0b3J5IjpbLTExNDE0NDI2MzMsLTExMzM4MjA3NDgsMT
 M3MjAzMzE3OCwtMTAzMTQ3MjY5NiwxNzM4ODA3MDY5LDgyNTMy
 Mjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYxLD
 g0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
