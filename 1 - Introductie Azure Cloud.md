@@ -112,14 +112,12 @@ Eigen server op Azure omgeving
 
 ### Unplanned maintenance
 - Storing in onderliggende architectuur
-  - Netwerk problemen
-  - Disk problemen
-  - Rack problemen
+  - *Netwerk, disk, rack problemen*
 - Automatische verplaatsing naar werkende infrastructuur
 
 ### Availibility Set
 - VM "up and running" houden.
-  - Garantie vna 99,95% uptime
+  - Garantie van 99,95% uptime
   - Minstens 2 VM's nodig
   - Duurder
 
@@ -129,8 +127,7 @@ Eigen server op Azure omgeving
 - ~~Eigen server~~
 - ~~Webserver configuratie~~
 
-+ Ondersteuning voor
-  + ASP.NET (Core)
++ Ondersteuning voor ASP.NET (Core)
   + PHP
   + Python Flask
   + Java
@@ -262,10 +259,10 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDIyNDIzLDUwOTk3MTA0OSwxNjQwOD
-Y3ODE1LC0xNTgzMzg0OCwtMTUwNjMwMDI3LDEwMTQzODEwMDYs
-LTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyODQ1OTY1NDUsMjA4MT
-UwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2OTM2MSwtODU5OTE2
-MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5ODMsLTYwOTg0MjUyOC
-wzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkxMzUxNDAwXX0=
+eyJoaXN0b3J5IjpbLTQ0NzM3MTIxMiw1MDk5NzEwNDksMTY0MD
+g2NzgxNSwtMTU4MzM4NDgsLTE1MDYzMDAyNywxMDE0MzgxMDA2
+LC03MzE0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwOD
+E1MDEzMDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkx
+NjI5MiwtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1Mj
+gsMzE3NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
