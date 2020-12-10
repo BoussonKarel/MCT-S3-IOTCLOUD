@@ -50,11 +50,6 @@ Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soor
 
 + Bestanden uploaden via Storage Explorer
 
-- Connecteren
-  - Account Name/Key
-
-+ Bestanden opvragen via HTTP Request
-
 - Pricing
   - Per GB/Per maand
   - Hot / Cold
@@ -230,7 +225,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAwOTI1NjcsLTgxOTI3NjIxOCw4Mz
-YwMDAwNjEsLTIxMzA0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3
-ODQsLTE3NDE4ODc5OTFdfQ==
+eyJoaXN0b3J5IjpbODQ0ODM4Nzg5LC0xOTgwMDkyNTY3LC04MT
+kyNzYyMTgsODM2MDAwMDYxLC0yMTMwNDIyMTM1LDEzMDEzNDUw
+ODksNDA0Mzc5Nzg0LC0xNzQxODg3OTkxXX0=
 -->
