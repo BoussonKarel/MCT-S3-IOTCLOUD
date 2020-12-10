@@ -33,7 +33,8 @@
 - Wat is dockerhub
 - De basiscommando’s weten wat ze doen, maar niet alle parameters
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven ?
-- Wat zijn volumes ?
+-   Wat zijn volumes ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNTIxMTksMTQzMjYzNDYxMl19
+eyJoaXN0b3J5IjpbLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMj
+YzNDYxMl19
 -->
