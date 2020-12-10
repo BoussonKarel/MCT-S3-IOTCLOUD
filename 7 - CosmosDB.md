@@ -152,6 +152,10 @@ Veel gebruikt voor data analyse systemen
   - *Document DB API, MongoDB API, Gremlin API...*
   - Zeer belangrijk bij migratie
 
++ SLA van 99,99% in een region, meerdere regions = hogere SLA
+
+### CosmosDB API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Nzg2MzE1NywtMjA0OTEzODM2N119
+eyJoaXN0b3J5IjpbNjczNDA3MDk5LDE4Nzc4NjMxNTcsLTIwND
+kxMzgzNjddfQ==
 -->
