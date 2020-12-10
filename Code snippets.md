@@ -35,8 +35,7 @@ print("Het resultaat is {}".format(obj["quotient"]))
 ```
 
 ## Azure Functions - basics
-Sending information in the **body** using **POST**
-
+Function without parameters
 ```csharp
 [FunctionName("GET_noParams")]
 public static async Task<IActionResult> Get_noParams(
@@ -55,40 +54,27 @@ public static async Task<IActionResult> Get_noParams(
 	}
 }
 ```
-
+Function with 2 parameters
 ```csharp
 [FunctionName("GET_Params")]
 public static async Task<IActionResult> Get_Params(
 	[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "getroute/{getal1}/{getal2}")] HttpRequest req,
-	ILogger log,
-	int getal1,int getal2)
-
+	int getal1, int getal2,
+	ILogger log)
 {
+	try
+	{
+		//Using the parameters in the sum
+		int result = getal1 + getal2;
 
-try
-
-{
-
-//Using the parameters in the sum
-
-int result = getal1 + getal2;
-
-//Can also return the structure of a class
-
-return new OkObjectResult(result);
-
-}
-
-catch (Exception e)
-
-{
-
-//Returned http status code
-
-return new StatusCodeResult(500);
-
-}
-
+		//Can also return the structure of a class
+		return new OkObjectResult(result);
+	}
+	catch (Exception e)
+	{
+		//Returned http status code
+		return new StatusCodeResult(500);
+	}
 }
 ```
 
@@ -287,6 +273,6 @@ private static async Task SendEmailMessage(Registration reg)
 Registration reg = JsonConvert.DeserializeObject<Registration>(myQueueItem);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDY0MDAwNSwyMDIxMjUxMDA1LDEwOT
+eyJoaXN0b3J5IjpbLTYxNTE3NTkwNywyMDIxMjUxMDA1LDEwOT
 k5NzY4MzldfQ==
 -->
