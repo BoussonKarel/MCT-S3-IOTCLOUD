@@ -156,10 +156,16 @@ Azure Web App for Containers
 >   - ports (welke poort gebruiken)
 > - redis (zelfgekozen naam)
 >   - image (welke image gebruiken voor redis)
-
+>   
 ![](https://i.imgur.com/hvQ5ejU.png)
 
+Starten via ```docker-compose up```
+
 ## Docker Volumes
+Docker is **stateless**, bij het stopzetten verliezen we alle info
+- Wat met data?
+  - Externe services: *SQL Azure Database, Azure Table Storage, CosmosDB*
+- Je kan ook database draaien in Docker container
 
 ## Belangrijk
 - Wat is docker?
@@ -171,7 +177,7 @@ Azure Web App for Containers
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNzgzMjU4LC0xMTMzODIwNzQ4LDEzNz
+eyJoaXN0b3J5IjpbNTc2NzM1NzE3LC0xMTMzODIwNzQ4LDEzNz
 IwMzMxNzgsLTEwMzE0NzI2OTYsMTczODgwNzA2OSw4MjUzMjI4
 NjgsMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MTQ2MzU2MSw4ND
 M1MjExOSwxNDMyNjM0NjEyXX0=
