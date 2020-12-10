@@ -34,7 +34,8 @@ obj = json.loads(jsonstring)
 print("Het resultaat is {}".format(obj["quotient"]))
 ```
 
-## MQTT Trigger
+## MQTT
+### MQTT Trigger
 ```csharp
 [FunctionName("MQTTTrigger")]
 public static void MQTTListener(
@@ -48,8 +49,7 @@ public static void MQTTListener(
 	...
 }
 ```
-
-## MQTT Send
+### MQTT Send
 ```csharp
 [FunctionName("GratisMode")]
 public static IActionResult GratisMode(
@@ -59,7 +59,7 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 	string requestBody = new StreamReader(req.Body).ReadToEnd();
 	ObjectKlasse m = JsonConvert.DeserializeObject<ObjectKlasse>(requestBody);
 
-	string json = "{\"key\" : \"" +  m.isTrue + "\"}";
+	string json = "{\"property\" : \"" +  m.property+ "\"}";
 	outMessage = new MqttMessage("/karelstopic/subtopic", Encoding.ASCII.GetBytes(json), MqttQualityOfServiceLevel.AtLeastOnce, true);
 
 	return new StatusCodeResult(200);
@@ -68,6 +68,6 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY5ODQ4MTAsLTEzODUxNzU0MCwxOD
+eyJoaXN0b3J5IjpbLTE0NzY3MjYxNDcsLTEzODUxNzU0MCwxOD
 E5NjIyMzc5LDIwMjEyNTEwMDUsMTA5OTk3NjgzOV19
 -->
