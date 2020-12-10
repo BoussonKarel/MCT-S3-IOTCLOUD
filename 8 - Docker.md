@@ -74,7 +74,7 @@ Docker Client
 |--|--|
 | docker pull nginx | Download image "nginx" van Docker Hub |
 | docker images | Overzicht images op het systeem |
-| docker run -p 80:80 nginx | Opstarten van container op basis van image nginx en de poort 80 extern mappen met de poort in de container |
+| docker run -p 80:80 nginx | Opstarten van container op basis van image nginx en (poort 80 [container] mappen naar poort 80 [host]) |
 | docker ps | Overzicht containers die actief zijn |
 | docker exec -it 6becfdf32737 bash | Inloggen in container met bash shell |
 | docker stop | Stoppen van container |
@@ -105,7 +105,7 @@ Docker Client
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1MzIyODY4LDE3MTkzMDc3MTAsNjYyNT
-A3NjYsLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMjYzNDYxMl19
-
+eyJoaXN0b3J5IjpbMTczODgwNzA2OSw4MjUzMjI4NjgsMTcxOT
+MwNzcxMCw2NjI1MDc2NiwtMTU2MTQ2MzU2MSw4NDM1MjExOSwx
+NDMyNjM0NjEyXX0=
 -->
