@@ -243,11 +243,9 @@ Alles uniek identificeerbaar via een URI --> Uniform Resource Locator (URL)
 
 - Drie soorten security
   - Anonymous: iedereen
-  - Function
-  - Admin
+  - Function: *Enkel bij gekozen functie*
+  - Admin: *Alle functies*
 
-+ Function key: *Enkel bij gekozen functie*
-+ Admin key: *Alle functies*
 
 - Key zit in de URL
 
@@ -335,9 +333,9 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQ4NjIxNCwtNDQ5MTU3MjQxLDE2NT
-c5NjYwMjMsOTM1MTAwNTQ5LC0zNDQwMzc1NjcsNzU3MTI2MjA2
-LDEyOTk3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2OD
-YzMTgsMjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4
-LC0xODg0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTEyNjcxMzUwNzUsLTQ0OTE1NzI0MSwxNj
+U3OTY2MDIzLDkzNTEwMDU0OSwtMzQ0MDM3NTY3LDc1NzEyNjIw
+NiwxMjk5Nzk3MDgyLDM4MTgyNTAxMSw2NDQxNjYzOTksODYxNj
+g2MzE4LDIwNzI3NjA5NDMsLTE0MzY4Mzg5OTgsMTQzMDkzMTM5
+OCwtMTg4NDE2MDY3NCwxOTY1Mjc4MTgsLTIxMjk5MTQwOV19
 -->
