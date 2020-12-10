@@ -135,18 +135,19 @@ OSI: *Application Layer*
 + Internet of Things
   + *Philips Hue API, Parrot AR Drone...*
 
-> HTTP
-> GET/POST Request naar device
-> In de body v/h request: JSON data
-> Cross-platform
+> 1. Gebruik van HTTP
+> 2. GET/POST Request naar device
+> 3. In de body v/h request: JSON data
+> 4. Cross-platform
 
 ### JSON
-**J**ava**S**cript **O**bject **N**otation
-- Eenvoudig + zeer licht
-- Alles tussen {}
-- key:value
-  - Key met quotes
-  - (key:value) pairs scheiden met komma
+- **JavaScript Object Notation**
+- Eenvoudig, zeer licht
+
++ Alles tussen {}
++ key:value
+  + Key met quotes
+  + (key:value) pairs scheiden met komma
 
 ![JSON format](https://i.imgur.com/UQISVsI.png)
 
@@ -339,7 +340,7 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzA5ODcxMSw5MzUxMDA1NDksLTM0ND
+eyJoaXN0b3J5IjpbMTMxNTI2NDY5Nyw5MzUxMDA1NDksLTM0ND
 AzNzU2Nyw3NTcxMjYyMDYsMTI5OTc5NzA4MiwzODE4MjUwMTEs
 NjQ0MTY2Mzk5LDg2MTY4NjMxOCwyMDcyNzYwOTQzLC0xNDM2OD
 M4OTk4LDE0MzA5MzEzOTgsLTE4ODQxNjA2NzQsMTk2NTI3ODE4
