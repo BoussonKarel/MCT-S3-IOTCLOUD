@@ -66,8 +66,10 @@ ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
 }
 ```
 
+## CosmosDB
+
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY3MjYxNDcsLTEzODUxNzU0MCwxOD
-E5NjIyMzc5LDIwMjEyNTEwMDUsMTA5OTk3NjgzOV19
+eyJoaXN0b3J5IjpbMTI4MDI1NDgzMSwtMTM4NTE3NTQwLDE4MT
+k2MjIzNzksMjAyMTI1MTAwNSwxMDk5OTc2ODM5XX0=
 -->
