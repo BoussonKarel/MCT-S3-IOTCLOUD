@@ -7,13 +7,18 @@
 - Basiscommando's
 ## Wat is Docker?
 ### Deployment van applicaties
-Oude manier:
+**Oude manier** van deployment (installatie van de applicatie)
 - Verschillende applicaties op één server.
 - Server bevat alle nodige libraries die alle applicaties nodig hebben
 - Zeer lastig om te beheren (nieuwe versies, maar niet alles updaten)
 - Applicaties NIET gescheiden van elkaar
 - Veel werk bij update uitrollen
 - Altijd systeembeheerder nodig om updates uit te rollen
+
+![](https://i.imgur.com/a8A94Ez.png)
+
+**Nieuwe manier** van deployment (installatie van de applicatie)
+- Applicatie met nodige libraries in een image, die we kunnen opstarten als 
 
 ## Hoe werkt Docker?
 
@@ -43,7 +48,7 @@ Oude manier:
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODIxNDI2LDE3MTkzMDc3MTAsNjYyNT
-A3NjYsLTE1NjE0NjM1NjEsODQzNTIxMTksMTQzMjYzNDYxMl19
-
+eyJoaXN0b3J5IjpbMTcwMDAzMTIzOSwxNzE5MzA3NzEwLDY2Mj
+UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
+fQ==
 -->
