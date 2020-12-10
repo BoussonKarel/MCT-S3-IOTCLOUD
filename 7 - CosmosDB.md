@@ -146,11 +146,12 @@ Veel gebruikt voor data analyse systemen
 
 ### CosmosDB
 - Globaal gedistribueerde database
-- Data troughput schaalbaar
-  - Scale up and down w
-- 
++ Data troughput schaalbaar
+  + Scale up and down wanneer je maar wilt
+- Meerdere data modellen en API's beschikbaar
+  - *Document DB API, MongoDB API, Gremlin API...*
+  - Zeer belangrijk bij migratie
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjExNzgxOTQsLTIwNDkxMzgzNjddfQ
-==
+eyJoaXN0b3J5IjpbMTg3Nzg2MzE1NywtMjA0OTEzODM2N119
 -->
