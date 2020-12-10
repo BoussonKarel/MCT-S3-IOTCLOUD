@@ -171,9 +171,7 @@ Scale Out
 | -- | -- | -- |
 
 - SQL Server Cloud Based
-  - Compatible met SQL Server 2012
-  - Te beheren via Enterprise Manager
-  - Werkt zoals een gewone SQL Server
+  - Beheren via Entreprise manager
   - Connecteren mogelijk via *.NET, Python, PHP, Node…*
   - High Availability
     - Replicatie over drie servers (default)
@@ -182,7 +180,9 @@ Scale Out
  - Database draait op een server
 - Verschillende pricing mogelijkheden
 ---
- - Security: IP Adres instellen in Firewall
+Security
+: IP Adres instellen in Firewall
+
 ---
 ### Azure DTU
 Database Transaction Units
@@ -249,11 +249,11 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTk0NDMwNyw2NDI3ODg3LDUwOTk3MT
-A0OSwxNjQwODY3ODE1LC0xNTgzMzg0OCwtMTUwNjMwMDI3LDEw
-MTQzODEwMDYsLTczMTQyMjcxMCwxMzE2MzU1ODYxLDEyODQ1OT
-Y1NDUsMjA4MTUwMTMwOCwtMTE4NDczODA2NCwtMTg1NTY2OTM2
-MSwtODU5OTE2MjkyLC0xNDE4OTM5NDg0LC0yNDAwODg5ODMsLT
-YwOTg0MjUyOCwzMTc2MTY2NjAsLTE3OTE1OTk3NTgsMTkxMzUx
-NDAwXX0=
+eyJoaXN0b3J5IjpbMTkxMjc4MTgzNSwxMTkxOTQ0MzA3LDY0Mj
+c4ODcsNTA5OTcxMDQ5LDE2NDA4Njc4MTUsLTE1ODMzODQ4LC0x
+NTA2MzAwMjcsMTAxNDM4MTAwNiwtNzMxNDIyNzEwLDEzMTYzNT
+U4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMTg0NzM4MDY0
+LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5Mzk0ODQsLT
+I0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MCwtMTc5MTU5
+OTc1OF19
 -->
