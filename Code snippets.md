@@ -49,8 +49,27 @@ public static void MQTTListener(
 }
 ```
 
+## MQTT Send
+
+[FunctionName("GratisMode")]
+public static IActionResult GratisMode(
+[HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = "parking/mode")] HttpRequest req,
+ILogger log, [Mqtt] out IMqttMessage outMessage, ILogger logger)
+{
+            string requestBody = new StreamReader(req.Body).ReadToEnd();
+
+            ModeObject m = JsonConvert.DeserializeObject<ModeObject>(requestBody);
+
+            string json = "{\"isTrue\" : \"" +  m.isTrue + "\"}";
+
+
+            outMessage = new MqttMessage("/lennertdefauw/mode", Encoding.ASCII.GetBytes(json), MqttQualityOfServiceLevel.AtLeastOnce, true);
+
+            return new StatusCodeResult(200);
+        }
+
 ## IoTHub Connection string
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUxNzU0MCwxODE5NjIyMzc5LDIwMj
-EyNTEwMDUsMTA5OTk3NjgzOV19
+eyJoaXN0b3J5IjpbLTE5MDE3NzkyNiwtMTM4NTE3NTQwLDE4MT
+k2MjIzNzksMjAyMTI1MTAwNSwxMDk5OTc2ODM5XX0=
 -->
