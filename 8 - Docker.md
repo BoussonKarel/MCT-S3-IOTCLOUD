@@ -173,6 +173,9 @@ Docker is **stateless**, bij het stopzetten verliezen we alle info
   + Mappen van storage uit Cloud / lokale PC schijf
   + Database zal daar zijn gegevens wegschrijven
   + Volume aanmaken
+    + ```docker volume create todo-db```
+  + Volume opgeven bij opstarten van container via parameter
+    + ```docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started```
 
 ## Belangrijk
 - Wat is docker?
@@ -184,7 +187,7 @@ Docker is **stateless**, bij het stopzetten verliezen we alle info
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjQzMzYyLC0xMTMzODIwNzQ4LDEzNz
+eyJoaXN0b3J5IjpbNzU5MDM2MzAxLC0xMTMzODIwNzQ4LDEzNz
 IwMzMxNzgsLTEwMzE0NzI2OTYsMTczODgwNzA2OSw4MjUzMjI4
 NjgsMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MTQ2MzU2MSw4ND
 M1MjExOSwxNDMyNjM0NjEyXX0=
