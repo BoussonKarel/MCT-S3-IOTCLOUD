@@ -36,37 +36,23 @@ print("Het resultaat is {}".format(obj["quotient"]))
 
 ## Azure Functions - basics
 Sending information in the **body** using **POST**
+
 ```csharp
-[FunctionName("HelloWorld")] // azure function name
-public static async Task<IActionResult> HelloWorld( // c# function name
-            [HttpTrigger(AuthorizationLevel.Anonymous, "post", Route = "helloworld")] HttpRequest req,
-            ILogger log)
-
-{
-	log.LogInformation("C# HTTP trigger function processed a request.");
-
-	// Body (bytes) inlezen en omvormen naar een json string die je terugkrijgt
-	string requestBody = await new 	StreamReader(req.Body).ReadToEndAsync();
-	// Declareren een variabele v type SomRequest
-	// Roepen JsonConvert.DeserializeObject
-	// Parameter: jsonString
-	// Omzetten naar een C# object, welk? Geef je mee tussen <>
-	SomRequest somRequest = JsonConvert.DeserializeObject<SomRequest>(requestBody);
-
-	// OkObjectResult gaat het automatisch serializen
-	return new OkObjectResult(new SomResponse() { Resultaat = somRequest.Getal1 + somRequest.Getal2 });
-}
-```
-Parameters meegeven in de URL
-```csharp
-[FunctionName("HelloWorld")] // azure function name
-public static async Task<IActionResult> HelloWorld( // c# function name
-	[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "helloworld/{parameterNaam}")] HttpRequest req,
-	string parameterNaam,
+[FunctionName("GET_noParams")]
+public static async Task<IActionResult> Get_noParams(
+	[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "getroute")] HttpRequest req,
 	ILogger log)
 {
-	// Nu kan je parameterNaam gebruiken
-	return new OkObjectResult("");
+	try
+	{
+		//Can also return the structure of a class
+		return new OkObjectResult("I returned something :)");
+	}
+	catch (Exception e)
+	{
+		//Returned http status code
+		return new StatusCodeResult(500);
+	}
 }
 ```
 ## SQL Server
@@ -264,6 +250,6 @@ private static async Task SendEmailMessage(Registration reg)
 Registration reg = JsonConvert.DeserializeObject<Registration>(myQueueItem);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjU2NTkzMCwyMDIxMjUxMDA1LDEwOT
-k5NzY4MzldfQ==
+eyJoaXN0b3J5IjpbNDQ5MjIwMDY3LDIwMjEyNTEwMDUsMTA5OT
+k3NjgzOV19
 -->
