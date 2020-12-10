@@ -6,7 +6,11 @@
 - Docker Registry
 - Basiscommando's
 ## Wat is Docker?
-
+### Deployment van applicaties
+Oude manier:
+- Verschillende applicaties op één server.
+- Server bevat
+- 
 ## Hoe werkt Docker?
 
 ## Basiscommando's
@@ -35,6 +39,6 @@
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTA3NjYsLTE1NjE0NjM1NjEsODQzNT
-IxMTksMTQzMjYzNDYxMl19
+eyJoaXN0b3J5IjpbMTcxOTMwNzcxMCw2NjI1MDc2NiwtMTU2MT
+Q2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEyXX0=
 -->
