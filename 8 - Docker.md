@@ -82,6 +82,7 @@ Docker Client
 | docker rmi | Verwijderen image |
 
 ## Dockerfile
+File zonder extensie 
 
 ## Build Image
 
@@ -105,7 +106,7 @@ Docker Client
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMzY2ODYyLDE3Mzg4MDcwNjksODI1Mz
-IyODY4LDE3MTkzMDc3MTAsNjYyNTA3NjYsLTE1NjE0NjM1NjEs
-ODQzNTIxMTksMTQzMjYzNDYxMl19
+eyJoaXN0b3J5IjpbMTM4Mjk5Mzk2MSwxNzM4ODA3MDY5LDgyNT
+MyMjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2LC0xNTYxNDYzNTYx
+LDg0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
 -->
