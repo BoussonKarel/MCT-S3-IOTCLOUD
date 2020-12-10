@@ -1,5 +1,4 @@
 # 3 - Azure Storage
-- Opslag van data in Cloud omgeving
 - Zeer flexibel in gebruik en prijs
 - Unlimited storage *(limiet ligt hoog)*
 - Basis voor heel wat Azure Services
@@ -13,7 +12,6 @@ Vijf soorten storage
 : Table
 
 Alles komt samen onder een **Azure Storage Account**, hierbinnen maak je de soorten storage aan.
-
 ![Azure Storage Account](https://i.imgur.com/c4F4KtA.png)
 
 ## Azure Files
@@ -231,7 +229,7 @@ Bij ontvangst van een bericht op de queue
 - Wat is SendGrid?
 - Good practices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTI3NjIxOCw4MzYwMDAwNjEsLTIxMz
-A0MjIxMzUsMTMwMTM0NTA4OSw0MDQzNzk3ODQsLTE3NDE4ODc5
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTExMTA4ODQ4NiwtODE5Mjc2MjE4LDgzNj
+AwMDA2MSwtMjEzMDQyMjEzNSwxMzAxMzQ1MDg5LDQwNDM3OTc4
+NCwtMTc0MTg4Nzk5MV19
 -->
