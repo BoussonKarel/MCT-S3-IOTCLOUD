@@ -23,9 +23,7 @@
 - Geen eigen hardware
 - **Virtual Machines** in Cloud omgeving
 - **Verantwoordelijkheid:**
-  - Configureren
-  - Beveiligen
-  - Updaten
+  - *Configureren, beveiligen, updaten*
 - **Vrijheid:** software
 - Zelf scaling doen (soms auto)
 - Migratie On Premise --> Cloud
@@ -269,9 +267,9 @@ Alles wat je via UI kan, kan via commandline in portal
  - Wat is throttling?
  - Wat is een Azure Web App?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDM4MTAwNiwtNzMxNDIyNzEwLDEzMT
-YzNTU4NjEsMTI4NDU5NjU0NSwyMDgxNTAxMzA4LC0xMTg0NzM4
-MDY0LC0xODU1NjY5MzYxLC04NTk5MTYyOTIsLTE0MTg5Mzk0OD
-QsLTI0MDA4ODk4MywtNjA5ODQyNTI4LDMxNzYxNjY2MCwtMTc5
-MTU5OTc1OCwxOTEzNTE0MDBdfQ==
+eyJoaXN0b3J5IjpbMTc2NDMwMzY2MCwxMDE0MzgxMDA2LC03Mz
+E0MjI3MTAsMTMxNjM1NTg2MSwxMjg0NTk2NTQ1LDIwODE1MDEz
+MDgsLTExODQ3MzgwNjQsLTE4NTU2NjkzNjEsLTg1OTkxNjI5Mi
+wtMTQxODkzOTQ4NCwtMjQwMDg4OTgzLC02MDk4NDI1MjgsMzE3
+NjE2NjYwLC0xNzkxNTk5NzU4LDE5MTM1MTQwMF19
 -->
