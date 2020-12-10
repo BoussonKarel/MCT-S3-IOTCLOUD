@@ -67,8 +67,16 @@ Docker Client
     - Azure Container Registry
   - Container opzetten in Cloud omgeving op basis van Image uit de Registry
 
+![](https://i.imgur.com/HE9awAO.png)
 
 ## Basiscommando's
+| Commando | |
+|--|--|
+| docker pull nginx | Download image "nginx" van Docker Hub |
+| docker images | Overzicht images op het systeem |
+| docker run -p 80:80 nginx | Download image "nginx" van Docker Hub |
+| docker pull nginx | Download image "nginx" van Docker Hub |
+| docker pull nginx | Download image "nginx" van Docker Hub |
 
 ## Dockerfile
 
@@ -94,7 +102,7 @@ Docker Client
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA2NDE2MzIsMTcxOTMwNzcxMCw2Nj
-I1MDc2NiwtMTU2MTQ2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEy
-XX0=
+eyJoaXN0b3J5IjpbLTc1MjM2NDQ1OCwxNzE5MzA3NzEwLDY2Mj
+UwNzY2LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJd
+fQ==
 -->
