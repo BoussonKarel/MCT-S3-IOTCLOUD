@@ -84,6 +84,7 @@ Docker Client
 ## Dockerfile
 File zonder extensie met als naam "Dockerfile"
 
+**Beschrijft build proces image**
 
 
 ## Build Image
@@ -109,7 +110,7 @@ File zonder extensie met als naam "Dockerfile"
 - Wat zijn de manieren om bij docker applicaties correcte de data te kunnen wegschrijven?
 -   Wat zijn volumes?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkxMjM5ODgsLTEwMzE0NzI2OTYsMT
-czODgwNzA2OSw4MjUzMjI4NjgsMTcxOTMwNzcxMCw2NjI1MDc2
-NiwtMTU2MTQ2MzU2MSw4NDM1MjExOSwxNDMyNjM0NjEyXX0=
+eyJoaXN0b3J5IjpbLTYzNDIxNDI3MSwtMTAzMTQ3MjY5NiwxNz
+M4ODA3MDY5LDgyNTMyMjg2OCwxNzE5MzA3NzEwLDY2MjUwNzY2
+LC0xNTYxNDYzNTYxLDg0MzUyMTE5LDE0MzI2MzQ2MTJdfQ==
 -->
