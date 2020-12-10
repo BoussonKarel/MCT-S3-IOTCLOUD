@@ -179,7 +179,16 @@ Belangrijke parameters
   - CosmosDB Trigger
   - *(Bij toevoegen documenten)*
 - Time To Live
+  - Automatisch verwijderen van items na x aantal tijd
+  - Container / item niveau
+- Stored procedures
+  - Functies in de database
+  - Schrijven van compelxe queries
+  - Werken op collection niveau
+  - Aanroepen via API of portal
+  - Javascript
+- UDF (Us
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk5OTkzNiwxMjM2NzczNzgsMTg3Nz
+eyJoaXN0b3J5IjpbMTQxNzA5NzgxNSwxMjM2NzczNzgsMTg3Nz
 g2MzE1NywtMjA0OTEzODM2N119
 -->
