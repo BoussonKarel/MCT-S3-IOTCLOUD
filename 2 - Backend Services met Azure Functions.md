@@ -61,7 +61,7 @@ OSI: *Application Layer*
 + HTTP is **niet sessionless**, we kunnen cookies gebruiken om data bij te houden
 + HTTP is relatief eenvoudig
 
-#### HTTP Verbs
+### HTTP Verbs
 | HTTP Verb | Waarvoor wordt het gebruikt |
 |--|--|
 | **GET** | Ophalen data (safe, wijzigt niks) (**SELECT**) |
@@ -69,7 +69,7 @@ OSI: *Application Layer*
 | **PUT** | Idempotent > Meerdere requests > Zelfde effect (**UPDATE**) |
 | **DELETE** | Idempotent > Meerdere requests > Zelfde effect (**DELETE**) |
 
-#### HTTP Status codes
+### HTTP Status codes
 | Status code| Betekenis |
 |--|--|
 | **1xx** | Informatief |
@@ -80,7 +80,7 @@ OSI: *Application Layer*
 
 ### HTTPS
 - Beveiligen van transport
-- Geen beveiliging van de data
+- ~~Beveiligen van de data~~
 - Defacto standaard: zonder HTTP niet in productie plaatsen.
 
 ### HTTP Request
@@ -343,8 +343,8 @@ HttpClient > Zie **Device Programming**
 - Welk soorten Azure Functions zijn er?
 - Wat is een cron expression?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA1NTMwNzksNzU3MTI2MjA2LDEyOT
-k3OTcwODIsMzgxODI1MDExLDY0NDE2NjM5OSw4NjE2ODYzMTgs
-MjA3Mjc2MDk0MywtMTQzNjgzODk5OCwxNDMwOTMxMzk4LC0xOD
-g0MTYwNjc0LDE5NjUyNzgxOCwtMjEyOTkxNDA5XX0=
+eyJoaXN0b3J5IjpbLTM0NDAzNzU2Nyw3NTcxMjYyMDYsMTI5OT
+c5NzA4MiwzODE4MjUwMTEsNjQ0MTY2Mzk5LDg2MTY4NjMxOCwy
+MDcyNzYwOTQzLC0xNDM2ODM4OTk4LDE0MzA5MzEzOTgsLTE4OD
+QxNjA2NzQsMTk2NTI3ODE4LC0yMTI5OTE0MDldfQ==
 -->
